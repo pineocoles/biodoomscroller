@@ -5,7 +5,7 @@
       "topics": [
         {
           "name": "Transport",
-          "path": "questions/unit01-transport",
+          "path": "questions",
           "files": [
             "q001.json",
             "q002.json",
@@ -27,7 +27,7 @@
       "topics": [
         {
           "name": "Homeostasis",
-          "path": "questions/unit02-homeostasis",
+          "path": "questions",
           "files": [
             "q011.json",
             "q012.json",
@@ -47,7 +47,7 @@
       "topics": [
         {
           "name": "Neural Signaling",
-          "path": "questions/unit03-neural-signaling",
+          "path": "questions",
           "files": [
             "q019.json",
             "q020.json",
@@ -69,7 +69,7 @@
       "topics": [
         {
           "name": "Integration of Body Systems",
-          "path": "questions/unit04-integration-body-systems",
+          "path": "questions",
           "files": [
             "q029.json",
             "q030.json",
@@ -89,7 +89,7 @@
       "topics": [
         {
           "name": "Defense Against Disease",
-          "path": "questions/unit05-defense-against-disease",
+          "path": "questions",
           "files": [
             "q037.json",
             "q038.json",
@@ -111,7 +111,7 @@
       "topics": [
         {
           "name": "Reproduction",
-          "path": "questions/unit06-reproduction",
+          "path": "questions",
           "files": [
             "q047.json",
             "q048.json",
@@ -131,7 +131,7 @@
       "topics": [
         {
           "name": "Populations and Communities",
-          "path": "questions/unit07-populations-communities",
+          "path": "questions",
           "files": [
             "q055.json",
             "q056.json",
@@ -151,7 +151,7 @@
       "topics": [
         {
           "name": "Energy and Matter Transfer",
-          "path": "questions/unit08-energy-matter-transfer",
+          "path": "questions",
           "files": [
             "q063.json",
             "q064.json",
@@ -171,7 +171,7 @@
       "topics": [
         {
           "name": "Photosynthesis",
-          "path": "questions/unit09-photosynthesis",
+          "path": "questions",
           "files": [
             "q071.json",
             "q072.json",
@@ -191,7 +191,7 @@
       "topics": [
         {
           "name": "Extended Response Prep",
-          "path": "questions/unit10-extended-response-prep",
+          "path": "questions",
           "files": [
             "q079.json",
             "q080.json",
