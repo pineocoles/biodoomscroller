@@ -1,0 +1,11 @@
+{
+  "q": "Water transport in plants: Which combination of forces drives the movement of water from roots to leaves via xylem?",
+  "options": [
+    "Root pressure alone forces water up via osmosis at each xylem vessel junction",
+    "Capillary action is the sole mechanism; adhesion to xylem walls pulls water all the way to the canopy",
+    "Transpiration pull (tension from evaporation) combined with cohesion among water molecules and adhesion to xylem walls, supplemented by root pressure",
+    "Active transport pumps embedded in xylem vessels use ATP to push water toward leaves"
+  ],
+  "correct": 2,
+  "explanation": "The cohesion-tension model combines: transpiration pull creating negative pressure, cohesion keeping the water column intact, adhesion preventing column breakage, and root pressure contributing at the base."
+}

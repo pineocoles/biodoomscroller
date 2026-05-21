@@ -1,0 +1,11 @@
+{
+  "q": "What is the key physiological difference between Type 1 and Type 2 diabetes?",
+  "options": [
+    "Type 1 results from insulin resistance in target cells; Type 2 from destruction of alpha cells",
+    "Type 1 is caused by autoimmune destruction of beta cells, eliminating insulin production; Type 2 involves insulin resistance in target cells with insufficient compensatory insulin",
+    "Type 1 only occurs in adults; Type 2 is exclusively a childhood disease",
+    "Both types involve excess glucagon but differ only in the degree of hyperglycemia"
+  ],
+  "correct": 1,
+  "explanation": "In Type 1, the immune system destroys beta cells so no insulin is made; in Type 2, cells become resistant to insulin's signal, and beta cells may eventually fail to compensate."
+}

@@ -1,0 +1,11 @@
+{
+  "q": "Which correctly distinguishes an ecosystem carbon sink from a carbon source?",
+  "options": [
+    "A carbon sink releases more CO2 than it absorbs; a carbon source absorbs more than it releases",
+    "A carbon sink accumulates more carbon than it releases (net absorption); a carbon source releases more carbon than it absorbs (net emission)",
+    "A sink and source differ only in location: ocean sinks are polar; terrestrial sources are tropical",
+    "Carbon sinks only apply to geological storage; living ecosystems are always carbon sources"
+  ],
+  "correct": 1,
+  "explanation": "Old-growth forests and healthy oceans are sinks; degraded peatlands and deforested areas often become sources, releasing stored carbon as CO2 or methane."
+}

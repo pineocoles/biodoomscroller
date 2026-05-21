@@ -1,0 +1,11 @@
+{
+  "q": "What is the role of the sinoatrial node (SAN) in the cardiac cycle?",
+  "options": [
+    "It prevents backflow of blood between atria and ventricles",
+    "It acts as the pacemaker, generating electrical impulses that initiate each heartbeat",
+    "It oxygenates blood before it enters the left ventricle",
+    "It regulates blood pressure by sensing aortic stretch"
+  ],
+  "correct": 1,
+  "explanation": "The SAN in the right atrium sets the rhythm of the heart by spontaneously generating electrical signals that spread across both atria and then to the ventricles via the AV node."
+}

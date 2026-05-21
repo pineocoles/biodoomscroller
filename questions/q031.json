@@ -1,0 +1,11 @@
+{
+  "q": "Melatonin modulates sleep patterns through which mechanism?",
+  "options": [
+    "It stimulates the reticular activating system to increase arousal and wakefulness",
+    "It is released by the pineal gland in response to darkness and promotes sleepiness by reducing core alertness signals",
+    "It is secreted by the hypothalamus during daylight to reset the circadian clock",
+    "It blocks adenosine receptors in the brain, similar to caffeine"
+  ],
+  "correct": 1,
+  "explanation": "The pineal gland releases melatonin when light levels fall; melatonin signals the body that it is nighttime, promoting sleep onset by lowering core body temperature and alertness."
+}

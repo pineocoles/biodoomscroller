@@ -1,0 +1,11 @@
+{
+  "q": "Random quadrat sampling is most appropriate for estimating the population size of which type of organism?",
+  "options": [
+    "Migratory birds that travel across large geographic ranges",
+    "Fast-moving fish in an open-water lake system",
+    "Sessile organisms like plants, barnacles, or lichens that remain in one place",
+    "Soil bacteria, which require laboratory culture to be counted"
+  ],
+  "correct": 2,
+  "explanation": "Quadrat sampling works for sessile (non-moving) organisms; randomly placed quadrats count individuals per area and extrapolate to the total habitat area."
+}

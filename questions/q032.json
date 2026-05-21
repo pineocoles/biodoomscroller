@@ -1,0 +1,11 @@
+{
+  "q": "Epinephrine (adrenaline) is released during stress. Which combination of effects does it produce?",
+  "options": [
+    "Decreased heart rate, increased digestion, constriction of bronchioles",
+    "Vasodilation of skin vessels, decreased blood glucose, slowed reflexes",
+    "Increased heart rate, elevated blood glucose, dilation of bronchioles, reduced digestive activity",
+    "Decreased cardiac output, increased insulin secretion, enhanced lymphocyte activity"
+  ],
+  "correct": 2,
+  "explanation": "Epinephrine triggers the \"fight or flight\" response: faster heart rate, glycogen breakdown for glucose, bronchodilation for more oxygen, and shunting blood away from digestion to muscles."
+}

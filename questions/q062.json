@@ -1,0 +1,11 @@
+{
+  "q": "Which best describes the difference between intraspecific and interspecific competition?",
+  "options": [
+    "Intraspecific competition occurs between different species; interspecific occurs within the same species",
+    "Intraspecific competition is always more intense than interspecific competition in stable ecosystems",
+    "Intraspecific competition occurs among individuals of the same species competing for the same limited resources; interspecific competition occurs between individuals of different species",
+    "Intraspecific competition leads to mutualism; interspecific competition always leads to one species going locally extinct"
+  ],
+  "correct": 2,
+  "explanation": "Intraspecific = within one species (e.g., deer competing for grazing); interspecific = between different species (e.g., deer and sheep competing for the same grass)."
+}

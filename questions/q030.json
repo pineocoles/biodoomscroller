@@ -1,0 +1,11 @@
+{
+  "q": "What is the primary role of the cerebellum in body integration?",
+  "options": [
+    "Controlling conscious decision-making and language production",
+    "Regulating heart rate and breathing via the autonomic nervous system",
+    "Coordinating smooth, precise muscle movement and maintaining balance",
+    "Processing visual input from the retina and directing eye movement"
+  ],
+  "correct": 2,
+  "explanation": "The cerebellum receives sensory input about body position and compares it to intended movement commands, fine-tuning motor output to produce coordinated, accurate motion."
+}

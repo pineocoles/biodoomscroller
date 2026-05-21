@@ -1,0 +1,11 @@
+{
+  "q": "Where does the oxygen released during photosynthesis come from?",
+  "options": [
+    "From the splitting of CO2 molecules during the Calvin cycle",
+    "From O2 dissolved in the stroma of the chloroplast",
+    "From the photolysis (light-driven splitting) of water molecules in the thylakoid membrane",
+    "From the oxidation of glucose intermediates in the light-independent reactions"
+  ],
+  "correct": 2,
+  "explanation": "Water is split by light energy (photolysis) in the thylakoid; the O2 released is a by-product of this reaction, not from CO2 splitting."
+}

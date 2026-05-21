@@ -1,0 +1,11 @@
+{
+  "q": "What is the principle behind vaccination?",
+  "options": [
+    "Vaccines introduce fully virulent pathogens so the body can practice eliminating them in a controlled setting",
+    "Vaccines provide preformed antibodies from another organism so the host doesn't need to make its own",
+    "Vaccines expose the immune system to antigens (from killed/weakened pathogens or their components) to stimulate a primary immune response and memory cell formation without causing disease",
+    "Vaccines permanently alter host DNA to encode resistance genes against specific pathogens"
+  ],
+  "correct": 2,
+  "explanation": "Vaccines present antigens in a safe form; the adaptive immune system mounts a primary response and retains memory B and T cells, enabling a rapid secondary response upon real exposure."
+}

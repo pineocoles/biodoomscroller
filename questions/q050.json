@@ -1,0 +1,11 @@
+{
+  "q": "What does the placenta provide during fetal development?",
+  "options": [
+    "It produces all fetal red blood cells and immune cells from placental stem cells",
+    "It acts as the interface for gas exchange, nutrient delivery, and waste removal between fetal and maternal blood, while also secreting hormones like hCG and progesterone to maintain pregnancy",
+    "It filters fetal urine and releases it into the amniotic fluid before it reaches the mother's blood",
+    "It stores oxygen and glucose that the fetus can access independently of the mother's circulation"
+  ],
+  "correct": 1,
+  "explanation": "The placenta allows diffusion of O2 and nutrients from maternal to fetal blood and CO2/waste in the opposite direction; it also secretes hCG (early pregnancy) and later progesterone and estrogen to sustain the uterine lining."
+}

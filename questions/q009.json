@@ -1,0 +1,11 @@
+{
+  "q": "During diastole in the cardiac cycle, which event occurs?",
+  "options": [
+    "The ventricles contract and push blood into the aorta and pulmonary artery",
+    "The atrioventricular valves close, producing the first heart sound",
+    "The heart muscle relaxes, ventricles fill with blood from the atria",
+    "Semilunar valves open as ventricular pressure rises above arterial pressure"
+  ],
+  "correct": 2,
+  "explanation": "Diastole is the relaxation phase; the heart muscle is at rest, and the ventricles passively fill with blood flowing in from the atria."
+}

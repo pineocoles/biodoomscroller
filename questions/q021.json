@@ -1,0 +1,11 @@
+{
+  "q": "What is saltatory conduction and why does it increase the speed of nerve impulses?",
+  "options": [
+    "It is the simultaneous firing of all neurons in a nerve bundle, increasing signal strength",
+    "The action potential jumps between nodes of Ranvier on myelinated axons, reducing the distance the impulse must travel continuously",
+    "Sodium ions are actively transported along the axon surface to boost signal velocity",
+    "It describes the all-or-nothing amplification of weak signals at each axon segment"
+  ],
+  "correct": 1,
+  "explanation": "In myelinated axons, the insulating myelin sheath forces ionic currents to jump between exposed nodes of Ranvier, drastically increasing conduction speed compared to unmyelinated fibers."
+}

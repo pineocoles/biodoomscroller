@@ -1,0 +1,11 @@
+{
+  "q": "Which statement correctly describes the lymphatic system's role in fluid balance?",
+  "options": [
+    "Lymphatic vessels return excess tissue fluid directly to the liver for detoxification",
+    "Lymph capillaries actively pump fluid back into the venous system using muscular contractions",
+    "Excess tissue fluid not reabsorbed at the venous end of capillaries drains into lymph ducts and is returned to blood",
+    "The lymphatic system produces plasma proteins to maintain osmotic pressure in capillaries"
+  ],
+  "correct": 2,
+  "explanation": "Not all tissue fluid is reabsorbed at the venous end of capillaries; the excess enters blind-ended lymph capillaries and is eventually returned to the bloodstream at the subclavian veins."
+}

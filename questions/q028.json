@@ -1,0 +1,11 @@
+{
+  "q": "Summation at a postsynaptic neuron refers to which process?",
+  "options": [
+    "The neurotransmitter molecules are added together to form a larger molecule in the cleft",
+    "Multiple EPSPs and/or IPSPs from different or repeated presynaptic inputs are integrated; if threshold is reached, an action potential fires",
+    "The postsynaptic neuron counts the number of vesicles released and fires only when a set number is reached",
+    "Voltage-gated channels sum their conductances to determine resting potential"
+  ],
+  "correct": 1,
+  "explanation": "Spatial and temporal summation integrate multiple inputs; if the sum of EPSPs minus IPSPs reaches threshold at the axon hillock, an action potential is generated."
+}

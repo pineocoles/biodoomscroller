@@ -1,0 +1,11 @@
+{
+  "q": "During cold exposure, which thermoregulatory response reduces heat loss in humans?",
+  "options": [
+    "Vasodilation of skin arterioles to radiate more heat",
+    "Activation of eccrine sweat glands to increase evaporative cooling",
+    "Vasoconstriction of skin blood vessels to reduce blood flow to the body surface",
+    "Dilation of pupils to increase heat absorption from the environment"
+  ],
+  "correct": 2,
+  "explanation": "Vasoconstriction in skin arterioles reduces blood flow near the surface, minimizing heat loss by radiation and conduction to the environment."
+}

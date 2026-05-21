@@ -1,0 +1,11 @@
+{
+  "q": "How do antibiotics eliminate bacterial infections without harming eukaryotic host cells?",
+  "options": [
+    "Antibiotics disrupt the human cell membrane, releasing bacteria trapped inside",
+    "Antibiotics target structures unique to bacteria (70S ribosomes, peptidoglycan cell walls, unique metabolic enzymes) absent in eukaryotic cells",
+    "Antibiotics stimulate the human immune system to produce more antibodies",
+    "Antibiotics lower body temperature so bacteria cannot replicate at cooler conditions"
+  ],
+  "correct": 1,
+  "explanation": "Bacterial cells have structural and molecular features not found in eukaryotes (e.g., 70S ribosomes, peptidoglycan walls); antibiotics exploit these differences to kill bacteria selectively."
+}

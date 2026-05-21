@@ -1,0 +1,11 @@
+{
+  "q": "What is the key genetic difference between sexual and asexual reproduction?",
+  "options": [
+    "Asexual reproduction produces offspring with double the genetic material of the parent",
+    "Sexual reproduction requires two parents and produces genetically unique offspring via meiosis and fertilization; asexual reproduction produces genetically identical clones via mitosis",
+    "Sexual reproduction always produces more offspring per cycle than asexual reproduction",
+    "Asexual reproduction involves meiosis; sexual reproduction involves mitosis of gametes"
+  ],
+  "correct": 1,
+  "explanation": "Sexual reproduction combines gametes from two parents, generating genetic variation through meiosis (crossing over, independent assortment) and random fertilization; asexual reproduction copies parental DNA exactly."
+}

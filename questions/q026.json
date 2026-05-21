@@ -1,0 +1,11 @@
+{
+  "q": "The refractory period after an action potential serves which function?",
+  "options": [
+    "It allows the neuron to generate a stronger signal for the next impulse",
+    "It ensures impulses travel in only one direction by preventing restimulation of already-fired membrane segments",
+    "It gives synaptic vesicles time to migrate from the cell body to the axon terminal",
+    "It allows myelin to reform around the axon before the next signal"
+  ],
+  "correct": 1,
+  "explanation": "During the refractory period, Na+ channels are inactivated and cannot reopen; this prevents backward propagation and ensures unidirectional travel of the action potential."
+}

@@ -1,0 +1,11 @@
+{
+  "q": "Which sequence correctly describes synaptic transmission at a cholinergic synapse?",
+  "options": [
+    "Postsynaptic neuron depolarizes → vesicles fuse → ACh released → receptor binding",
+    "Action potential arrives at axon terminal → Ca2+ channels open → vesicles fuse with membrane → ACh released into cleft → binds postsynaptic receptors → EPSP generated",
+    "ACh diffuses across synapse → presynaptic membrane depolarizes → vesicles fill with neurotransmitter",
+    "Reuptake pumps release ACh → postsynaptic receptors open → K+ enters postsynaptic cell"
+  ],
+  "correct": 1,
+  "explanation": "Arrival of an action potential opens voltage-gated Ca2+ channels; Ca2+ influx triggers vesicle fusion and ACh release into the synaptic cleft where it binds receptors to generate an EPSP."
+}

@@ -1,0 +1,11 @@
+{
+  "q": "Which of the following is a limiting factor for photosynthesis that can be experimentally varied?",
+  "options": [
+    "The genetic code of the plant's photosynthetic enzymes",
+    "The number of chloroplasts per cell, which remains constant in mature leaves",
+    "Light intensity, carbon dioxide concentration, and temperature",
+    "The wavelength of sound waves near the plant, which affects stomatal opening"
+  ],
+  "correct": 2,
+  "explanation": "CO2 concentration, light intensity, and temperature are the three classic limiting factors for photosynthesis; increasing any one of them (when it is limiting) raises the rate of photosynthesis."
+}

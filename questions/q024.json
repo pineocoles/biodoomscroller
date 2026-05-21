@@ -1,0 +1,11 @@
+{
+  "q": "Neonicotinoids affect insect nervous systems by which mechanism?",
+  "options": [
+    "They block voltage-gated Na+ channels, preventing action potentials in insect neurons",
+    "They bind irreversibly to nicotinic acetylcholine receptors on insect neurons, causing continuous excitation",
+    "They inhibit acetylcholinesterase, preventing ACh breakdown at neuromuscular junctions",
+    "They mimic GABA and cause hyperpolarization of insect motor neurons"
+  ],
+  "correct": 1,
+  "explanation": "Neonicotinoids are nicotinic acetylcholine receptor agonists; they bind and continuously activate these receptors in insect nervous systems, causing paralysis and death."
+}

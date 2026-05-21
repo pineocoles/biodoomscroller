@@ -1,0 +1,11 @@
+{
+  "q": "During the ovarian cycle, which hormone triggers ovulation?",
+  "options": [
+    "Progesterone surge from the corpus luteum on day 14",
+    "A sharp rise in estrogen causes a surge in LH from the anterior pituitary, triggering ovulation",
+    "FSH from the hypothalamus directly causes the follicle to rupture",
+    "Human chorionic gonadotropin (hCG) peaks and stimulates the dominant follicle to release the oocyte"
+  ],
+  "correct": 1,
+  "explanation": "Rising estrogen from the maturing follicle triggers a positive feedback LH surge from the anterior pituitary around day 14, causing the follicle to rupture and release the secondary oocyte."
+}

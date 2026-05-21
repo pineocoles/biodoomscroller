@@ -1,0 +1,11 @@
+{
+  "q": "What happens to the rate of photosynthesis as light intensity increases beyond the light saturation point?",
+  "options": [
+    "The rate continues to increase linearly without limit",
+    "The rate drops sharply because excess light destroys chlorophyll molecules",
+    "The rate plateaus because another factor (CO2 concentration or enzyme activity) becomes limiting",
+    "The rate reverses and the plant begins releasing CO2 instead of fixing it"
+  ],
+  "correct": 2,
+  "explanation": "Once light is no longer limiting, another factor (CO2 level, RuBisCO enzyme capacity, or temperature) becomes the new bottleneck; the rate plateaus until that factor is increased."
+}

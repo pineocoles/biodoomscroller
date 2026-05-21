@@ -1,0 +1,11 @@
+{
+  "q": "Which statement about the hierarchy of subsystems and emergent properties is correct?",
+  "options": [
+    "Emergent properties can be fully predicted by studying each individual component in isolation",
+    "Higher levels of biological organization (e.g., organisms) show properties that arise from interactions among subsystems and cannot be seen at lower levels alone",
+    "Cells have the same properties as the tissues they form; there are no new properties at higher levels",
+    "The nervous system and endocrine system do not interact; they integrate body systems independently"
+  ],
+  "correct": 1,
+  "explanation": "Emergent properties (e.g., consciousness, immune responses) arise from complex interactions among components; they cannot be predicted or observed at lower levels of organization alone."
+}

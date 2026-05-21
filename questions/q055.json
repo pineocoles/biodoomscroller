@@ -1,0 +1,11 @@
+{
+  "q": "A researcher uses the capture-mark-release-recapture method and the Lincoln Index. The formula is N = (M × C) / R. If 50 fish are marked (M), 80 are captured in the second sample (C), and 20 are recaptured (R), what is the estimated population?",
+  "options": [
+    "100",
+    "150",
+    "200",
+    "250"
+  ],
+  "correct": 2,
+  "explanation": "N = (50 × 80) / 20 = 4000 / 20 = 200. The Lincoln Index assumes equal capture probability and no immigration, emigration, births, or deaths between samples."
+}

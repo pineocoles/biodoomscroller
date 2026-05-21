@@ -1,0 +1,11 @@
+{
+  "q": "Carbon dioxide enrichment (FACE) experiments show which outcome that is relevant to future climate scenarios?",
+  "options": [
+    "Elevated CO2 always reduces plant growth because it interferes with water uptake",
+    "Increased CO2 enhances photosynthesis rates and plant growth in the short term, but nutrient limitations, species differences, and temperature interactions complicate long-term predictions",
+    "Plants quickly adapt to elevated CO2 by downregulating photosynthesis to maintain steady growth",
+    "FACE experiments show that elevated CO2 has no measurable effect on plant biomass accumulation"
+  ],
+  "correct": 1,
+  "explanation": "FACE research shows that elevated CO2 can boost photosynthesis and growth (CO2 fertilization effect), but effects vary by species and are limited by nutrients (especially nitrogen), water, and temperature changes."
+}

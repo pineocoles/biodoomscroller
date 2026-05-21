@@ -1,0 +1,11 @@
+{
+  "q": "How do phagocytes control infection?",
+  "options": [
+    "They produce antibodies that coat pathogens and signal mast cells to release histamine",
+    "They engulf pathogens by endocytosis, digest them using lysosomal enzymes, and present antigens on their surface to activate the adaptive immune system",
+    "They release perforins that punch holes in bacterial cell membranes, causing lysis",
+    "They secrete interferon that directly kills viruses in the extracellular space"
+  ],
+  "correct": 1,
+  "explanation": "Phagocytes (neutrophils, macrophages) engulf and destroy pathogens via phagocytosis; macrophages also present digested antigen fragments on MHC molecules to activate T lymphocytes, linking innate and adaptive immunity."
+}

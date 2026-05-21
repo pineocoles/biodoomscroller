@@ -1,0 +1,11 @@
+{
+  "q": "Which correctly describes spermatogenesis vs. oogenesis in terms of cell products?",
+  "options": [
+    "Spermatogenesis produces one functional sperm per primary spermatocyte; oogenesis produces four egg cells per primary oocyte",
+    "Both processes produce four equal haploid cells per meiotic division",
+    "Spermatogenesis produces four functional spermatids per primary spermatocyte; oogenesis produces one large secondary oocyte and smaller polar bodies that degenerate",
+    "Oogenesis is complete at birth; spermatogenesis begins at puberty and ends at death"
+  ],
+  "correct": 2,
+  "explanation": "Spermatogenesis yields four equal functional sperm; oogenesis divides cytoplasm unequally to produce one large egg (retaining most cytoplasm/nutrients) and non-functional polar bodies."
+}

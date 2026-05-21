@@ -1,0 +1,11 @@
+{
+  "q": "What is a pathogen?",
+  "options": [
+    "Any foreign molecule that triggers an immune response, including pollen and dust",
+    "An organism or agent (bacterium, virus, fungus, prion, or parasite) capable of causing disease in a host",
+    "A white blood cell that ingests and destroys bacteria in the bloodstream",
+    "A protein produced by the immune system to neutralize toxins"
+  ],
+  "correct": 1,
+  "explanation": "Pathogens are disease-causing agents; the term encompasses bacteria, viruses, fungi, protists, prions, and parasitic worms that can infect and harm a host."
+}

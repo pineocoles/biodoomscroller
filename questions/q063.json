@@ -1,0 +1,11 @@
+{
+  "q": "Why are ecosystems considered open systems?",
+  "options": [
+    "They have no boundaries and merge freely with other ecosystems",
+    "Both energy and matter can enter and exit; sunlight enters, heat is lost, and chemical elements cycle between the ecosystem and atmosphere or hydrosphere",
+    "They are open only to energy; matter is always conserved within a single ecosystem",
+    "Decomposers keep the system open by continuously breaking down matter and releasing it as heat"
+  ],
+  "correct": 1,
+  "explanation": "Open systems exchange both energy and matter with their surroundings; ecosystems receive solar energy, lose heat, gain CO2/nutrients from outside, and lose gases and leached minerals."
+}

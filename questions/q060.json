@@ -1,0 +1,11 @@
+{
+  "q": "The logistic growth model describes population growth that:",
+  "options": [
+    "Increases exponentially without limit as long as resources are available",
+    "Initially grows rapidly but slows as the population approaches carrying capacity (K), producing an S-shaped curve",
+    "Declines steadily due to predation until the population reaches a stable minimum",
+    "Oscillates in regular cycles between zero and maximum density"
+  ],
+  "correct": 1,
+  "explanation": "Logistic growth follows a sigmoidal (S-shaped) curve; growth is initially exponential but slows as density-dependent factors intensify near carrying capacity."
+}

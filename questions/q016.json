@@ -1,0 +1,11 @@
+{
+  "q": "What is the role of brown adipose tissue (BAT) in thermoregulation?",
+  "options": [
+    "It stores lipids that are released as glucose when blood sugar drops",
+    "It acts as an insulating layer to prevent heat loss from organs",
+    "It performs uncoupled respiration, generating heat without producing ATP",
+    "It secretes leptin to signal satiety and reduce metabolic heat production"
+  ],
+  "correct": 2,
+  "explanation": "BAT contains uncoupling protein (thermogenin) that allows the proton gradient in mitochondria to dissipate as heat rather than driving ATP synthesis, generating warmth."
+}

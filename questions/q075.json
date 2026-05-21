@@ -1,0 +1,11 @@
+{
+  "q": "In which organisms does photosynthesis occur?",
+  "options": [
+    "All living organisms, since all require glucose for respiration",
+    "Only flowering plants and mosses that possess true leaves",
+    "Plants, algae, and cyanobacteria — all of which contain chlorophyll or related pigments",
+    "Any organism living in sunlit environments, including aerobic bacteria and fungi"
+  ],
+  "correct": 2,
+  "explanation": "Photosynthesis (oxygenic) occurs in plants, algae, and cyanobacteria; these organisms share chlorophyll-based pigments and the ability to split water and fix CO2."
+}

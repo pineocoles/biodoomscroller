@@ -1,0 +1,11 @@
+{
+  "q": "Nerve impulse propagation: What is the correct sequence of ionic events during an action potential?",
+  "options": [
+    "K+ enters → membrane depolarizes → Na+ exits → repolarization occurs",
+    "Na+ channels open → Na+ influx → depolarization → K+ channels open → K+ efflux → repolarization → Na+/K+ pump restores gradient",
+    "Cl- exits → hyperpolarization → Na+ enters slowly → slow depolarization",
+    "Ca2+ enters axon → triggers Na+ release from vesicles → membrane potential changes"
+  ],
+  "correct": 1,
+  "explanation": "Action potential: voltage-gated Na+ channels open (depolarization) → peak at ~+40mV → Na+ channels close, K+ channels open (repolarization) → brief hyperpolarization → Na+/K+ pump restores resting potential."
+}

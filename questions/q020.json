@@ -1,0 +1,11 @@
+{
+  "q": "During an action potential, what causes the rapid depolarization phase?",
+  "options": [
+    "K+ rushes into the cell through voltage-gated potassium channels",
+    "Cl- is pumped out of the cell by the sodium-potassium pump",
+    "Voltage-gated Na+ channels open, allowing a rapid influx of Na+ into the axon",
+    "The myelin sheath temporarily becomes permeable to all ions"
+  ],
+  "correct": 2,
+  "explanation": "When the membrane potential reaches threshold (~-55 mV), voltage-gated Na+ channels open and Na+ floods in, rapidly depolarizing the membrane toward +40 mV."
+}

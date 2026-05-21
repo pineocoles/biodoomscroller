@@ -1,0 +1,11 @@
+{
+  "q": "Which factor does NOT increase the speed of nerve impulse conduction?",
+  "options": [
+    "Larger axon diameter",
+    "Presence of a myelin sheath",
+    "Higher temperature (within physiological range)",
+    "Greater length of the axon"
+  ],
+  "correct": 3,
+  "explanation": "Axon length does not increase speed; larger diameter, myelination, and warmer temperatures all reduce resistance or increase jump distance between nodes, speeding conduction."
+}

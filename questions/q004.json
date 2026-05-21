@@ -1,0 +1,11 @@
+{
+  "q": "A patient's coronary arteries show significant atheroma (plaque) buildup. Which sequence of consequences is most likely?",
+  "options": [
+    "Increased lumen diameter → lower blood pressure → reduced cardiac output",
+    "Occlusion of lumen → reduced oxygen to cardiac muscle → angina or myocardial infarction",
+    "Increased vasoconstriction → higher heart rate → improved perfusion",
+    "Plaque dissolves into bloodstream → emboli travel to lungs → pulmonary edema"
+  ],
+  "correct": 1,
+  "explanation": "Atheroma narrows the coronary artery lumen, reducing oxygen delivery to heart muscle, causing angina (chest pain) or infarction (cell death) if blood flow is fully blocked."
+}

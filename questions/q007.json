@@ -1,0 +1,11 @@
+{
+  "q": "Which adaptation of xylem vessels directly supports the movement of water?",
+  "options": [
+    "Xylem cells remain alive to actively pump water",
+    "Xylem cells are lignified, dead, and have no end walls, forming hollow tubes",
+    "Xylem vessels have sieve plates to filter large molecules",
+    "Xylem contains companion cells to provide energy for water transport"
+  ],
+  "correct": 1,
+  "explanation": "Xylem vessels are dead, hollow tubes reinforced with lignin; the absence of end walls allows unobstructed flow of water from root to leaf."
+}

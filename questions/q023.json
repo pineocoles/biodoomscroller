@@ -1,0 +1,11 @@
+{
+  "q": "Cocaine produces its effects by which mechanism at synapses?",
+  "options": [
+    "It mimics inhibitory neurotransmitters, hyperpolarizing postsynaptic neurons",
+    "It destroys acetylcholinesterase, prolonging ACh activity at the neuromuscular junction",
+    "It blocks the reuptake of dopamine (and norepinephrine) into the presynaptic neuron, prolonging their effects in the cleft",
+    "It opens voltage-gated Na+ channels permanently, causing continuous action potentials"
+  ],
+  "correct": 2,
+  "explanation": "Cocaine blocks monoamine reuptake transporters, preventing dopamine and norepinephrine from being cleared from the synapse, amplifying and prolonging their stimulatory effects."
+}

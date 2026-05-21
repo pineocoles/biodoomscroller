@@ -1,0 +1,11 @@
+{
+  "q": "The enteric nervous system (ENS) controls peristalsis. What is its relationship to the central nervous system?",
+  "options": [
+    "The ENS requires constant CNS instruction for every peristaltic contraction",
+    "The ENS operates autonomously but can be modulated by the CNS via sympathetic and parasympathetic signals",
+    "The CNS directly controls each smooth muscle cell in the gut wall individually",
+    "Peristalsis is purely hormonal; the ENS plays no role in its coordination"
+  ],
+  "correct": 1,
+  "explanation": "The ENS can coordinate peristalsis independently; the CNS modulates it (sympathetic input slows gut motility; parasympathetic speeds it), but the gut can function without the brain."
+}

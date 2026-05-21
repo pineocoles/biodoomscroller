@@ -1,0 +1,11 @@
+{
+  "q": "Which of the following is a zoonotic disease?",
+  "options": [
+    "Sickle cell anemia, which can be passed from mother to child during pregnancy",
+    "Influenza, which can be transmitted from birds or pigs to humans",
+    "Type 1 diabetes, an autoimmune disease triggered by viral mimicry",
+    "Atherosclerosis, which spreads via contaminated food among members of a household"
+  ],
+  "correct": 1,
+  "explanation": "Zoonoses are diseases that transfer from other animal species to humans; influenza viruses naturally infect birds and pigs and can jump to human hosts, sometimes causing pandemics."
+}

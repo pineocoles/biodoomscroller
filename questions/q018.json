@@ -1,0 +1,11 @@
+{
+  "q": "Glucagon is released when blood glucose falls below the set point. What is its primary effect?",
+  "options": [
+    "It stimulates beta cells to release more insulin as a countermeasure",
+    "It promotes glycogen synthesis in liver cells to store excess glucose",
+    "It stimulates glycogen breakdown (glycogenolysis) in the liver, releasing glucose into the blood",
+    "It inhibits cellular respiration to conserve the remaining glucose"
+  ],
+  "correct": 2,
+  "explanation": "Glucagon from alpha cells signals the liver to break down glycogen stores, releasing glucose into the blood to raise glucose concentration back to the set point."
+}

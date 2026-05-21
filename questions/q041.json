@@ -1,0 +1,11 @@
+{
+  "q": "How does HIV lead to AIDS?",
+  "options": [
+    "HIV directly destroys red blood cells, causing anemia that weakens the immune response",
+    "HIV infects and destroys CD4+ helper T lymphocytes; as their numbers fall, the adaptive immune system collapses, leaving the person vulnerable to opportunistic infections (AIDS)",
+    "HIV produces toxins that damage liver cells, impairing immune protein synthesis",
+    "HIV integrates into the genome of B cells, preventing antibody production immediately after infection"
+  ],
+  "correct": 1,
+  "explanation": "HIV specifically targets CD4+ T helper cells; as these decline, the immune system loses its ability to coordinate responses, and AIDS (the symptomatic stage of advanced immune failure) results."
+}

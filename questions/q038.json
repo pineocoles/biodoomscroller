@@ -1,0 +1,11 @@
+{
+  "q": "How does blood clotting seal a cut in the skin?",
+  "options": [
+    "Platelets release histamine, causing vasodilation and flooding the wound with plasma proteins",
+    "Damaged tissue and platelets release clotting factors that trigger a cascade converting fibrinogen to fibrin, forming a mesh that traps red blood cells into a clot",
+    "White blood cells form a physical plug at the wound site before any chemical signals are sent",
+    "Collagen fibers contract to close the wound, and plasma proteins harden around them"
+  ],
+  "correct": 1,
+  "explanation": "Vascular damage exposes collagen, activating platelets and a coagulation cascade; thrombin converts soluble fibrinogen into insoluble fibrin strands that form the structural mesh of a clot."
+}

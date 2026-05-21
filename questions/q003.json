@@ -1,0 +1,11 @@
+{
+  "q": "Which of the following best describes the process of water movement through xylem vessels from roots to leaves?",
+  "options": [
+    "Active transport of water molecules up the xylem using ATP",
+    "Root pressure alone forces water all the way to the leaf canopy",
+    "Osmosis at the roots combined with gravity pulling water upward",
+    "Transpiration pull creates tension that draws water up via cohesion-tension through continuous water columns"
+  ],
+  "correct": 3,
+  "explanation": "Evaporation at leaf stomata creates negative pressure (tension); water's cohesion and adhesion allow it to be pulled up continuously from root to leaf."
+}

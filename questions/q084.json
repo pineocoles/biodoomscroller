@@ -1,0 +1,11 @@
+{
+  "q": "Vaccination: Which type of vaccine introduces weakened but live pathogen?",
+  "options": [
+    "Subunit vaccine — contains only purified protein antigens from the pathogen surface",
+    "mRNA vaccine — delivers genetic instructions for the host to produce a pathogen protein",
+    "Inactivated vaccine — contains pathogen killed by heat or chemicals",
+    "Live attenuated vaccine — contains a weakened but living pathogen that can replicate but rarely causes disease"
+  ],
+  "correct": 3,
+  "explanation": "Live attenuated vaccines (e.g., MMR) use pathogens weakened so they replicate enough to stimulate strong immune memory but are too weak to cause disease in healthy individuals."
+}

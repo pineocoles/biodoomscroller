@@ -1,0 +1,11 @@
+{
+  "q": "What structural feature distinguishes arteries from veins?",
+  "options": [
+    "Arteries have thinner walls and larger lumens",
+    "Arteries lack a tunica externa layer",
+    "Arteries have a thicker tunica media with more smooth muscle and elastic fibers",
+    "Arteries always carry oxygenated blood while veins carry deoxygenated blood"
+  ],
+  "correct": 2,
+  "explanation": "The thick tunica media of arteries contains smooth muscle and elastic fibers to withstand and dampen the high-pressure surges of blood from the heart."
+}

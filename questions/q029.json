@@ -1,0 +1,11 @@
+{
+  "q": "Which correctly lists the five components of a pain reflex arc in order?",
+  "options": [
+    "Effector → Motor neuron → Integration center → Sensory neuron → Receptor",
+    "Receptor → Sensory neuron → Integration center (spinal cord) → Motor neuron → Effector",
+    "Receptor → Motor neuron → Brain → Sensory neuron → Effector",
+    "Sensory neuron → Receptor → Spinal cord → Gland → Motor neuron"
+  ],
+  "correct": 1,
+  "explanation": "A reflex arc flows: stimulus detected by receptor → signal carried by sensory (afferent) neuron → processed at spinal cord integration center → signal sent via motor (efferent) neuron → effector responds."
+}

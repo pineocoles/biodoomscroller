@@ -1,0 +1,11 @@
+{
+  "q": "Human chorionic gonadotropin (hCG) is used in pregnancy tests because it:",
+  "options": [
+    "Is produced by the corpus luteum immediately after ovulation in all females, pregnant or not",
+    "Is secreted by the developing embryo/trophoblast shortly after implantation, appearing in maternal urine only during pregnancy",
+    "Is a hormone secreted by the anterior pituitary in response to rising fetal cortisol levels",
+    "Binds to estrogen receptors in the mother's uterus and is detectable only at full term"
+  ],
+  "correct": 1,
+  "explanation": "The trophoblast (outer cell layer of the blastocyst) begins secreting hCG after implantation; it enters maternal circulation and urine, making it a reliable early pregnancy marker."
+}

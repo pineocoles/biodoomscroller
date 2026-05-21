@@ -1,0 +1,11 @@
+{
+  "q": "How does tissue fluid form at the arterial end of a capillary?",
+  "options": [
+    "Active transport pushes plasma out of the capillary into surrounding tissues",
+    "Osmotic pressure exceeds hydrostatic pressure, drawing fluid into the capillary",
+    "Hydrostatic pressure of blood exceeds osmotic pressure, forcing plasma out through fenestrations",
+    "White blood cells rupture and release their contents into the interstitial space"
+  ],
+  "correct": 2,
+  "explanation": "At the arterial end, blood pressure (hydrostatic) is higher than the osmotic pressure pulling fluid back in, so net movement is outward into the interstitial space."
+}

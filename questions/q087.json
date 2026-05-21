@@ -1,0 +1,11 @@
+{
+  "q": "Carbon cycle: Which pool stores the most carbon over geological timescales?",
+  "options": [
+    "The atmosphere, which holds CO2 as a permanent reservoir",
+    "Living plant biomass in tropical forests",
+    "The ocean surface waters where phytoplankton actively fix carbon",
+    "Sedimentary rocks and fossil fuel deposits (lithosphere), which hold the largest long-term carbon reservoir"
+  ],
+  "correct": 3,
+  "explanation": "The lithosphere (rocks, fossil fuels, carbonate sediments) holds by far the most carbon; release of this stored carbon through combustion is the primary driver of rising atmospheric CO2."
+}

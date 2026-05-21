@@ -1,0 +1,11 @@
+{
+  "q": "Decomposers receive energy in which form?",
+  "options": [
+    "Sunlight captured by pigments in fungal hyphae",
+    "Carbon compounds in the organic matter of dead organisms and waste products",
+    "Inorganic minerals released by weathering of rocks in the soil",
+    "Chemical energy from oxidizing atmospheric oxygen directly"
+  ],
+  "correct": 1,
+  "explanation": "Decomposers (bacteria, fungi) break down organic molecules in dead organisms and feces through heterotrophic respiration, releasing inorganic nutrients back into the ecosystem for autotrophs."
+}

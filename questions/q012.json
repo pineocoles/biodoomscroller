@@ -1,0 +1,11 @@
+{
+  "q": "Which best describes a negative feedback loop in homeostasis?",
+  "options": [
+    "A change in a variable triggers a response that amplifies the original change further",
+    "The body detects a deviation from the set point and initiates a response that reverses the deviation",
+    "Hormones continuously increase their effect regardless of the detected variable level",
+    "The nervous system shuts down all effectors when the body reaches its set point"
+  ],
+  "correct": 1,
+  "explanation": "Negative feedback detects deviation from a set point and activates corrective mechanisms that oppose the change, returning the variable to the set point."
+}

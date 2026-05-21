@@ -1,0 +1,11 @@
+{
+  "q": "Baroreceptors in the aortic arch detect a rise in blood pressure. What response do they trigger?",
+  "options": [
+    "Increased sympathetic output to the heart, raising heart rate further",
+    "Activation of the adrenal cortex to release aldosterone and retain sodium",
+    "Increased parasympathetic (vagus nerve) signals to the heart, reducing heart rate to lower blood pressure",
+    "Chemoreceptors in the medulla stimulate vasoconstriction to redistribute blood"
+  ],
+  "correct": 2,
+  "explanation": "When baroreceptors sense elevated blood pressure, they signal the cardiovascular center in the medulla to increase vagal (parasympathetic) tone, slowing the heart and reducing blood pressure."
+}

@@ -1,0 +1,11 @@
+{
+  "q": "Why is homeostasis essential for organisms?",
+  "options": [
+    "It allows organisms to constantly change their internal conditions to match the environment",
+    "It maintains stable internal conditions needed for enzymes and metabolic reactions to function optimally",
+    "It eliminates the need for energy expenditure in organ systems",
+    "It ensures that body temperature always equals environmental temperature"
+  ],
+  "correct": 1,
+  "explanation": "Enzymes are sensitive to changes in pH, temperature, and ion concentration; homeostasis keeps these variables within narrow ranges so metabolic processes can proceed efficiently."
+}

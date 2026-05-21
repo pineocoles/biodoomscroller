@@ -1,0 +1,11 @@
+{
+  "q": "What distinguishes an inhibitory postsynaptic potential (IPSP) from an excitatory postsynaptic potential (EPSP)?",
+  "options": [
+    "An EPSP hyperpolarizes the postsynaptic membrane; an IPSP depolarizes it",
+    "An IPSP hyperpolarizes the membrane (often via Cl- influx or K+ efflux), making it less likely to fire; an EPSP depolarizes it, increasing firing likelihood",
+    "Only EPSPs involve ligand-gated ion channels; IPSPs use voltage-gated channels",
+    "IPSPs are produced only at neuromuscular junctions; EPSPs occur only in the brain"
+  ],
+  "correct": 1,
+  "explanation": "Inhibitory neurotransmitters (e.g., GABA) cause Cl- influx or K+ efflux, hyperpolarizing the membrane and moving it further from threshold, reducing the chance of an action potential."
+}

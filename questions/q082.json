@@ -1,0 +1,11 @@
+{
+  "q": "Synaptic effects of cocaine and neonicotinoids: Which statement correctly contrasts these two chemicals?",
+  "options": [
+    "Both chemicals block neurotransmitter receptors; cocaine blocks dopamine receptors and neonicotinoids block acetylcholine receptors",
+    "Cocaine blocks reuptake of monoamines (dopamine/norepinephrine) in mammalian synapses, prolonging stimulation; neonicotinoids act as nicotinic acetylcholine receptor agonists in insect nervous systems, causing continuous excitation",
+    "Neonicotinoids block acetylcholinesterase in bees; cocaine stimulates presynaptic dopamine release in humans",
+    "Both are inhibitory; cocaine increases GABA activity and neonicotinoids increase serotonin reuptake"
+  ],
+  "correct": 1,
+  "explanation": "Cocaine targets dopamine/norepinephrine reuptake transporters in mammalian brains; neonicotinoids bind and activate nicotinic ACh receptors in insects — distinct mechanisms at different receptor types in different organisms."
+}

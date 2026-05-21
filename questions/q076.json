@@ -1,0 +1,11 @@
+{
+  "q": "How is hydrogen obtained for the reduction of CO2 in photosynthesis?",
+  "options": [
+    "It is taken directly from the atmosphere as H2 gas by special enzyme complexes",
+    "Water molecules are split during photolysis, yielding electrons and protons (H+) that provide the hydrogen used to reduce CO2",
+    "CO2 is combined with molecular hydrogen released by anaerobic bacteria in the soil",
+    "Glucose is first partially oxidized to release hydrogen, which is then used to fix new CO2"
+  ],
+  "correct": 1,
+  "explanation": "The light-dependent reactions split water (photolysis), releasing H+ and electrons carried by NADPH; these are used in the Calvin cycle to reduce CO2 into glyceraldehyde-3-phosphate (G3P), the precursor to glucose."
+}

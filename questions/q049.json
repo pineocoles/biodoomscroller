@@ -1,0 +1,11 @@
+{
+  "q": "Which mechanism prevents polyspermy after fertilization in humans?",
+  "options": [
+    "The zona pellucida permanently blocks all sperm after one penetrates by dissolving its own receptors in a glucose-triggered reaction",
+    "A fast (electrical) block occurs immediately as membrane depolarization prevents further sperm binding; a slow block follows as cortical granules release enzymes that harden the zona pellucida",
+    "The nucleus of the first sperm releases a chemical that paralyzes all remaining sperm cells",
+    "Progesterone released by the fertilized egg causes uterine contractions that expel extra sperm"
+  ],
+  "correct": 1,
+  "explanation": "Immediately after sperm entry, the egg membrane depolarizes (fast block); then cortical granule exocytosis hardens the zona pellucida (zona reaction / slow block), preventing additional sperm from penetrating."
+}

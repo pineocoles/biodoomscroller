@@ -1,0 +1,11 @@
+{
+  "q": "Blood clotting: Which correctly orders the events of hemostasis?",
+  "options": [
+    "Fibrin mesh forms → platelets aggregate → clotting factors released → vessel constricts",
+    "Vessel damage → exposed collagen → platelet plug forms → coagulation cascade → fibrinogen converted to fibrin → stable clot",
+    "Red blood cells rupture → hemoglobin released → clotting factors activated → wound sealed",
+    "Thrombin produced first → vessel dilates → white blood cells arrive → fibrin produced"
+  ],
+  "correct": 1,
+  "explanation": "Hemostasis: vascular spasm → platelet adhesion to exposed collagen → platelet aggregation (plug) → coagulation cascade (clotting factors) → thrombin converts fibrinogen to fibrin → stable clot."
+}

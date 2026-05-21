@@ -1,0 +1,11 @@
+{
+  "q": "Photosynthesis structures: Where do the light-dependent and light-independent (Calvin cycle) reactions occur within the chloroplast?",
+  "options": [
+    "Both reactions occur in the stroma; the thylakoid membrane is used only for pigment storage",
+    "Light-dependent reactions occur in the thylakoid membranes (and thylakoid lumen); Calvin cycle reactions occur in the stroma",
+    "Light-dependent reactions occur in the stroma; Calvin cycle reactions occur on the outer chloroplast membrane",
+    "Both reactions occur in the thylakoid lumen; the stroma is used only for structural support"
+  ],
+  "correct": 1,
+  "explanation": "Light reactions (photolysis, ATP and NADPH production) occur at the thylakoid membrane; the Calvin cycle (CO2 fixation using ATP and NADPH) occurs in the fluid-filled stroma surrounding the thylakoids."
+}

@@ -1,0 +1,11 @@
+{
+  "q": "In IVF treatment, hormones are used for which purpose?",
+  "options": [
+    "To prevent the immune system from rejecting the embryo after implantation",
+    "To stimulate superovulation (multiple follicle development) so several eggs can be retrieved; and to prepare the uterine lining for implantation",
+    "To trigger spermatogenesis in males who have low sperm counts",
+    "To permanently suppress ovulation after a successful implantation event"
+  ],
+  "correct": 1,
+  "explanation": "IVF involves controlled ovarian stimulation using FSH/LH analogs to produce multiple oocytes; progesterone and estrogen are also given to prepare the endometrium for embryo transfer."
+}

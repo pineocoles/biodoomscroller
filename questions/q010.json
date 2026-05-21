@@ -1,0 +1,11 @@
+{
+  "q": "A dicotyledonous stem cross-section shows which arrangement of vascular tissue?",
+  "options": [
+    "Xylem and phloem scattered randomly throughout the stem parenchyma",
+    "A central solid core of xylem surrounded by a ring of phloem",
+    "Vascular bundles arranged in a ring near the periphery, with xylem internal and phloem external, separated by cambium",
+    "Phloem located in the center (pith) with xylem surrounding it in a hollow cylinder"
+  ],
+  "correct": 2,
+  "explanation": "In dicot stems, vascular bundles form a ring; within each bundle, xylem is on the inner side and phloem on the outer side, with cambium between them allowing secondary growth."
+}

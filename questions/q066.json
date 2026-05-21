@@ -1,0 +1,11 @@
+{
+  "q": "Which statement about chemoautotrophs is correct?",
+  "options": [
+    "They use light energy to fix carbon dioxide, similar to photoautotrophs but in deep-sea environments",
+    "They obtain energy from oxidizing inorganic compounds (e.g., ammonia, sulfur) and use it to fix CO2 into organic compounds without light",
+    "They are heterotrophs that consume chemically rich food sources near hydrothermal vents",
+    "They fix atmospheric nitrogen into ammonium for use by surrounding plants"
+  ],
+  "correct": 1,
+  "explanation": "Chemoautotrophs (e.g., nitrifying bacteria, sulfur-oxidizing bacteria at hydrothermal vents) derive energy from chemical oxidation reactions, not light, and use that energy to synthesize organic compounds from CO2."
+}

@@ -1,0 +1,11 @@
+{
+  "q": "Hormonal integration — stress response: Which correctly describes epinephrine's role during stress?",
+  "options": [
+    "Source: anterior pituitary; target: adrenal cortex; effect: cortisol release for long-term stress response",
+    "Source: adrenal medulla; target: heart, liver, lungs, blood vessels; effect: increased heart rate, elevated blood glucose, bronchodilation, vasoconstriction in gut",
+    "Source: hypothalamus; target: anterior pituitary; effect: triggers ACTH release which stimulates cortisol",
+    "Source: thyroid gland; target: metabolically active cells; effect: increases basal metabolic rate during acute stress"
+  ],
+  "correct": 1,
+  "explanation": "Epinephrine (adrenaline) is released by the adrenal medulla; it acts on multiple target organs to prepare the body for immediate action (fight or flight)."
+}

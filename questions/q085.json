@@ -1,0 +1,11 @@
+{
+  "q": "Mutualism — zooxanthellae and coral: Which correctly describes this named mutualistic relationship?",
+  "options": [
+    "Zooxanthellae are parasitic algae that steal nutrients from coral polyps, weakening their calcification",
+    "Zooxanthellae are photosynthetic dinoflagellates living in coral tissue; they provide the coral with photosynthetically produced carbohydrates, while the coral provides protection and CO2 for photosynthesis",
+    "Zooxanthellae are nitrogen-fixing bacteria that convert atmospheric N2 into ammonium for coral growth",
+    "Zooxanthellae are fungi that decompose dead coral tissue, releasing nutrients back into the reef ecosystem"
+  ],
+  "correct": 1,
+  "explanation": "Zooxanthellae are symbiotic algae inside coral cells; they photosynthesize and supply up to 90% of the coral's energy needs as organic carbon, while coral provides shelter and metabolic CO2."
+}

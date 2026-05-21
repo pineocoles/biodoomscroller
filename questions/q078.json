@@ -1,0 +1,11 @@
+{
+  "q": "Which statement about the relationship between photosynthesis and respiration at the ecosystem level is correct?",
+  "options": [
+    "Photosynthesis and respiration are unrelated processes that occur in entirely different organisms",
+    "Aerobic respiration depends on atmospheric O2 produced by photosynthesis; photosynthesis depends on CO2 produced by respiration, creating a coupled carbon and oxygen cycle",
+    "In a stable ecosystem, photosynthesis produces far more oxygen than respiration consumes, causing O2 to continuously accumulate",
+    "Photosynthesis only occurs during the day, while respiration only occurs at night, so they never interact"
+  ],
+  "correct": 1,
+  "explanation": "The two processes are tightly coupled: photosynthesis generates the O2 and organic carbon that aerobic respiration requires, while respiration releases the CO2 and H2O that photosynthesis needs."
+}

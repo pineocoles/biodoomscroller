@@ -1,0 +1,11 @@
+{
+  "q": "What maintains the resting potential of a neuron at approximately -70 mV?",
+  "options": [
+    "Equal concentrations of Na+ and K+ on both sides of the membrane",
+    "The sodium-potassium pump actively transports 3 Na+ out and 2 K+ in, maintaining a net negative interior",
+    "Voltage-gated calcium channels keep the membrane polarized",
+    "Myelin sheath prevents any ion movement across the axon membrane"
+  ],
+  "correct": 1,
+  "explanation": "The Na+/K+ ATPase continuously moves 3 Na+ out and 2 K+ in per cycle, maintaining the electrochemical gradient and net negative charge inside the neuron."
+}

@@ -1,0 +1,11 @@
+{
+  "q": "What is mutualism, and which of the following is a correctly named example from the IB syllabus?",
+  "options": [
+    "A relationship where one species benefits and the other is unaffected; e.g., barnacles on whale skin",
+    "A relationship where both species benefit; e.g., mycorrhizal fungi associated with orchid roots",
+    "A relationship where one species benefits at the expense of the other; e.g., Rhizobium bacteria in legume root nodules",
+    "A competitive relationship where both species suffer reduced fitness; e.g., zooxanthellae expelled from coral during bleaching"
+  ],
+  "correct": 1,
+  "explanation": "Mutualism benefits both partners; mycorrhizae in orchids (fungi provide minerals, plant provides carbohydrates) is one of three named IB examples alongside root nodules in legumes and zooxanthellae in hard corals."
+}

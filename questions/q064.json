@@ -1,0 +1,11 @@
+{
+  "q": "Why is there typically no more than four to five trophic levels in most food chains?",
+  "options": [
+    "Predators at higher levels voluntarily stop eating once they have consumed enough energy",
+    "DNA replication errors accumulate at higher trophic levels, causing genetic collapse",
+    "Large energy losses (typically ~90%) occur at each trophic transfer as heat from respiration, so insufficient energy remains to support additional trophic levels",
+    "Competition between apex predators limits the number of species at the top, capping trophic levels"
+  ],
+  "correct": 2,
+  "explanation": "Only about 10% of energy is transferred between trophic levels; the rest is lost as heat through cell respiration. After 4-5 levels, available energy is too low to sustain a viable population."
+}

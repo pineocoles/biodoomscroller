@@ -1,0 +1,11 @@
+{
+  "q": "Blood glucose rises after a meal. Which hormonal response is correct?",
+  "options": [
+    "Alpha cells of the islets of Langerhans release glucagon, causing glycogen breakdown",
+    "The hypothalamus releases insulin directly into the bloodstream",
+    "Beta cells of the islets of Langerhans release insulin, promoting glucose uptake and glycogen synthesis",
+    "The adrenal gland releases epinephrine to stimulate glucose absorption in the intestine"
+  ],
+  "correct": 2,
+  "explanation": "High blood glucose stimulates pancreatic beta cells to release insulin, which causes cells (especially liver and muscle) to take up glucose and convert it to glycogen."
+}

@@ -1,0 +1,11 @@
+{
+  "q": "Why is herd immunity important in preventing epidemics?",
+  "options": [
+    "When all individuals in a population are immune, pathogens evolve into less harmful strains",
+    "When enough individuals are immune, transmission chains break down and susceptible individuals (who cannot be vaccinated) are protected by reduced pathogen circulation",
+    "Herd immunity means everyone in the herd has the same genetic resistance to disease",
+    "A high proportion of immune individuals floods the environment with antibodies, neutralizing free-floating pathogens"
+  ],
+  "correct": 1,
+  "explanation": "When vaccination rates exceed the herd immunity threshold, the pathogen cannot find enough susceptible hosts to sustain spread, protecting immunocompromised or unvaccinated individuals indirectly."
+}

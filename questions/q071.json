@@ -1,0 +1,11 @@
+{
+  "q": "What is the overall transformation that occurs during photosynthesis?",
+  "options": [
+    "Glucose is broken down using oxygen to release carbon dioxide, water, and ATP",
+    "Light energy is converted to chemical energy stored in organic carbon compounds (glucose), using CO2 and H2O as raw materials",
+    "Carbon dioxide is combined with nitrogen to produce amino acids using light energy",
+    "Water molecules are split to release energy that powers cellular respiration directly"
+  ],
+  "correct": 1,
+  "explanation": "Photosynthesis converts solar energy into chemical energy (glucose), fixing atmospheric CO2 and releasing O2 as a by-product: 6CO2 + 6H2O + light → C6H12O6 + 6O2."
+}

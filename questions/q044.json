@@ -1,0 +1,11 @@
+{
+  "q": "Antibiotic resistance evolves in bacterial populations through which mechanism?",
+  "options": [
+    "Bacteria sense the antibiotic and deliberately mutate the targeted gene to become resistant",
+    "Antibiotics cause bacteria to produce protective enzymes by activating latent resistance genes",
+    "Random mutations that confer resistance pre-exist in the population; antibiotic use kills sensitive bacteria, selecting for resistant variants that reproduce and dominate",
+    "Bacteria absorb antibiotic molecules and convert them into nutrients, gaining energy to outcompete sensitive strains"
+  ],
+  "correct": 2,
+  "explanation": "Resistance arises from pre-existing random mutations; antibiotics act as a selective pressure, eliminating susceptible bacteria and allowing resistant mutants to proliferate — natural selection in action."
+}

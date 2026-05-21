@@ -1,0 +1,11 @@
+{
+  "q": "Chemoreceptors regulate ventilation rate. Which change stimulates an increase in breathing?",
+  "options": [
+    "Decreased blood CO2 (hypocapnia) and increased blood O2",
+    "Rising blood pH (alkalosis) detected by aortic body chemoreceptors",
+    "Increased blood CO2 causing decreased pH, detected by central and peripheral chemoreceptors",
+    "Elevated blood glucose concentration detected by the hypothalamus"
+  ],
+  "correct": 2,
+  "explanation": "Central chemoreceptors in the medulla are sensitive to H+ (which rises when CO2 increases); rising CO2/falling pH stimulates the respiratory center to increase ventilation."
+}

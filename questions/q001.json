@@ -1,0 +1,11 @@
+{
+  "q": "Which feature of capillaries allows for efficient exchange of materials with surrounding tissues?",
+  "options": [
+    "Thick muscular walls that regulate blood flow",
+    "Large lumen diameter to reduce flow resistance",
+    "Presence of valves to prevent backflow",
+    "Fenestrated endothelium and walls only one cell thick"
+  ],
+  "correct": 3,
+  "explanation": "Fenestrated (pore-containing) capillaries with a single-cell-thick wall allow rapid diffusion of gases, nutrients, and wastes between blood and tissue fluid."
+}

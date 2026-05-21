@@ -1,0 +1,11 @@
+{
+  "q": "Allelopathy is a form of interspecific competition in which:",
+  "options": [
+    "One species physically excludes another from feeding sites through aggressive behavior",
+    "A plant or microorganism releases chemical compounds into the environment that inhibit the germination or growth of neighboring species",
+    "One species evolves to mimic another's warning coloration to avoid predation",
+    "A fungus produces toxins that kill its host plant so it can decompose the organic matter"
+  ],
+  "correct": 1,
+  "explanation": "Allelopathic chemicals (e.g., juglone from black walnut trees, antibiotics from bacteria) are released into soil or water to reduce competition from other plants or microbes."
+}

@@ -1,0 +1,11 @@
+{
+  "q": "Which comparison between innate and adaptive immunity is correct?",
+  "options": [
+    "Innate immunity is slower and more specific than adaptive immunity",
+    "Adaptive immunity responds immediately to all pathogens without prior exposure; innate requires prior infection",
+    "Innate immunity is rapid and non-specific; adaptive immunity is slower but antigen-specific and generates memory",
+    "Both systems produce antibodies, but innate antibodies are weaker than adaptive antibodies"
+  ],
+  "correct": 2,
+  "explanation": "Innate immunity (phagocytes, inflammation) acts within minutes but targets any foreign material non-specifically; adaptive immunity (B and T lymphocytes) takes days but is highly specific and creates immunological memory."
+}

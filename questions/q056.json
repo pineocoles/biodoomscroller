@@ -1,0 +1,11 @@
+{
+  "q": "Which of the following is a density-dependent factor that limits population growth?",
+  "options": [
+    "A volcanic eruption that destroys habitat regardless of population size",
+    "A severe drought that reduces resources uniformly across all population densities",
+    "Increased predation pressure, competition for food, or disease transmission that intensifies as population density rises",
+    "A sudden frost that kills individuals independent of how crowded the population is"
+  ],
+  "correct": 2,
+  "explanation": "Density-dependent factors become more intense as population density increases; predation, competition, and disease spread more effectively in crowded populations, acting as negative feedback controls."
+}

@@ -1,0 +1,11 @@
+{
+  "q": "What is the difference between primary and secondary production?",
+  "options": [
+    "Primary production occurs in the ocean; secondary production occurs on land",
+    "Primary production is the accumulation of carbon in autotroph biomass via photosynthesis or chemosynthesis; secondary production is the accumulation of carbon in heterotroph biomass via consumption",
+    "Primary production involves animal reproduction; secondary production involves plant reproduction",
+    "Primary production is gross productivity; secondary production is net productivity after deducting respiration losses"
+  ],
+  "correct": 1,
+  "explanation": "Autotrophs (plants, algae) produce primary biomass; heterotrophs (animals, fungi) consuming that biomass build secondary biomass; the distinction reflects the origin of the organic carbon."
+}

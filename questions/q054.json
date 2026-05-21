@@ -1,0 +1,11 @@
+{
+  "q": "Which statement correctly describes self-incompatibility in flowering plants?",
+  "options": [
+    "Self-incompatibility prevents any pollen from germinating on the stigma of the same plant, promoting cross-pollination and genetic diversity",
+    "Self-incompatibility ensures that only pollen from the same plant can fertilize the ovule, guaranteeing seed production",
+    "Self-incompatibility is a mechanism where the pistil actively destroys all pollen grains that land on it",
+    "Self-incompatibility only occurs in wind-pollinated species to reduce wasted pollen"
+  ],
+  "correct": 0,
+  "explanation": "Self-incompatibility (SI) systems recognize and reject pollen carrying the same S-allele as the pistil, preventing self-fertilization and forcing cross-pollination, which increases genetic variation."
+}

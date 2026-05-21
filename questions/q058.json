@@ -1,0 +1,11 @@
+{
+  "q": "Which correctly describes top-down versus bottom-up population control?",
+  "options": [
+    "Top-down: producers control herbivore numbers; bottom-up: predators control prey",
+    "Top-down: predators regulate prey populations; bottom-up: resource availability (e.g., plant productivity) limits herbivore and higher trophic level populations",
+    "Both terms describe the same thing — negative feedback control of population size by abiotic factors",
+    "Top-down control is driven by nutrient cycling; bottom-up control is driven by carnivore abundance"
+  ],
+  "correct": 1,
+  "explanation": "Top-down control is predator-driven (wolves limit deer); bottom-up control is resource-driven (grass productivity limits the entire food web above it)."
+}

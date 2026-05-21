@@ -1,0 +1,11 @@
+{
+  "q": "Fetal development: Which sequence correctly describes human development from zygote to implantation?",
+  "options": [
+    "Zygote → gastrula → morula → blastocyst → implantation in endometrium",
+    "Zygote → cleavage divisions (morula) → blastocyst (hollow ball with inner cell mass) → implantation in uterine endometrium",
+    "Zygote → blastocyst → morula → trophoblast → implantation in fallopian tube wall",
+    "Fertilized egg travels to uterus as a single cell, then divides after attaching to endometrium"
+  ],
+  "correct": 1,
+  "explanation": "After fertilization, the zygote undergoes cleavage to form a morula (solid ball), then cavitation produces a blastocyst (with trophoblast and inner cell mass); the blastocyst implants in the endometrium ~6-10 days post-fertilization."
+}

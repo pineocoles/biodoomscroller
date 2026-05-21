@@ -1,0 +1,11 @@
+{
+  "q": "The Keeling Curve shows annual oscillations in atmospheric CO2 superimposed on a rising trend. What explains the oscillations?",
+  "options": [
+    "Seasonal changes in volcanic activity cause CO2 to rise in summer and fall in winter",
+    "Seasonal variation in photosynthesis and respiration in the northern hemisphere: CO2 falls in northern spring/summer (photosynthesis dominates) and rises in autumn/winter (respiration and decay dominate)",
+    "Ocean currents shift annually, absorbing more CO2 in winter and releasing it in summer",
+    "Human fossil fuel combustion peaks in summer due to industrial cooling demands and decreases in winter"
+  ],
+  "correct": 1,
+  "explanation": "The seasonal oscillation reflects northern hemisphere growing seasons; widespread plant growth in spring/summer draws down CO2 via photosynthesis, while leaf fall and decomposition in autumn/winter releases it back."
+}

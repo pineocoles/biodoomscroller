@@ -1,0 +1,11 @@
+{
+  "q": "Which statement about the carbon cycle is correct?",
+  "options": [
+    "Combustion of fossil fuels introduces carbon that was previously cycling actively in the biosphere",
+    "Photosynthesis releases carbon dioxide while respiration consumes it",
+    "Carbon fixed in organic molecules by photosynthesis is eventually released back to the atmosphere through respiration and decomposition, and through combustion of fossil fuels and biomass",
+    "The oceans are solely carbon sources because dissolved CO2 is released back to the atmosphere by evaporation"
+  ],
+  "correct": 2,
+  "explanation": "Carbon cycles through photosynthesis (fixation into biomass), respiration and decomposition (release as CO2), and combustion (rapid release from long-term geological/biological storage)."
+}

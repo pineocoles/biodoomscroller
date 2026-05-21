@@ -1,0 +1,11 @@
+{
+  "q": "Thermoreceptors in the skin detect a drop in ambient temperature. Which structure integrates this information and coordinates the response?",
+  "options": [
+    "The cerebellum, which adjusts muscle tone to generate heat",
+    "The hypothalamus, which acts as the body's thermostat and triggers corrective responses",
+    "The adrenal medulla, which releases cortisol to raise the set point",
+    "The pancreas, which releases glucagon to increase metabolic heat"
+  ],
+  "correct": 1,
+  "explanation": "The hypothalamus receives input from peripheral and central thermoreceptors and coordinates responses (shivering, vasoconstriction, etc.) to maintain core temperature."
+}
