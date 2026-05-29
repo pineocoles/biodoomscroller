@@ -1,0 +1,15 @@
+{
+  "id": "Q134",
+  "unit": 11,
+  "unit_name": "History",
+  "topic": "WWII in Europe",
+  "question": "Which SPERM category/categories is the Nuremberg Tribunal most closely connected to?",
+  "options": {
+    "A": "Political and Social (legal)",
+    "B": "Military and Economic",
+    "C": "Religious and Environmental",
+    "D": "Cultural and Economic"
+  },
+  "answer": "A",
+  "explanation": "An international legal/political process (Political) addressing crimes against humanity affecting society (Social)."
+}

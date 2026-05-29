@@ -1,0 +1,15 @@
+{
+  "id": "Q126",
+  "unit": 11,
+  "unit_name": "History",
+  "topic": "WWII in Europe",
+  "question": "What was Kunstschutz?",
+  "options": {
+    "A": "A German organization ostensibly to protect art in occupied territories that often facilitated looting",
+    "B": "A Nazi youth movement",
+    "C": "A type of fortification",
+    "D": "A secret police unit"
+  },
+  "answer": "A",
+  "explanation": "A German military art-protection program that, in practice, frequently enabled the plunder of European art."
+}

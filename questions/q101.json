@@ -1,0 +1,15 @@
+{
+  "id": "Q101",
+  "unit": 11,
+  "unit_name": "History",
+  "topic": "WWII in Europe",
+  "question": "Which SPERM category/categories is the Battle of El Alamein most closely connected to?",
+  "options": {
+    "A": "Religious and Cultural",
+    "B": "Military and Political",
+    "C": "Economic and Environmental",
+    "D": "Social and Religious"
+  },
+  "answer": "B",
+  "explanation": "A decisive military battle (Military) that boosted Allied standing and morale (Political)."
+}

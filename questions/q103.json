@@ -1,0 +1,15 @@
+{
+  "id": "Q103",
+  "unit": 11,
+  "unit_name": "History",
+  "topic": "WWII in Europe",
+  "question": "Why is El Alamein significant to the study of WWII?",
+  "options": {
+    "A": "It triggered the Holocaust",
+    "B": "It ended the Axis threat to Egypt and the Suez Canal and was a major British morale boost",
+    "C": "It opened the Western Front in France",
+    "D": "It caused Italy to join the Axis"
+  },
+  "answer": "B",
+  "explanation": "The victory protected Suez, lifted Allied morale, and led to Axis defeat in North Africa by 1943."
+}

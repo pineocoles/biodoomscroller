@@ -1,0 +1,15 @@
+{
+  "id": "Q162",
+  "unit": 11,
+  "unit_name": "History",
+  "topic": "WWII in Europe",
+  "question": "Which is a WWII example of firebombing?",
+  "options": {
+    "A": "The Schweinfurt ball-bearing raids",
+    "B": "The bombing of Dresden (and the firebombing of Tokyo)",
+    "C": "The Battle of El Alamein",
+    "D": "Operation Barbarossa"
+  },
+  "answer": "B",
+  "explanation": "Dresden (Feb 1945) and Tokyo (Mar 1945) are classic firebombing raids that produced devastating firestorms."
+}

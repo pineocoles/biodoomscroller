@@ -1,0 +1,15 @@
+{
+  "id": "Q153",
+  "unit": 11,
+  "unit_name": "History",
+  "topic": "WWII in Europe",
+  "question": "What was Vichy France?",
+  "options": {
+    "A": "A collaborationist French government established after France's 1940 defeat",
+    "B": "The French resistance movement",
+    "C": "A German military zone with no French government",
+    "D": "A neutral Swiss-style state"
+  },
+  "answer": "A",
+  "explanation": "Led by Marshal Pétain, it governed southern France and colonies and collaborated with the Nazi occupation."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "Q089",
+  "unit": 11,
+  "unit_name": "History",
+  "topic": "WWII in Europe",
+  "question": "Which SPERM category/categories is the Anti-Comintern Pact most closely connected to?",
+  "options": {
+    "A": "Social and Economic",
+    "B": "Political and Military",
+    "C": "Religious and Cultural",
+    "D": "Environmental and Social"
+  },
+  "answer": "B",
+  "explanation": "It was a diplomatic alliance (Political) aimed at countering the Soviet-led Comintern and laid groundwork for the Axis military bloc (Military)."
+}

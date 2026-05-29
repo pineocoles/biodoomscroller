@@ -1,0 +1,15 @@
+{
+  "id": "Q164",
+  "unit": 11,
+  "unit_name": "History",
+  "topic": "WWII in Europe",
+  "question": "Which is a WWII example associated with precision bombing?",
+  "options": {
+    "A": "RAF nighttime area raids on Hamburg",
+    "B": "USAAF daylight raids on German ball-bearing factories (Schweinfurt)",
+    "C": "The firebombing of Dresden",
+    "D": "The Siege of Leningrad"
+  },
+  "answer": "B",
+  "explanation": "USAAF daylight raids on targets like Schweinfurt's ball-bearing plants aimed for specific industrial objectives."
+}

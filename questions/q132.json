@@ -1,0 +1,15 @@
+{
+  "id": "Q132",
+  "unit": 11,
+  "unit_name": "History",
+  "topic": "WWII in Europe",
+  "question": "What was the Maginot Line?",
+  "options": {
+    "A": "A French network of border fortifications built in the 1930s to deter German invasion",
+    "B": "A German offensive plan",
+    "C": "A naval blockade",
+    "D": "A diplomatic agreement"
+  },
+  "answer": "A",
+  "explanation": "Built along the German border, it was designed around WWI-style defense but was bypassed via Belgium and the Ardennes."
+}

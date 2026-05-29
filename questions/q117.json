@@ -1,0 +1,15 @@
+{
+  "id": "Q117",
+  "unit": 11,
+  "unit_name": "History",
+  "topic": "WWII in Europe",
+  "question": "What was the Double V Campaign?",
+  "options": {
+    "A": "A German propaganda effort",
+    "B": "A 1942 African-American campaign for victory abroad and victory against racism at home",
+    "C": "A British recruitment drive",
+    "D": "A bombing strategy with two waves"
+  },
+  "answer": "B",
+  "explanation": "Led by the Pittsburgh Courier, it linked the fight against fascism abroad to the fight against racial injustice at home."
+}

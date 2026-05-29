@@ -1,0 +1,15 @@
+{
+  "id": "Q161",
+  "unit": 11,
+  "unit_name": "History",
+  "topic": "WWII in Europe",
+  "question": "Which feature best distinguishes firebombing from other bombing types?",
+  "options": {
+    "A": "It uses precision-guided munitions to hit single targets",
+    "B": "It uses incendiary bombs to ignite fires and create firestorms",
+    "C": "It is conducted only by naval forces",
+    "D": "It targets only military airfields"
+  },
+  "answer": "B",
+  "explanation": "Firebombing relies on incendiaries to start self-sustaining firestorms that overwhelm firefighting capacity, especially in wood-built cities."
+}

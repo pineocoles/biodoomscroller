@@ -1,0 +1,15 @@
+{
+  "id": "Q105",
+  "unit": 11,
+  "unit_name": "History",
+  "topic": "WWII in Europe",
+  "question": "What is Blitzkrieg?",
+  "options": {
+    "A": "A static defensive line of fortifications",
+    "B": "A 'lightning war' doctrine using rapid, coordinated tanks, infantry, and air power",
+    "C": "A naval convoy strategy",
+    "D": "A propaganda campaign"
+  },
+  "answer": "B",
+  "explanation": "'Lightning war' combined armor, motorized infantry, and air support to overwhelm enemies quickly."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "Q109",
+  "unit": 11,
+  "unit_name": "History",
+  "topic": "WWII in Europe",
+  "question": "Why is the Bombing of Dresden significant to the study of WWII Europe?",
+  "options": {
+    "A": "It is a contested case raising ethical questions about Allied conduct and area bombing",
+    "B": "It ended the Battle of Britain",
+    "C": "It was the first use of radar",
+    "D": "It forced Germany to surrender the next day"
+  },
+  "answer": "A",
+  "explanation": "It remains historically debated as military necessity versus war crime and was exploited by Nazi propaganda."
+}

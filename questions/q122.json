@@ -1,0 +1,15 @@
+{
+  "id": "Q122",
+  "unit": 11,
+  "unit_name": "History",
+  "topic": "WWII in Europe",
+  "question": "Which SPERM category/categories is the Hossbach Memorandum most closely connected to?",
+  "options": {
+    "A": "Political and Military",
+    "B": "Economic and Social",
+    "C": "Religious and Cultural",
+    "D": "Environmental and Religious"
+  },
+  "answer": "A",
+  "explanation": "A record of Hitler's foreign-policy aims (Political) and military expansion plans (Military)."
+}

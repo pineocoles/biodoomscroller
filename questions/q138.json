@@ -1,0 +1,15 @@
+{
+  "id": "Q138",
+  "unit": 11,
+  "unit_name": "History",
+  "topic": "WWII in Europe",
+  "question": "What was Operation Barbarossa?",
+  "options": {
+    "A": "The June 1941 German invasion of the Soviet Union",
+    "B": "The Allied invasion of Normandy",
+    "C": "The German invasion of France",
+    "D": "A naval campaign in the Atlantic"
+  },
+  "answer": "A",
+  "explanation": "Launched June 22, 1941, it was the largest military operation in history and opened the Eastern Front."
+}

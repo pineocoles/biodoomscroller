@@ -1,0 +1,15 @@
+{
+  "id": "Q119",
+  "unit": 11,
+  "unit_name": "History",
+  "topic": "WWII in Europe",
+  "question": "Which SPERM category/categories is the Enigma Machine most closely connected to?",
+  "options": {
+    "A": "Religious and Cultural",
+    "B": "Military and (technological/intellectual)",
+    "C": "Economic and Environmental",
+    "D": "Social and Religious"
+  },
+  "answer": "B",
+  "explanation": "A military communications device whose decryption was a major intelligence/technological achievement."
+}

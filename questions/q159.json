@@ -1,0 +1,15 @@
+{
+  "id": "Q159",
+  "unit": 11,
+  "unit_name": "History",
+  "topic": "WWII in Europe",
+  "question": "What was the Warsaw Uprising (1944)?",
+  "options": {
+    "A": "An armed revolt by the Polish Home Army against German occupation",
+    "B": "A German offensive against the USSR",
+    "C": "A Jewish ghetto uprising in 1943",
+    "D": "An Allied bombing campaign"
+  },
+  "answer": "A",
+  "explanation": "From August to October 1944, the Polish Home Army revolted while Soviet forces halted nearby; the Germans crushed it."
+}

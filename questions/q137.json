@@ -1,0 +1,15 @@
+{
+  "id": "Q137",
+  "unit": 11,
+  "unit_name": "History",
+  "topic": "WWII in Europe",
+  "question": "Which SPERM category/categories is Operation Barbarossa most closely connected to?",
+  "options": {
+    "A": "Military and Political",
+    "B": "Religious and Cultural",
+    "C": "Economic and Environmental",
+    "D": "Social and Religious"
+  },
+  "answer": "A",
+  "explanation": "A massive military invasion (Military) driven by Nazi ideological and strategic aims (Political)."
+}

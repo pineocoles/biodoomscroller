@@ -1,0 +1,15 @@
+{
+  "id": "Q114",
+  "unit": 11,
+  "unit_name": "History",
+  "topic": "WWII in Europe",
+  "question": "What was the Commissar Order?",
+  "options": {
+    "A": "A German order to protect Soviet prisoners",
+    "B": "A 1941 German directive to execute captured Soviet political commissars",
+    "C": "A Soviet order to retreat from Leningrad",
+    "D": "An Allied order banning chemical weapons"
+  },
+  "answer": "B",
+  "explanation": "Issued June 1941, it ordered the killing of captured Soviet commissars, framing the Eastern Front as an ideological war."
+}

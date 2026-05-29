@@ -1,0 +1,15 @@
+{
+  "id": "Q139",
+  "unit": 11,
+  "unit_name": "History",
+  "topic": "WWII in Europe",
+  "question": "Why is Operation Barbarossa significant to the study of WWII Europe?",
+  "options": {
+    "A": "It turned WWII into a two-front war for Germany and opened the deadliest theater of the war",
+    "B": "It ended the war in Europe",
+    "C": "It was Germany's first victory",
+    "D": "It had little impact on casualties"
+  },
+  "answer": "A",
+  "explanation": "The Eastern Front caused the majority of WWII casualties, and the invasion is seen as Hitler's greatest strategic blunder."
+}

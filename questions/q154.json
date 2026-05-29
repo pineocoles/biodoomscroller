@@ -1,0 +1,15 @@
+{
+  "id": "Q154",
+  "unit": 11,
+  "unit_name": "History",
+  "topic": "WWII in Europe",
+  "question": "Why is Vichy France significant to the study of WWII Europe?",
+  "options": {
+    "A": "It challenges the myth of universal French resistance and shows complicity in the Holocaust beyond Germany",
+    "B": "It defeated Nazi Germany",
+    "C": "It was the seat of the Allied command",
+    "D": "It had no role in persecuting Jews"
+  },
+  "answer": "A",
+  "explanation": "Vichy passed its own anti-Jewish laws and assisted deportations, raising questions about collaboration and sovereignty."
+}

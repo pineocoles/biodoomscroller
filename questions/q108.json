@@ -1,0 +1,15 @@
+{
+  "id": "Q108",
+  "unit": 11,
+  "unit_name": "History",
+  "topic": "WWII in Europe",
+  "question": "What was the Bombing of Dresden?",
+  "options": {
+    "A": "A German air raid on a British city",
+    "B": "A February 1945 Allied firebombing of the German city of Dresden",
+    "C": "A failed Allied invasion attempt",
+    "D": "A naval bombardment of a German port"
+  },
+  "answer": "B",
+  "explanation": "In February 1945 Allied firebombing killed tens of thousands of civilians in a city of limited military value."
+}

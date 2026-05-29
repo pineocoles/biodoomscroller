@@ -1,0 +1,15 @@
+{
+  "id": "Q125",
+  "unit": 11,
+  "unit_name": "History",
+  "topic": "WWII in Europe",
+  "question": "Which SPERM category/categories is Kunstschutz most closely connected to?",
+  "options": {
+    "A": "Cultural and Social",
+    "B": "Military and Economic",
+    "C": "Religious and Environmental",
+    "D": "Political and Religious"
+  },
+  "answer": "A",
+  "explanation": "It dealt with art and cultural heritage (Cultural) within occupied societies (Social)."
+}

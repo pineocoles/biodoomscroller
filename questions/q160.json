@@ -1,0 +1,15 @@
+{
+  "id": "Q160",
+  "unit": 11,
+  "unit_name": "History",
+  "topic": "WWII in Europe",
+  "question": "Why is the Warsaw Uprising significant to the study of WWII Europe?",
+  "options": {
+    "A": "It reveals Allied tensions and the fate of Eastern Europe caught between Germany and the USSR",
+    "B": "It ended the war in Europe",
+    "C": "It was a German victory celebrated by the Allies",
+    "D": "It had no role in Polish national memory"
+  },
+  "answer": "A",
+  "explanation": "Stalin's refusal to aid the uprising had political motives, and it became a symbol of betrayal in Polish memory."
+}

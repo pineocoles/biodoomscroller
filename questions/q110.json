@@ -1,0 +1,15 @@
+{
+  "id": "Q110",
+  "unit": 11,
+  "unit_name": "History",
+  "topic": "WWII in Europe",
+  "question": "Which SPERM category/categories is the Brazilian Expeditionary Force most closely connected to?",
+  "options": {
+    "A": "Military and Political",
+    "B": "Religious and Cultural",
+    "C": "Environmental and Economic",
+    "D": "Social and Religious"
+  },
+  "answer": "A",
+  "explanation": "A combat deployment (Military) tied to Brazil's diplomatic alignment with the Allies (Political)."
+}

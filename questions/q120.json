@@ -1,0 +1,15 @@
+{
+  "id": "Q120",
+  "unit": 11,
+  "unit_name": "History",
+  "topic": "WWII in Europe",
+  "question": "What was the Enigma Machine?",
+  "options": {
+    "A": "A German cipher device used to encode military communications",
+    "B": "An Allied tank model",
+    "C": "A British radar system",
+    "D": "A type of submarine"
+  },
+  "answer": "A",
+  "explanation": "An electromechanical cipher device whose codes were broken by Polish mathematicians and later at Bletchley Park."
+}

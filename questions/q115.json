@@ -1,0 +1,15 @@
+{
+  "id": "Q115",
+  "unit": 11,
+  "unit_name": "History",
+  "topic": "WWII in Europe",
+  "question": "Why is the Commissar Order significant to the study of WWII Europe?",
+  "options": {
+    "A": "It proved Britain's defensive strategy worked",
+    "B": "It is key evidence of Germany's war of annihilation in the East and was cited at Nuremberg",
+    "C": "It ended the Siege of Leningrad",
+    "D": "It was a humanitarian gesture toward POWs"
+  },
+  "answer": "B",
+  "explanation": "It violated the laws of war, encouraged Soviet troops to fight to the death, and served as evidence of systematic war crimes."
+}

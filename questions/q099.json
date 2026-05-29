@@ -1,0 +1,15 @@
+{
+  "id": "Q099",
+  "unit": 11,
+  "unit_name": "History",
+  "topic": "WWII in Europe",
+  "question": "What was the Battle of Britain?",
+  "options": {
+    "A": "A 1940 air campaign in which the RAF defended Britain against the Luftwaffe",
+    "B": "A naval blockade of the British Isles",
+    "C": "A ground invasion of southern England",
+    "D": "A bombing of German cities by the RAF"
+  },
+  "answer": "A",
+  "explanation": "Fought July-October 1940, it was the first major campaign fought entirely by air forces."
+}

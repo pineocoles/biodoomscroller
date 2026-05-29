@@ -1,0 +1,15 @@
+{
+  "id": "Q100",
+  "unit": 11,
+  "unit_name": "History",
+  "topic": "WWII in Europe",
+  "question": "Why is the Battle of Britain significant to the study of WWII Europe?",
+  "options": {
+    "A": "It led directly to the surrender of France",
+    "B": "It was Germany's first major defeat and caused Hitler to abandon the invasion of Britain",
+    "C": "It opened the Eastern Front",
+    "D": "It ended the war in Europe"
+  },
+  "answer": "B",
+  "explanation": "The RAF victory proved Germany was not invincible, shelved Operation Sea Lion, and showed the value of radar and air power."
+}

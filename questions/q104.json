@@ -1,0 +1,15 @@
+{
+  "id": "Q104",
+  "unit": 11,
+  "unit_name": "History",
+  "topic": "WWII in Europe",
+  "question": "Which SPERM category/categories is Blitzkrieg most closely connected to?",
+  "options": {
+    "A": "Military and Economic",
+    "B": "Religious and Cultural",
+    "C": "Social and Environmental",
+    "D": "Political and Religious"
+  },
+  "answer": "A",
+  "explanation": "It was a military doctrine (Military) that depended on mechanized industry and logistics (Economic)."
+}

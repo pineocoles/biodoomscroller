@@ -1,0 +1,15 @@
+{
+  "id": "Q156",
+  "unit": 11,
+  "unit_name": "History",
+  "topic": "WWII in Europe",
+  "question": "What was the Wannsee Conference?",
+  "options": {
+    "A": "A January 1942 meeting of Nazi officials to coordinate the 'Final Solution'",
+    "B": "A peace conference among the Allies",
+    "C": "A meeting of German generals to plan Barbarossa",
+    "D": "An economic summit"
+  },
+  "answer": "A",
+  "explanation": "Chaired by Reinhard Heydrich (Eichmann took minutes), it coordinated the systematic extermination of European Jews."
+}

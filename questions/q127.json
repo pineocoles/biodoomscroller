@@ -1,0 +1,15 @@
+{
+  "id": "Q127",
+  "unit": 11,
+  "unit_name": "History",
+  "topic": "WWII in Europe",
+  "question": "Why is Kunstschutz significant to a study of WWII Europe?",
+  "options": {
+    "A": "It reveals the cultural dimension of Nazi occupation and the gap between stated protection and actual plunder",
+    "B": "It won the war for Germany",
+    "C": "It was an Allied recovery agency",
+    "D": "It had no effect on European heritage"
+  },
+  "answer": "A",
+  "explanation": "It exposes the systematic looting of cultural heritage and ongoing postwar restitution debates."
+}

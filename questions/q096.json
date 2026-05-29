@@ -1,0 +1,15 @@
+{
+  "id": "Q096",
+  "unit": 11,
+  "unit_name": "History",
+  "topic": "WWII in Europe",
+  "question": "What was the Atlantic Charter?",
+  "options": {
+    "A": "A peace treaty ending WWII",
+    "B": "A 1941 joint FDR-Churchill declaration of post-war goals like self-determination and free trade",
+    "C": "A naval agreement limiting battleship tonnage",
+    "D": "A German plan to invade Britain"
+  },
+  "answer": "B",
+  "explanation": "Issued August 1941, it outlined Allied aims and became a foundation for the later United Nations."
+}

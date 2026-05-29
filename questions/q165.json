@@ -1,0 +1,15 @@
+{
+  "id": "Q165",
+  "unit": 11,
+  "unit_name": "History",
+  "topic": "WWII in Europe",
+  "question": "Which feature best distinguishes strategic (area/carpet) bombing?",
+  "options": {
+    "A": "It targets a single bridge with one bomb",
+    "B": "It seeks to destroy war-making capacity or morale broadly, not distinguishing military from civilian targets",
+    "C": "It is only used defensively",
+    "D": "It avoids all civilian areas"
+  },
+  "answer": "B",
+  "explanation": "Strategic bombing aims at an enemy's overall war capacity/morale; area and carpet bombing saturate wide zones rather than single targets."
+}

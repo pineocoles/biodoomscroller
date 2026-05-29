@@ -1,0 +1,15 @@
+{
+  "id": "Q090",
+  "unit": 11,
+  "unit_name": "History",
+  "topic": "WWII in Europe",
+  "question": "What was the Anti-Comintern Pact?",
+  "options": {
+    "A": "A 1936 agreement between Germany and Japan directed against the Communist International",
+    "B": "A trade treaty opening Soviet markets to German goods",
+    "C": "A non-aggression pact between Germany and the USSR",
+    "D": "A British-French mutual defense agreement"
+  },
+  "answer": "A",
+  "explanation": "Signed in 1936 (Italy joined 1937), it aligned Germany and Japan against the Soviet-led Comintern."
+}

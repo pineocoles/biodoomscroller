@@ -1,0 +1,15 @@
+{
+  "id": "Q150",
+  "unit": 11,
+  "unit_name": "History",
+  "topic": "WWII in Europe",
+  "question": "What were the V-Rockets?",
+  "options": {
+    "A": "German 'vengeance weapons' (V-1 flying bomb and V-2 ballistic missile) used against Britain and Belgium",
+    "B": "Allied fighter planes",
+    "C": "Soviet artillery pieces",
+    "D": "British submarines"
+  },
+  "answer": "A",
+  "explanation": "The V-2 was the world's first long-range ballistic missile; both were produced using concentration-camp slave labor."
+}

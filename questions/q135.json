@@ -1,0 +1,15 @@
+{
+  "id": "Q135",
+  "unit": 11,
+  "unit_name": "History",
+  "topic": "WWII in Europe",
+  "question": "What was the Nuremberg Tribunal?",
+  "options": {
+    "A": "A 1945-46 international military tribunal that tried Nazi leaders for war crimes",
+    "B": "A German military headquarters",
+    "C": "A peace conference between the Allies",
+    "D": "A Nazi propaganda rally"
+  },
+  "answer": "A",
+  "explanation": "It established charges of crimes against peace, war crimes, and crimes against humanity against major Nazi defendants."
+}

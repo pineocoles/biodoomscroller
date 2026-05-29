@@ -1,0 +1,15 @@
+{
+  "id": "Q092",
+  "unit": 11,
+  "unit_name": "History",
+  "topic": "WWII in Europe",
+  "question": "Which SPERM category/categories does the 1943 Argentine coup d'état most closely connect to?",
+  "options": {
+    "A": "Religious and Cultural",
+    "B": "Political and Military",
+    "C": "Environmental and Economic",
+    "D": "Social and Religious"
+  },
+  "answer": "B",
+  "explanation": "It was a military seizure of power (Military) that reshaped Argentina's government (Political)."
+}

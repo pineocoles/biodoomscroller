@@ -1,0 +1,15 @@
+{
+  "id": "Q144",
+  "unit": 11,
+  "unit_name": "History",
+  "topic": "WWII in Europe",
+  "question": "What was the Siege of Leningrad?",
+  "options": {
+    "A": "An 872-day German siege of the Soviet city of Leningrad (1941-1944)",
+    "B": "A German air raid on Moscow",
+    "C": "A naval blockade of Britain",
+    "D": "A battle in North Africa"
+  },
+  "answer": "A",
+  "explanation": "The longest siege of a major city in modern history, in which hundreds of thousands of civilians died, mostly of starvation."
+}

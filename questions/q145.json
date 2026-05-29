@@ -1,0 +1,15 @@
+{
+  "id": "Q145",
+  "unit": 11,
+  "unit_name": "History",
+  "topic": "WWII in Europe",
+  "question": "Why is the Siege of Leningrad significant to the study of WWII Europe?",
+  "options": {
+    "A": "It was one of the deadliest events of the war and exemplified Germany's war of annihilation in the East",
+    "B": "It was a quick, bloodless German victory",
+    "C": "It ended the war on the Eastern Front in 1941",
+    "D": "It had no effect on Soviet national identity"
+  },
+  "answer": "A",
+  "explanation": "Soviet civilian endurance became a symbol of resistance, and the siege reflected a deliberate German strategy of starvation."
+}

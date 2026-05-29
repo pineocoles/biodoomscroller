@@ -1,0 +1,15 @@
+{
+  "id": "Q128",
+  "unit": 11,
+  "unit_name": "History",
+  "topic": "WWII in Europe",
+  "question": "Which SPERM category/categories is Lebensborn most closely connected to?",
+  "options": {
+    "A": "Economic and Environmental",
+    "B": "Social and Political (racial ideology)",
+    "C": "Military and Religious",
+    "D": "Cultural and Economic"
+  },
+  "answer": "B",
+  "explanation": "A social/demographic program (Social) rooted in Nazi racial-political ideology (Political)."
+}

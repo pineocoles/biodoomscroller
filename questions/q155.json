@@ -1,0 +1,15 @@
+{
+  "id": "Q155",
+  "unit": 11,
+  "unit_name": "History",
+  "topic": "WWII in Europe",
+  "question": "Which SPERM category/categories is the Wannsee Conference most closely connected to?",
+  "options": {
+    "A": "Political and Social (racial)",
+    "B": "Military and Economic",
+    "C": "Religious and Environmental",
+    "D": "Cultural and Economic"
+  },
+  "answer": "A",
+  "explanation": "A bureaucratic-political meeting (Political) coordinating genocide that targeted a population (Social)."
+}

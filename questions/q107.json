@@ -1,0 +1,15 @@
+{
+  "id": "Q107",
+  "unit": 11,
+  "unit_name": "History",
+  "topic": "WWII in Europe",
+  "question": "Which SPERM category/categories is the Bombing of Dresden most closely connected to?",
+  "options": {
+    "A": "Economic and Environmental",
+    "B": "Military and Social",
+    "C": "Religious and Cultural",
+    "D": "Political and Religious"
+  },
+  "answer": "B",
+  "explanation": "A military bombing campaign (Military) with massive civilian casualties and lasting ethical debate (Social)."
+}

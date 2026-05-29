@@ -1,0 +1,15 @@
+{
+  "id": "Q166",
+  "unit": 11,
+  "unit_name": "History",
+  "topic": "WWII in Europe",
+  "question": "Which is a WWII example of strategic (area) bombing?",
+  "options": {
+    "A": "RAF Bomber Command's area raids on German cities (e.g., Operation Gomorrah, Hamburg 1943)",
+    "B": "A single precision strike on a railway junction",
+    "C": "The Brazilian Expeditionary Force in Italy",
+    "D": "The Atlantic Charter meeting"
+  },
+  "answer": "A",
+  "explanation": "RAF nighttime area campaigns under Harris, such as Operation Gomorrah over Hamburg (~40,000 killed), exemplify strategic area bombing."
+}

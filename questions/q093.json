@@ -1,0 +1,15 @@
+{
+  "id": "Q093",
+  "unit": 11,
+  "unit_name": "History",
+  "topic": "WWII in Europe",
+  "question": "What was the Argentine coup d'état of 1943?",
+  "options": {
+    "A": "A communist revolution backed by the USSR",
+    "B": "A military coup that ousted the civilian government and brought nationalist, pro-Axis officers to power",
+    "C": "A British-led occupation of Argentina",
+    "D": "A peaceful transfer of power to Juan Perón by election"
+  },
+  "answer": "B",
+  "explanation": "Nationalist military officers seized power; Juan Perón emerged as a key figure from the new regime."
+}

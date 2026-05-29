@@ -1,0 +1,15 @@
+{
+  "id": "Q133",
+  "unit": 11,
+  "unit_name": "History",
+  "topic": "WWII in Europe",
+  "question": "Why is the Maginot Line significant to the study of WWII Europe?",
+  "options": {
+    "A": "Its failure showed static defense was obsolete against Blitzkrieg and contributed to France's rapid collapse",
+    "B": "It successfully stopped the German invasion",
+    "C": "It was used to invade Germany",
+    "D": "It protected Britain from invasion"
+  },
+  "answer": "A",
+  "explanation": "It symbolizes backward-looking strategy; Germany simply bypassed it, and France fell in about six weeks in 1940."
+}

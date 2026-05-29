@@ -1,0 +1,15 @@
+{
+  "id": "Q130",
+  "unit": 11,
+  "unit_name": "History",
+  "topic": "WWII in Europe",
+  "question": "Why is Lebensborn significant to the study of WWII Europe?",
+  "options": {
+    "A": "It shows the biological/reproductive dimension of Nazi racial ideology, not just extermination",
+    "B": "It was a charity supported by the Allies",
+    "C": "It ended Nazi racial policy",
+    "D": "It had no link to occupied countries"
+  },
+  "answer": "A",
+  "explanation": "Thousands of children were abducted for Germanization, showing racial ideology penetrated social policy deeply."
+}

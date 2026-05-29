@@ -1,0 +1,15 @@
+{
+  "id": "Q111",
+  "unit": 11,
+  "unit_name": "History",
+  "topic": "WWII in Europe",
+  "question": "What was the Brazilian Expeditionary Force?",
+  "options": {
+    "A": "A naval blockade of South America",
+    "B": "About 25,000 Brazilian troops who fought in the Italian Campaign (1944-45)",
+    "C": "A group of Brazilian diplomats at the UN",
+    "D": "A Brazilian air force unit stationed in Britain"
+  },
+  "answer": "B",
+  "explanation": "Brazil was the only Latin American nation to send combat troops to Europe, fighting in Italy under Allied command."
+}

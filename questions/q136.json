@@ -1,0 +1,15 @@
+{
+  "id": "Q136",
+  "unit": 11,
+  "unit_name": "History",
+  "topic": "WWII in Europe",
+  "question": "Why is the Nuremberg Tribunal significant to the study of WWII Europe?",
+  "options": {
+    "A": "It set the precedent for international war crimes prosecution and codified 'crimes against humanity'",
+    "B": "It started WWII",
+    "C": "It freed all Nazi defendants",
+    "D": "It dissolved the United Nations"
+  },
+  "answer": "A",
+  "explanation": "It laid the foundation for modern international criminal law and later tribunals and the ICC."
+}

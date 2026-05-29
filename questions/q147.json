@@ -1,0 +1,15 @@
+{
+  "id": "Q147",
+  "unit": 11,
+  "unit_name": "History",
+  "topic": "WWII in Europe",
+  "question": "What was the Thiaroye Massacre?",
+  "options": {
+    "A": "A 1944 massacre of Senegalese colonial troops by French forces over unpaid wages",
+    "B": "A German attack on a French colony",
+    "C": "A naval battle off West Africa",
+    "D": "A Nazi extermination operation"
+  },
+  "answer": "A",
+  "explanation": "In December 1944, French forces killed Senegalese tirailleurs protesting non-payment after serving in Europe; France suppressed it for decades."
+}

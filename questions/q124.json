@@ -1,0 +1,15 @@
+{
+  "id": "Q124",
+  "unit": 11,
+  "unit_name": "History",
+  "topic": "WWII in Europe",
+  "question": "Why is the Hossbach Memorandum significant to the study of WWII Europe?",
+  "options": {
+    "A": "It is key evidence of Hitler's premeditated, expansionist intentions, used at Nuremberg",
+    "B": "It was a peace proposal that prevented war",
+    "C": "It ended the Treaty of Versailles",
+    "D": "It documented Allied bombing targets"
+  },
+  "answer": "A",
+  "explanation": "It is used to argue that Nazi aggression was planned in advance and shows the radicalization of German foreign policy."
+}

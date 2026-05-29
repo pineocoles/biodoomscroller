@@ -1,0 +1,15 @@
+{
+  "id": "Q123",
+  "unit": 11,
+  "unit_name": "History",
+  "topic": "WWII in Europe",
+  "question": "What was the Hossbach Memorandum?",
+  "options": {
+    "A": "A 1937 document recording Hitler's plans for aggressive territorial expansion",
+    "B": "A treaty between Germany and Poland",
+    "C": "A list of German war casualties",
+    "D": "An Allied invasion plan"
+  },
+  "answer": "A",
+  "explanation": "It recorded a November 1937 meeting in which Hitler outlined expansion into Austria, Czechoslovakia, and beyond."
+}

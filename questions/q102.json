@@ -1,0 +1,15 @@
+{
+  "id": "Q102",
+  "unit": 11,
+  "unit_name": "History",
+  "topic": "WWII in Europe",
+  "question": "What was the (Second) Battle of El Alamein?",
+  "options": {
+    "A": "A 1942 decisive Allied victory over Axis forces in North Africa under Montgomery",
+    "B": "A German victory that captured the Suez Canal",
+    "C": "An air battle over the Mediterranean",
+    "D": "A naval engagement off the coast of Italy"
+  },
+  "answer": "A",
+  "explanation": "In Oct-Nov 1942 Montgomery's Eighth Army defeated Axis forces, turning the tide in North Africa."
+}

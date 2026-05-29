@@ -1,0 +1,15 @@
+{
+  "id": "Q121",
+  "unit": 11,
+  "unit_name": "History",
+  "topic": "WWII in Europe",
+  "question": "Why is the Enigma Machine significant to the study of WWII Europe?",
+  "options": {
+    "A": "Allied decryption (ULTRA) provided decisive intelligence in battles like El Alamein and the Atlantic",
+    "B": "It was never successfully decoded",
+    "C": "It was a weapon that caused mass casualties",
+    "D": "It was a propaganda broadcast system"
+  },
+  "answer": "A",
+  "explanation": "Breaking Enigma showed that intelligence and technology could be as decisive as battlefield force."
+}

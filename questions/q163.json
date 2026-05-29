@@ -1,0 +1,15 @@
+{
+  "id": "Q163",
+  "unit": 11,
+  "unit_name": "History",
+  "topic": "WWII in Europe",
+  "question": "Which feature best distinguishes precision bombing?",
+  "options": {
+    "A": "It deliberately targets civilian morale across whole cities",
+    "B": "It aims at specific military or industrial targets to limit collateral damage",
+    "C": "It uses only incendiary bombs",
+    "D": "It is carried out exclusively at night"
+  },
+  "answer": "B",
+  "explanation": "Precision bombing targets specific infrastructure (factories, rail, bridges); the U.S. favored it in doctrine, though real-world accuracy was limited."
+}
