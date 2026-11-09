@@ -567,12 +567,19 @@ function handleAnswer(card, btn, data) {
   updateStreakUI();
 
   // show feedback sheet
+  setBackgroundMood(isCorrect ? "bg-correct" : "bg-wrong");
   showFeedback(isCorrect, data.explanation);
 }
 
 // ============================================================
 // feedback sheet
 // ============================================================
+// background gradient colour: "bg-correct", "bg-wrong", or null for the normal blue-yellow
+function setBackgroundMood(mood) {
+  document.body.classList.remove("bg-correct", "bg-wrong");
+  if (mood) document.body.classList.add(mood);
+}
+
 function showFeedback(isCorrect, explanation) {
   const sheet = document.getElementById("feedbackSheet");
   const tag = document.getElementById("feedbackTag");
@@ -678,6 +685,9 @@ function attachScrollObserver() {
   const feed = document.getElementById("feed");
   feed.addEventListener("scroll", () => {
     const scrollPos = feed.scrollTop;
+    // moving to another card resets the background to blue-yellow
+    const cardIdx = Math.round(scrollPos / window.innerHeight);
+    if (cardIdx !== state.lastCardIdx) { state.lastCardIdx = cardIdx; setBackgroundMood(null); }
     const viewportH = window.innerHeight;
     const totalH = feed.scrollHeight;
     // when within 2 cards of bottom, append more

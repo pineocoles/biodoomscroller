@@ -15,6 +15,7 @@
   --wrong: #ff5e5e;
   --border: rgba(243, 239, 230, 0.08);
   --border-strong: rgba(243, 239, 230, 0.18);
+  --card-veil: rgba(10, 10, 12, 0.7);
 
   --font-display: 'Fraunces', Georgia, serif;
   --font-mono: 'IBM Plex Mono', ui-monospace, monospace;
@@ -36,6 +37,7 @@
   --wrong: #d32f2f;
   --border: rgba(45, 38, 34, 0.08);
   --border-strong: rgba(45, 38, 34, 0.18);
+  --card-veil: rgba(250, 249, 247, 0.72);
 }
 
 * { box-sizing: border-box; margin: 0; padding: 0; }
@@ -51,10 +53,8 @@ html, body {
 }
 
 body {
-  /* subtle grain */
-  background-image:
-    radial-gradient(ellipse at top, rgba(212, 255, 58, 0.04) 0%, transparent 50%),
-    radial-gradient(ellipse at bottom, rgba(212, 255, 58, 0.02) 0%, transparent 50%);
+  /* transparent so the pulsing gradient layer (.bg-glow) shows through; <html> keeps the base colour */
+  background: transparent;
   min-height: 100dvh;
 }
 
@@ -145,7 +145,7 @@ body {
   scroll-snap-stop: always;
   display: grid;
   place-items: center;
-  background: var(--bg);
+  background: var(--card-veil); /* translucent: a hint of the gradient shows on phones */
   overflow: hidden;
 }
 
@@ -1044,3 +1044,114 @@ body {
   .author { margin-bottom: 0.35rem; }
   .avatar-initials { width: 32px; height: 32px; font-size: 13px; }
 }
+
+/* =========================================================
+   PULSING BACKGROUND GRADIENT
+   blue-yellow normally · green-yellow after a right answer · red-blue after a wrong one
+   Fills the whole window on PC (instead of the plain side bars).
+   ========================================================= */
+.bg-glow {
+  position: fixed;
+  inset: -12%;
+  z-index: -1;
+  pointer-events: none;
+  animation: bg-pulse 6s ease-in-out infinite;
+}
+.bg-layer { position: absolute; inset: 0; opacity: 0; transition: opacity 0.7s ease; }
+.bg-base {
+  background:
+    radial-gradient(circle at 18% 22%, rgba(58, 110, 255, 0.55), transparent 55%),
+    radial-gradient(circle at 82% 78%, rgba(255, 212, 58, 0.45), transparent 55%);
+}
+.bg-right {
+  background:
+    radial-gradient(circle at 18% 22%, rgba(46, 232, 111, 0.55), transparent 55%),
+    radial-gradient(circle at 82% 78%, rgba(232, 255, 58, 0.5), transparent 55%);
+}
+.bg-wrong {
+  background:
+    radial-gradient(circle at 18% 22%, rgba(255, 59, 78, 0.55), transparent 55%),
+    radial-gradient(circle at 82% 78%, rgba(58, 91, 255, 0.5), transparent 55%);
+}
+body:not(.bg-correct):not(.bg-wrong) .bg-base,
+body.bg-correct .bg-right,
+body.bg-wrong .bg-wrong { opacity: 1; }
+@keyframes bg-pulse {
+  0%, 100% { opacity: 0.55; transform: scale(1); }
+  50%      { opacity: 0.95; transform: scale(1.06); }
+}
+@media (prefers-reduced-motion: reduce) { .bg-glow { animation: none; opacity: 0.75; } }
+/* keep the right/wrong colour visible behind the answer sheet (lighter dimming) */
+body.bg-correct .scrim.open, body.bg-wrong .scrim.open { background: rgba(0, 0, 0, 0.18); }
+
+/* =========================================================
+   GLASS LOOK + STRONGER GRADIENT ON PHONES + LIGHT MODE
+   ========================================================= */
+:root {
+  --card-veil: rgba(10, 10, 12, 0.34);        /* thinner veil → gradient clearly visible on phones */
+  --glass: rgba(255, 255, 255, 0.07);
+  --glass-hover: rgba(255, 255, 255, 0.12);
+  --glass-border: rgba(255, 255, 255, 0.16);
+  --glass-shine: rgba(255, 255, 255, 0.20);
+  --glass-shadow: 0 8px 24px rgba(0, 0, 0, 0.25);
+}
+[data-theme="light"] {
+  --card-veil: rgba(250, 249, 247, 0.30);
+  --glass: rgba(255, 255, 255, 0.50);
+  --glass-hover: rgba(255, 255, 255, 0.65);
+  --glass-border: rgba(255, 255, 255, 0.85);
+  --glass-shine: rgba(255, 255, 255, 0.95);
+  --glass-shadow: 0 8px 24px rgba(60, 50, 90, 0.12);
+}
+
+/* frosted-glass answer buttons */
+.option {
+  background: var(--glass);
+  border: 1px solid var(--glass-border);
+  backdrop-filter: blur(14px) saturate(150%);
+  -webkit-backdrop-filter: blur(14px) saturate(150%);
+  box-shadow: inset 0 1px 0 var(--glass-shine), var(--glass-shadow);
+}
+@media (hover: hover) { .option:hover { background: var(--glass-hover); } }
+.option.correct { background: rgba(111, 255, 142, 0.20); border-color: var(--correct); }
+.option.wrong   { background: rgba(255, 94, 94, 0.20);  border-color: var(--wrong); }
+.option.locked  { opacity: 0.8; }
+
+/* glass topic tag + top-bar buttons */
+.q-card .topic-tag, .iconbtn, .streak {
+  backdrop-filter: blur(10px) saturate(140%);
+  -webkit-backdrop-filter: blur(10px) saturate(140%);
+}
+.iconbtn, .streak { background: var(--glass); border-color: var(--glass-border); }
+
+/* on PC each card is a glass panel floating on the gradient */
+@media (min-width: 768px) {
+  .reel, .card {
+    border-radius: 28px;
+    border: 1px solid var(--glass-border);
+    box-shadow: inset 0 1px 0 var(--glass-shine), 0 20px 60px rgba(0, 0, 0, 0.35);
+  }
+}
+
+/* light mode: softer, pastel gradient + light top bar */
+[data-theme="light"] .bg-base {
+  background:
+    radial-gradient(circle at 18% 22%, rgba(80, 130, 255, 0.45), transparent 55%),
+    radial-gradient(circle at 82% 78%, rgba(255, 205, 40, 0.45), transparent 55%);
+}
+[data-theme="light"] .bg-right {
+  background:
+    radial-gradient(circle at 18% 22%, rgba(40, 200, 100, 0.45), transparent 55%),
+    radial-gradient(circle at 82% 78%, rgba(215, 240, 40, 0.5), transparent 55%);
+}
+[data-theme="light"] .bg-wrong {
+  background:
+    radial-gradient(circle at 18% 22%, rgba(240, 60, 80, 0.42), transparent 55%),
+    radial-gradient(circle at 82% 78%, rgba(70, 100, 255, 0.42), transparent 55%);
+}
+[data-theme="light"] .topbar { background: linear-gradient(180deg, rgba(250,249,247,0.85) 0%, rgba(250,249,247,0) 100%); }
+[data-theme="light"] .overlay { background: linear-gradient(to bottom, transparent 60%, rgba(250,249,247,0.55) 100%); }
+[data-theme="light"] .caption p, [data-theme="light"] .caption-expand-btn { color: var(--ink); text-shadow: none; }
+[data-theme="light"] .meta_count-container svg { filter: none; }
+[data-theme="light"] .meta_count { text-shadow: none; }
+[data-theme="light"] body.bg-correct .scrim.open, [data-theme="light"] body.bg-wrong .scrim.open { background: rgba(250, 249, 247, 0.12); }
