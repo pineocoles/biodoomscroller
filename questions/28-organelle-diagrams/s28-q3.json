@@ -1,0 +1,11 @@
+{
+  "q": "Which describes good practice when drawing a mitochondrion for an IB exam?",
+  "options": [
+    "Shade the cristae and matrix to show depth, and put arrowheads on the ends of the label lines",
+    "Draw both membranes as a single line, which keeps the diagram simple, clear and quick to label",
+    "Clear unbroken lines, no shading, ruled label lines that don't cross, and both membranes shown",
+    "Write each label directly on top of the structure it names, so no label lines are needed at all"
+  ],
+  "correct": 2,
+  "explanation": "Drawing marks are awarded for clear, correctly labelled structures. Use sharp continuous lines with no shading; show the envelope as two separate lines with the inner membrane folded into cristae; draw label lines with a ruler, without arrowheads, ending exactly on the structure and never crossing; print labels neatly to the side. Add a title and, where relevant, a scale bar or magnification."
+}

@@ -1,0 +1,11 @@
+{
+  "q": "During prolonged fasting, glycogen stores run out, yet cells keep making ATP. Which explanation is correct?",
+  "options": [
+    "ATP stored in adipose tissue is released into the blood and taken up by cells as they need it",
+    "Cells stop making ATP and rely on heat released by earlier respiration until food arrives",
+    "Liver cells reduce CO2 back into glucose using energy from the electron transport chain",
+    "Fatty acids, and later amino acids from protein, are respired instead of glucose"
+  ],
+  "correct": 3,
+  "explanation": "Respiration can release energy from any suitable organic compound. Once glycogen is used up, triglycerides are hydrolysed and fatty acids are broken into acetyl groups that enter the Krebs cycle. In extended starvation, proteins are broken down; amino acids are deaminated and their carbon skeletons are respired. Animals can't fix CO2 into glucose, and ATP is never stored in fat tissue."
+}

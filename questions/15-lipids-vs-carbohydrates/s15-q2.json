@@ -1,0 +1,11 @@
+{
+  "q": "Why are carbohydrates, not lipids, the fuel for intense anaerobic exercise?",
+  "options": [
+    "Fatty acids are respired via acetyl groups and the Krebs cycle (O2 needed); glucose can use glycolysis",
+    "Lipids can't be stored anywhere in the human body, so none are available during intense exercise",
+    "Lipids release less energy per gram than carbohydrates, so they are a poorer fuel",
+    "Carbohydrates are respired inside the mitochondria, whereas lipids are respired in the cytoplasm"
+  ],
+  "correct": 0,
+  "explanation": "Fatty acids are cut into 2C acetyl units in the matrix (β-oxidation, producing NADH and FADH2), which enter the Krebs cycle – both depend on the ETC regenerating NAD+/FAD, so they need O2. Only the small glycerol part can enter glycolysis. Glucose can yield ATP without O2 (glycolysis + lactate) and is mobilised faster because it is water-soluble."
+}

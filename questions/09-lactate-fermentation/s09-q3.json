@@ -1,0 +1,11 @@
+{
+  "q": "Muscle tissue in anaerobic conditions is treated with a drug that blocks lactate dehydrogenase. Predict the outcome.",
+  "options": [
+    "NADH builds up and NAD+ runs out, so glycolysis stops and ATP production collapses",
+    "ATP production rises, because pyruvate is no longer wasted by being turned into lactate",
+    "Pyruvate enters the Krebs cycle instead, which keeps ATP production at its normal level",
+    "The muscle cells switch to producing ethanol and CO2 to regenerate their NAD+ instead"
+  ],
+  "correct": 0,
+  "explanation": "Without O2 the electron transport chain can't reoxidise NADH, and with lactate dehydrogenase blocked there is no other route to regenerate NAD+. Triose phosphate oxidation stops, so glycolytic ATP production halts. The Krebs cycle needs NAD+ and a working electron transport chain (O2), and human cells lack the enzymes for ethanol fermentation."
+}

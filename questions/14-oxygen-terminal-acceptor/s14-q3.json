@@ -1,0 +1,11 @@
+{
+  "q": "Why is oxygen such an effective terminal electron acceptor?",
+  "options": [
+    "It is highly electronegative, so passing electrons to it at the end releases the most energy",
+    "It is a large molecule that can store many electrons permanently without forming any product",
+    "It is produced inside mitochondria, so it is always available exactly where it is needed",
+    "It has a low affinity for electrons, so it passes them on easily to ATP synthase in the membrane"
+  ],
+  "correct": 0,
+  "explanation": "Electrons move from carriers with lower electron affinity (NADH) to higher, and O2 – with the highest – sits at the end, giving the largest overall energy drop. That is why aerobic respiration yields far more ATP than anaerobic. The product, water, is harmless. O2 reaches mitochondria by diffusion; it is not made there."
+}

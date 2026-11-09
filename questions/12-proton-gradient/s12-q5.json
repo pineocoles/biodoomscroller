@@ -1,0 +1,11 @@
+{
+  "q": "In brown fat of hibernating mammals, thermogenin lets H+ flow back into the matrix without passing through ATP synthase. What is the effect?",
+  "options": [
+    "Electron transport stops, because the proton gradient becomes far too steep to pump against",
+    "ATP production increases, because protons re-enter the matrix much faster than before",
+    "Electron transport and O2 use stay high, but the energy is released as heat rather than ATP",
+    "O2 consumption falls to zero, because the cells no longer need to produce any ATP"
+  ],
+  "correct": 2,
+  "explanation": "Thermogenin (UCP1) uncouples electron transport from ATP synthesis. With the gradient continually dissipated, there is no 'back-pressure' on the pumps, so substrate oxidation and O2 use continue at a high rate while the gradient's energy is lost as heat. This non-shivering thermogenesis keeps hibernating mammals and newborn babies warm."
+}

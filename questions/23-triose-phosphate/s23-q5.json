@@ -1,0 +1,11 @@
+{
+  "q": "What happens to the carbon chemistry when GP is converted to TP?",
+  "options": [
+    "Carbon is oxidised: hydrogen is removed from GP and passed on to NADP+ to form NADPH",
+    "Carbon is reduced: an acid group gains hydrogen from NADPH and becomes a sugar (aldehyde) group",
+    "Nothing happens to the carbon itself: only a phosphate group from ATP is added to GP",
+    "Carbon is reduced by gaining extra oxygen atoms, which are taken from the CO2 that was fixed"
+  ],
+  "correct": 1,
+  "explanation": "GP (glycerate-3-phosphate) is an acid with a carboxyl group; TP (glyceraldehyde-3-phosphate) is a sugar with an aldehyde group. Gaining hydrogen/electrons is reduction. This step stores energy from light (carried by ATP and NADPH) as chemical energy in carbohydrate – the reverse of what happens when sugars are oxidised in respiration."
+}

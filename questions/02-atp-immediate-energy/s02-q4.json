@@ -1,0 +1,11 @@
+{
+  "q": "Why can't the energy in glucose be used directly to power a membrane pump, without first being transferred to ATP?",
+  "options": [
+    "Glucose cannot cross the plasma membrane, so its chemical energy is never available inside the cell",
+    "Glucose contains no chemical energy at all until mitochondria convert it into ATP molecules",
+    "Membrane pumps are driven by light energy absorbed by the membrane, which glucose can't supply",
+    "Glucose holds far too much energy for one pump; ATP delivers small packets by phosphorylating it"
+  ],
+  "correct": 3,
+  "explanation": "Cellular machinery is built to be driven by ATP: the terminal phosphate is transferred to the pump protein (phosphorylation), changing its shape. One mole of glucose holds ~2870 kJ – far more than any single reaction needs – so respiration 'repackages' it into ~30 ATP. This is why ATP is called the energy currency of the cell."
+}

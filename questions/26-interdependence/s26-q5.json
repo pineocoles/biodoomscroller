@@ -1,0 +1,11 @@
+{
+  "q": "Which observation would best show that the Calvin cycle depends on light only indirectly?",
+  "options": [
+    "Chloroplasts fix CO2 much faster when lit by green light than when lit by red light",
+    "Isolated thylakoids release O2 in the light even when no CO2 is present in the buffer",
+    "Rubisco extracted from leaves strongly absorbs blue light, just like chlorophyll does",
+    "Chloroplasts in the dark can fix CO2 for a short time if supplied with ATP and NADPH"
+  ],
+  "correct": 3,
+  "explanation": "When supplied with ATP and NADPH, the stroma's Calvin cycle enzymes fix CO2 without light (Arnon's experiments) – the cycle needs only the products of the light-dependent reactions, not light itself. In a living leaf, though, Rubisco and other enzymes are also activated by light-driven changes in stroma pH and Mg2+, so fixation stops quickly in darkness."
+}

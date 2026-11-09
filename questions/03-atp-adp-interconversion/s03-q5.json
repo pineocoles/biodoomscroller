@@ -1,0 +1,11 @@
+{
+  "q": "Why are energy-requiring cell reactions coupled to ATP hydrolysis?",
+  "options": [
+    "ATP hydrolysis lowers the temperature of the cell, which allows energy-requiring reactions to proceed",
+    "ATP hydrolysis releases more energy than the reaction needs, so the coupled process can proceed",
+    "ATP hydrolysis converts the energy-requiring reaction into a catabolic one that breaks large molecules down",
+    "Coupling allows new energy to be created from the phosphate group, so the reaction gains extra energy"
+  ],
+  "correct": 1,
+  "explanation": "Reactions such as joining amino acids or pumping ions against a gradient can't happen on their own. Linking them to ATP hydrolysis – often by transferring the phosphate to a substrate or protein – makes the combined process release energy overall. Some energy is always lost as heat at each transfer, so energy transfers in cells are never 100% efficient."
+}

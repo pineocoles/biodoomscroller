@@ -1,0 +1,11 @@
+{
+  "q": "Isolated thylakoids are illuminated in a buffer containing ADP, Pi and NADP+. Which products appear?",
+  "options": [
+    "ATP, NADPH, O2 and glucose, since thylakoids contain the complete photosynthetic machinery",
+    "ATP, NADPH and O2, but no sugar, because the Calvin cycle enzymes are in the stroma",
+    "Only O2, because ATP synthase and NADP reductase can't work without the stroma",
+    "Only glucose and O2, because ATP and NADPH are used up as soon as they are made"
+  ],
+  "correct": 1,
+  "explanation": "Thylakoids alone are a complete system for the light-dependent reactions: photolysis (O2), electron transport to NADP+ (NADPH) and chemiosmosis (ATP). Carbon fixation needs Rubisco and the other Calvin cycle enzymes in the stroma, plus CO2, so no sugar is made. This shows the division of labour inside the chloroplast."
+}

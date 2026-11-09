@@ -1,0 +1,11 @@
+{
+  "q": "Which statement correctly describes photolysis in photosystem II?",
+  "options": [
+    "2H2O → 4H+ + 4 electrons + O2; electrons refill P680, H+ build the gradient, O2 is a by-product",
+    "6CO2 + 6H2O → C6H12O6 + 6O2: all of the oxygen released comes from the CO2 that is fixed",
+    "H2O → H2 + ½O2: the hydrogen gas released is then used directly to reduce GP in the Calvin cycle",
+    "2H2O + 4 electrons → 4H+ + O2: the four electrons needed are taken from NADPH made by PSI"
+  ],
+  "correct": 0,
+  "explanation": "The oxygen-evolving complex (a manganese cluster on the lumen side of PSII) splits water using the strong oxidising power of P680+. The 4 electrons refill P680 after four light-driven excitations; the 4 H+ are released into the lumen, adding to the gradient used by ATP synthase; O2 diffuses out of the leaf through stomata or is used in respiration."
+}

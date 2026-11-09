@@ -1,0 +1,11 @@
+{
+  "q": "A student draws the cristae of a mitochondrion as separate, free-floating sacs inside the matrix. Why is this incorrect?",
+  "options": [
+    "Cristae are folds of the inner membrane, so they must be drawn continuous with it",
+    "Cristae are part of the outer membrane, so they should be drawn attached to the outside",
+    "Cristae should be drawn as stacked, coin-like discs, in the same way as chloroplast grana",
+    "Cristae are found in the intermembrane space, not inside the matrix"
+  ],
+  "correct": 0,
+  "explanation": "The inner membrane folds inwards to form cristae, which project into the matrix; the space inside each fold connects to the intermembrane space. Free-floating sacs look like thylakoids – which in chloroplasts really are separate from the inner membrane. This is one of the most common reasons for losing a drawing mark."
+}

@@ -1,0 +1,11 @@
+{
+  "q": "Glycolysis can continue without oxygen, but only if NAD+ is regenerated. Why?",
+  "options": [
+    "No step uses O2, but oxidising triose phosphate needs NAD+, and the cell's NAD+ pool is small",
+    "The phosphorylation step needs O2, and NAD+ can act as a stand-in hydrogen acceptor when O2 runs out",
+    "NAD+ supplies the phosphate groups that are transferred to ADP to form ATP in glycolysis",
+    "NAD+ is the enzyme that splits hexose bisphosphate into two triose phosphates during lysis"
+  ],
+  "correct": 0,
+  "explanation": "Glycolysis occurs in the cytoplasm and never uses O2. But each glucose reduces 2 NAD+, and the cell has only a limited amount. With O2, NADH is reoxidised by the electron transport chain; without O2, pyruvate is reduced to lactate (humans) or ethanol + CO2 (yeast), regenerating NAD+ so glycolysis keeps producing ATP."
+}

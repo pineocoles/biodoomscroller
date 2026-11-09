@@ -1,0 +1,11 @@
+{
+  "q": "What is meant by 'oxidative decarboxylation' in the Krebs cycle?",
+  "options": [
+    "Adding CO2 to a substrate, using energy supplied by reduced NAD",
+    "Removing a carbon as CO2 together with hydrogen, which reduces NAD+",
+    "Removing oxygen from a substrate and releasing it from the cell as O2 gas",
+    "Removing a phosphate group from a substrate to form ATP"
+  ],
+  "correct": 1,
+  "explanation": "Decarboxylation removes a carboxyl group as CO2; oxidation removes hydrogen, which is accepted by NAD+. In the Krebs cycle, citrate (6C) → 5C and 5C → 4C each release CO2 and reduce NAD+. The link reaction is also an oxidative decarboxylation (pyruvate → acetyl + CO2 + NADH). Adding CO2 to a molecule is carboxylation – what Rubisco does in photosynthesis."
+}

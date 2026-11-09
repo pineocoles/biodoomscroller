@@ -1,0 +1,11 @@
+{
+  "q": "Energy transfer within an antenna complex moves consistently towards the reaction centre. What best explains this direction?",
+  "options": [
+    "Excited electrons physically travel through the stroma from each pigment towards the reaction centre",
+    "Pigments nearer the centre absorb longer, lower-energy wavelengths, so energy flows 'downhill' to it",
+    "The reaction centre absorbs the very highest-energy wavelengths, which pulls the energy in towards it",
+    "Transfer is completely random, so most of the energy is lost before reaching the centre"
+  ],
+  "correct": 1,
+  "explanation": "Resonance transfer passes energy from pigments with higher-energy excited states to those with slightly lower energy. Carotenoids and chlorophyll b towards the edge pass energy to chlorophyll a, and finally to the reaction-centre chlorophyll a (P680/P700), which has the lowest excitation energy. This 'energy funnel' makes transfer one-way and very efficient."
+}

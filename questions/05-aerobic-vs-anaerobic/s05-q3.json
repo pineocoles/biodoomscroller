@@ -1,0 +1,11 @@
+{
+  "q": "After intense exercise, breathing rate stays raised for several minutes. Which best explains this 'oxygen debt'?",
+  "options": [
+    "Extra O2 is used to convert lactate back to pyruvate/glucose and to restore ATP and O2 stores",
+    "Extra O2 is needed so that muscle cells can convert the CO2 they released back into glucose",
+    "Lactate has to be exhaled through the lungs as a gas, which requires deeper and faster breathing",
+    "O2 is needed to restart glycolysis, which stops completely during intense exercise"
+  ],
+  "correct": 0,
+  "explanation": "Lactate is carried in the blood to the liver, where it is converted back to pyruvate and then either respired aerobically or made into glucose/glycogen – processes that need ATP from aerobic respiration. Extra O2 also reoxygenates myoglobin and haemoglobin and restores ATP and creatine phosphate. Lactate is not exhaled, and glycolysis never stops."
+}

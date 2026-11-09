@@ -1,0 +1,11 @@
+{
+  "q": "During a 100 m sprint, much of the ATP comes from anaerobic respiration despite its low yield. Why?",
+  "options": [
+    "Anaerobic respiration produces more ATP per glucose molecule than aerobic respiration does",
+    "It makes ATP much faster and doesn't depend on O2 delivery, which can't increase quickly enough",
+    "Lactate is a more powerful direct energy source for muscle contraction than ATP itself is",
+    "Oxygen becomes toxic to muscle cells during intense exercise, so mitochondria stop using it entirely"
+  ],
+  "correct": 1,
+  "explanation": "This is a rate-versus-yield trade-off. Glycolysis is fast (few steps, all in the cytoplasm) and works without O2, whose supply is limited by breathing, heart rate and diffusion. In short, intense bursts, muscles add anaerobic ATP on top of aerobic ATP – at the cost of a low yield per glucose and lactate build-up. Aerobic respiration never stops."
+}

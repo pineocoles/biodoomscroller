@@ -1,0 +1,11 @@
+{
+  "q": "Why does removing hydrogen from respiratory substrates release energy that can be used to make ATP?",
+  "options": [
+    "Removing hydrogen breaks every carbon–carbon bond at once, sending all of the heat directly into ATP",
+    "Oxidation adds energy-rich oxygen atoms to the substrate, which raises its energy content",
+    "The electrons removed are high-energy and release it as they pass to acceptors with greater affinity",
+    "Reduced substrates contain less chemical energy than oxidised ones, so the difference is released as ATP"
+  ],
+  "correct": 2,
+  "explanation": "Reduced molecules, rich in C–H bonds, contain more chemical energy than oxidised ones such as CO2. Hydrogen removed by dehydrogenases is carried by NAD and FAD to the electron transport chain, where electrons move 'downhill' to carriers of increasing electron affinity, ending with O2. The energy released at each step pumps protons, which drives ATP synthesis."
+}

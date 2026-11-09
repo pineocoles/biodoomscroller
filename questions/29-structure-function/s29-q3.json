@@ -1,0 +1,11 @@
+{
+  "q": "Which structure–function statement applies to BOTH mitochondria and chloroplasts?",
+  "options": [
+    "A small inner space (intermembrane space or lumen) lets a steep proton gradient form quickly",
+    "Large stacks of thylakoids provide a big surface area for absorbing as much light as possible",
+    "Rubisco dissolved in the matrix fixes CO2 into organic compounds using ATP from the cristae",
+    "Cristae contain chlorophyll and photosystems, allowing photophosphorylation to take place"
+  ],
+  "correct": 0,
+  "explanation": "Both organelles make ATP by chemiosmosis: protons are pumped into a narrow compartment – the mitochondrial intermembrane space or the thylakoid lumen – so a high H+ concentration develops from relatively few protons, maximising the force driving H+ through ATP synthase. Both also have a double membrane, 70S ribosomes and naked circular DNA."
+}

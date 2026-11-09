@@ -1,0 +1,11 @@
+{
+  "q": "Which statement correctly describes the energy changes in the ATP–ADP cycle?",
+  "options": [
+    "ATP hydrolysis releases energy for cell work; making ATP from ADP + Pi needs energy from respiration or light",
+    "Both hydrolysis and synthesis of ATP release energy, so ATP can be recycled indefinitely without an energy source",
+    "Synthesis of ATP releases energy that is stored in ADP, and hydrolysis of ADP then powers cell processes",
+    "Hydrolysis of ATP requires an input of energy, while condensation of ADP and Pi into ATP releases energy"
+  ],
+  "correct": 0,
+  "explanation": "ATP + H2O → ADP + Pi releases energy, which is used for active transport, movement and synthesis. The reverse – a condensation reaction joining Pi to ADP – requires energy, so it must be coupled to an energy source: the oxidation of organic compounds in respiration, or light in photosynthesis (photophosphorylation). Energy flows through the cycle; it is not recycled."
+}

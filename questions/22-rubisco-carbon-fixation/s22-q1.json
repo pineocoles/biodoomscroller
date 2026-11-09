@@ -1,0 +1,11 @@
+{
+  "q": "In Calvin's 'lollipop' experiments, algae given 14CO2 for only ~5 seconds and then killed in hot methanol had most of the label in glycerate-3-phosphate (GP). What does this show?",
+  "options": [
+    "CO2 is first converted directly into glucose, which is then broken down further into GP",
+    "GP is the first stable product of carbon fixation, formed when Rubisco adds CO2 to RuBP",
+    "Triose phosphate is the first product of carbon fixation, and GP is only made from it later",
+    "RuBP is synthesised from CO2 in a single step, then converted directly into GP"
+  ],
+  "correct": 1,
+  "explanation": "By shortening exposure times and separating compounds by chromatography and autoradiography, Calvin traced the order of labelling: GP first, then triose phosphate, hexoses and later RuBP – revealing the cycle. Hot methanol stopped all enzyme reactions instantly. Rubisco carboxylates RuBP (5C) to an unstable 6C intermediate that splits into two GP (3C)."
+}

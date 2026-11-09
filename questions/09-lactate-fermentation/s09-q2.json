@@ -1,0 +1,11 @@
+{
+  "q": "Which statement about the conversion of pyruvate to lactate is correct?",
+  "options": [
+    "Pyruvate is oxidised and NAD+ is reduced, and one CO2 is released per pyruvate",
+    "Pyruvate is first decarboxylated to a 2C compound, which is then reduced to lactate",
+    "Pyruvate is reduced and NADH is oxidised; no CO2 is released",
+    "Lactate formation requires oxygen to act as the final hydrogen acceptor"
+  ],
+  "correct": 2,
+  "explanation": "Lactate (3C) has the same number of carbons as pyruvate (3C), so there is no decarboxylation – unlike yeast, where pyruvate → ethanal + CO2 → ethanol. Pyruvate acts as the hydrogen acceptor in place of O2: it is reduced, while NADH is oxidised back to NAD+."
+}

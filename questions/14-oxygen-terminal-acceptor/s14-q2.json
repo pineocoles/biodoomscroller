@@ -1,0 +1,11 @@
+{
+  "q": "Cyanide binds to complex IV and stops it passing electrons to O2. Why is this so rapidly fatal?",
+  "options": [
+    "Cyanide destroys glucose before it can enter glycolysis, starving cells of their respiratory substrate",
+    "Electron flow and H+ pumping stop, NAD+ isn't regenerated, and glycolysis alone can't meet demand",
+    "Cyanide makes oxygen react directly with ATP, destroying the cell's entire ATP supply",
+    "Cyanide makes the ETC run so fast that it produces a toxic overload of ATP in the cell"
+  ],
+  "correct": 1,
+  "explanation": "With the final step blocked, all carriers stay reduced: no electron flow, no proton pumping, no gradient, no chemiosmosis. NADH and FADH2 can't be reoxidised, so the Krebs cycle and link reaction stop too. Anaerobic glycolysis (2 ATP per glucose) can't supply tissues with high demand such as the heart and brain – the effect is like a total lack of O2."
+}

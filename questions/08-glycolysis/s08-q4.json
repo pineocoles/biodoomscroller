@@ -1,0 +1,11 @@
+{
+  "q": "Glycolysis occurs in almost all living organisms. Which statement about it is best supported?",
+  "options": [
+    "It occurs in the mitochondrial matrix, which explains why only eukaryotic cells are able to carry it out",
+    "It runs in the cytoplasm without O2 or organelles, suggesting it evolved very early in life's history",
+    "It occurs on the inner mitochondrial membrane and evolved only after O2 built up in the air",
+    "It occurs only in the chloroplast stroma, so it is restricted to plants and algae"
+  ],
+  "correct": 1,
+  "explanation": "Glycolytic enzymes are dissolved in the cytoplasm, so the pathway needs no membrane-bound organelles and no oxygen. It is nearly universal in prokaryotes and eukaryotes – consistent with it evolving in early anaerobic cells, before oxygen accumulated in the atmosphere. It is the shared first stage of both aerobic and anaerobic respiration."
+}

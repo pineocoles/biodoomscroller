@@ -1,0 +1,11 @@
+{
+  "q": "Which sequence shows the path of electrons through the thylakoid in non-cyclic photophosphorylation?",
+  "options": [
+    "H2O → PSII → plastoquinone → cytochrome b6f → plastocyanin → PSI → ferredoxin → NADP+",
+    "NADP+ → ferredoxin → PSI → plastocyanin → cytochrome b6f → plastoquinone → PSII → H2O",
+    "PSI → H2O → PSII → ferredoxin → ATP synthase → plastocyanin → cytochrome b6f → NADP+",
+    "H2O → PSI → plastocyanin → PSII → ATP synthase → ferredoxin → plastoquinone → O2"
+  ],
+  "correct": 0,
+  "explanation": "Electrons are taken from water at PSII, boosted by light, and passed down an ETC (plastoquinone → cytochrome b6f → plastocyanin) whose energy pumps H+. They are re-excited at PSI and passed via ferredoxin to NADP reductase, which reduces NADP+. ATP synthase is not on the electron path – it uses the H+ gradient. A key sequence for the 8-mark light-dependent reactions answer."
+}

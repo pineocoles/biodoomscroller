@@ -1,0 +1,11 @@
+{
+  "q": "Phosphofructokinase, an early enzyme of glycolysis, is inhibited by high ATP and activated by high ADP/AMP. What does this show about respiration as a system?",
+  "options": [
+    "Respiration is controlled by positive feedback, so ATP production keeps accelerating once it starts",
+    "ATP output is regulated by negative feedback, matching the rate of respiration to energy demand",
+    "Glycolysis can only take place once all the ATP in the cell has been completely used up",
+    "ATP is the only substrate of phosphofructokinase, so more ATP always speeds glycolysis up"
+  ],
+  "correct": 1,
+  "explanation": "When ATP is plentiful it binds an allosteric site on phosphofructokinase and slows glycolysis – end-product (negative feedback) inhibition. As ATP is used and ADP/AMP rise, the enzyme is activated and respiration speeds up. This self-regulation is a property of respiration as a system: ATP supply tracks demand without wasting substrate."
+}

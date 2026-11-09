@@ -1,0 +1,11 @@
+{
+  "q": "What is the main purpose of converting pyruvate to lactate in human muscle under anaerobic conditions?",
+  "options": [
+    "To produce extra ATP from pyruvate when the mitochondria cannot be used",
+    "To oxidise reduced NAD back to NAD+, so glycolysis can keep making ATP",
+    "To release CO2, which keeps the pH of the muscle cells constant",
+    "To store energy as lactate for long-term use during later exercise"
+  ],
+  "correct": 1,
+  "explanation": "Lactate dehydrogenase transfers hydrogen from NADH to pyruvate: pyruvate + NADH + H+ → lactate + NAD+. No ATP is made in this step – its value is regenerating NAD+ for the triose phosphate oxidation step of glycolysis. Without it, NAD+ would run out and glycolysis, the only ATP source without O2, would stop."
+}

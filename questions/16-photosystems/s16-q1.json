@@ -1,0 +1,11 @@
+{
+  "q": "What happens when a photon is absorbed by a pigment molecule in a photosystem's light-harvesting (antenna) complex?",
+  "options": [
+    "An electron is excited, and the energy is passed from pigment to pigment by resonance to the reaction centre",
+    "The pigment immediately emits an electron, which travels through the stroma to reach the reaction centre",
+    "The photon splits the pigment molecule apart, and the fragments release O2 into the lumen",
+    "The photon's energy is converted directly into ATP by the pigment, without any electron flow"
+  ],
+  "correct": 0,
+  "explanation": "Antenna pigments (chlorophylls and carotenoids) absorb photons, exciting electrons to higher energy levels. The energy – not the electron itself – is transferred from molecule to molecule by resonance until it reaches the reaction centre. There, a special pair of chlorophyll a molecules uses it to emit an excited electron to a primary electron acceptor (photoactivation)."
+}

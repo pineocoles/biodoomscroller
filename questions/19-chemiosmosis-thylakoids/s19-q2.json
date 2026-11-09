@@ -1,0 +1,11 @@
+{
+  "q": "In chloroplasts, which way do protons flow through ATP synthase, and where is the ATP released?",
+  "options": [
+    "From the stroma into the lumen; ATP is released inside the thylakoid lumen for photolysis",
+    "From the lumen into the stroma; ATP is released into the stroma for the Calvin cycle",
+    "From the intermembrane space into the stroma; ATP is released into the cytoplasm",
+    "From the stroma into the cytoplasm; ATP is exported to fuel respiration"
+  ],
+  "correct": 1,
+  "explanation": "ATP synthase spans the thylakoid membrane with its catalytic head facing the stroma. H+ diffuse down their gradient from the lumen (high H+) to the stroma, driving ATP synthesis (photophosphorylation). The ATP appears exactly where it is needed – in the stroma – to convert GP to triose phosphate and to regenerate RuBP. (In mitochondria, ATP is likewise made on the matrix side.)"
+}

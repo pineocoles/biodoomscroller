@@ -1,0 +1,11 @@
+{
+  "q": "Rubisco can also react with O2 instead of CO2. When is this most likely, and why is it wasteful?",
+  "options": [
+    "In cool, dark conditions – O2 reacts with Rubisco to produce extra glucose overnight",
+    "In hot, dry, bright conditions when stomata close – RuBP is wasted and fixed CO2 is lost",
+    "At high CO2 levels – Rubisco becomes fully saturated with CO2 and switches over to using O2",
+    "At night – Rubisco reacts with O2 to make ATP, which then competes with the light reactions"
+  ],
+  "correct": 1,
+  "explanation": "Rubisco's active site can't fully tell CO2 from O2. When stomata close to save water, CO2 inside the leaf falls and O2 from photosynthesis builds up; heat also favours the oxygenase reaction. RuBP + O2 gives one GP plus a 2C compound that must be recycled at an energy cost, releasing CO2 (photorespiration). C4 and CAM plants concentrate CO2 around Rubisco to reduce this."
+}

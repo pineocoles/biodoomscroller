@@ -1,0 +1,11 @@
+{
+  "q": "Why must respiration occur continuously in every living cell, rather than only when the organism is active?",
+  "options": [
+    "Cells keep large ATP reserves, but these must be topped up after each period of high activity such as exercise",
+    "ATP is used within seconds and can't be stored or shared between cells, so each cell must keep remaking it",
+    "Only muscle and liver cells actually need ATP; other cells respire mainly to get rid of excess glucose",
+    "ATP is made mainly in the liver and carried in the blood plasma to other cells, so the liver respires nonstop"
+  ],
+  "correct": 1,
+  "explanation": "Even at rest, cells need a constant ATP supply for active transport (e.g. Na+/K+ pumps), protein synthesis and other processes. ATP is unstable, present only in small amounts and not transported between cells, so every living cell – including plant root and leaf cells, day and night – must respire continuously to regenerate ATP from ADP + Pi."
+}

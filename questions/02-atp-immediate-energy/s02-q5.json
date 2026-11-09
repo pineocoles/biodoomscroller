@@ -1,0 +1,11 @@
+{
+  "q": "Suppose a person contains about 50 g of ATP at any moment but hydrolyses about 40 kg of ATP per day. What does this imply?",
+  "options": [
+    "Each ATP is regenerated ~800 times a day, so ATP is a rapidly recycled carrier, not a store",
+    "About 40 kg of new adenine must be absorbed from food daily to replace the ATP that is used up",
+    "Extra ATP is stored in adipose tissue between meals and released when the 50 g pool runs low",
+    "Each ATP molecule lasts about 800 days before it is hydrolysed, so ATP is a long-term store"
+  ],
+  "correct": 0,
+  "explanation": "40 000 g ÷ 50 g = 800, so each ATP molecule is hydrolysed to ADP + Pi and rephosphorylated about 800 times per day – roughly every 2 minutes. The adenosine part is recycled, not replaced. This huge turnover shows ATP is an immediate, short-term energy carrier that respiration must constantly regenerate; long-term storage uses glycogen and lipids."
+}

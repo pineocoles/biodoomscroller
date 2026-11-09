@@ -1,0 +1,11 @@
+{
+  "q": "How do photosystem II (P680) and photosystem I (P700) differ in the non-cyclic pathway?",
+  "options": [
+    "P680 is found in mitochondria and P700 in chloroplasts; both refill electrons from water",
+    "P680 passes its electrons directly to NADP, while P700 splits water to replace the electrons it lost",
+    "P680 refills its electrons from water; P700 refills its electrons from the ETC via plastocyanin",
+    "They are identical; the numbers simply show the order in which they were discovered"
+  ],
+  "correct": 2,
+  "explanation": "Both reaction centres contain chlorophyll a, but different protein surroundings give absorption peaks at 680 and 700 nm (the P-numbers are wavelengths; I and II reflect order of discovery). PSII acts first: its excited electrons enter the ETC and P680+ is refilled by photolysis of water. PSI's excited electrons reduce NADP via ferredoxin, and P700+ is refilled by electrons arriving from PSII via plastocyanin."
+}

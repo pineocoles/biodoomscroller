@@ -1,0 +1,11 @@
+{
+  "q": "Which is the most valid way to compare respiration rates of two invertebrate species with very different body masses?",
+  "options": [
+    "Compare the total O2 volume used per tube, since body mass has little effect on respiration",
+    "Measure only the time taken for the fluid to start moving, regardless of the distance moved",
+    "Express rate as O2 used per gram per minute, with several animals and repeated trials",
+    "Use just one animal of each species, so that individual differences don't mix the results"
+  ],
+  "correct": 2,
+  "explanation": "Larger organisms use more O2 in total, so rates must be standardised per unit mass (e.g. mL O2 per gram per minute). Smaller animals usually have higher mass-specific rates. Using several individuals and repeats improves reliability; temperature, acclimatisation time, activity level and the amount of CO2 absorber must be kept constant."
+}

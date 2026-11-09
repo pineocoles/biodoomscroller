@@ -1,0 +1,11 @@
+{
+  "q": "A muscle fibre contains only enough ATP for a few seconds of contraction, yet it can contract for minutes. What best explains this?",
+  "options": [
+    "ATP is imported from the blood, where it is carried at high concentration from the liver",
+    "Respiration rapidly turns ADP + Pi back into ATP, so the small ATP pool is recycled",
+    "Once contraction starts, myosin no longer needs ATP, so the stored ATP lasts much longer",
+    "Each ATP molecule can be hydrolysed several times before it is finally converted to ADP"
+  ],
+  "correct": 1,
+  "explanation": "The ATP pool is small but turned over very fast. As soon as ATP is hydrolysed, ADP + Pi are converted back to ATP by aerobic and anaerobic respiration (muscles also use creatine phosphate as an instant phosphate donor). ATP is not transported between cells, and each hydrolysis gives ADP – ATP can't be reused without being resynthesised."
+}

@@ -1,0 +1,11 @@
+{
+  "q": "Which structure–function pair for the chloroplast is correct?",
+  "options": [
+    "The thylakoid lumen contains Rubisco, so CO2 can be fixed right beside the photosystems",
+    "Stroma holds the Calvin cycle enzymes beside the thylakoids, so ATP and NADPH reach them fast",
+    "The grana contain all of the Calvin cycle enzymes, which maximises the rate of carbon fixation",
+    "The outer membrane holds the photosystems, so they receive the most light possible"
+  ],
+  "correct": 1,
+  "explanation": "The light-dependent reactions take place on thylakoid membranes, and their products (ATP and NADPH) are released on the stromal side – straight into the stroma, where Rubisco and the other Calvin cycle enzymes are dissolved. Compartments keep enzymes and substrates concentrated, and keep the lumen separate so a proton gradient can form."
+}

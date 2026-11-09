@@ -1,0 +1,11 @@
+{
+  "q": "Which comparison of aerobic and anaerobic respiration in human muscle is correct?",
+  "options": [
+    "Anaerobic respiration produces ethanol and CO2, whereas aerobic respiration produces lactate, CO2 and water",
+    "Aerobic uses O2 and mitochondria (~30 ATP/glucose); anaerobic stays in the cytoplasm, makes lactate (2 ATP)",
+    "Anaerobic respiration yields more ATP per glucose than aerobic, but it releases that ATP more slowly",
+    "Aerobic respiration happens only in the cytoplasm, and anaerobic respiration happens only in mitochondria"
+  ],
+  "correct": 1,
+  "explanation": "Human anaerobic respiration = glycolysis + conversion of pyruvate to lactate, all in the cytoplasm, giving net 2 ATP per glucose and no CO2 (unlike yeast, which makes ethanol + CO2). Aerobic respiration continues pyruvate through the link reaction, Krebs cycle and oxidative phosphorylation in mitochondria, yielding about 15 times more ATP per glucose."
+}

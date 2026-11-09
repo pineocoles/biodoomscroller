@@ -1,0 +1,11 @@
+{
+  "q": "How is NADP reduced in the light-dependent reactions?",
+  "options": [
+    "Excited electrons from P700 pass via ferredoxin to NADP reductase, which forms NADPH using H+",
+    "Electrons released by photolysis pass straight to NADP+ dissolved inside the thylakoid lumen",
+    "NADP+ is reduced by ATP synthase each time a group of protons flows through it into the stroma",
+    "NADP+ is reduced by accepting electrons from O2 molecules at the very end of the transport chain"
+  ],
+  "correct": 0,
+  "explanation": "PSI absorbs light (P700) and emits high-energy electrons to ferredoxin, an iron–sulfur protein on the stromal side. The enzyme NADP reductase transfers 2 electrons plus H+ to NADP+, forming reduced NADP. P700+ is refilled by electrons arriving from PSII via plastocyanin. Using up H+ from the stroma also steepens the proton gradient."
+}

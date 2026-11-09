@@ -1,0 +1,11 @@
+{
+  "q": "Which is a key SIMILARITY between ATP synthesis in mitochondria and in chloroplasts?",
+  "options": [
+    "In both, the energy source that drives the electron transport chain is light absorbed by pigments",
+    "In both, O2 is the final acceptor of electrons from the transport chain",
+    "In both, an ETC pumps H+ into a small compartment, and H+ flow back through ATP synthase",
+    "In both, protons are pumped into the matrix or stroma, where ATP synthase sits"
+  ],
+  "correct": 2,
+  "explanation": "Both use chemiosmosis: an ETC in a membrane (cristae or thylakoid), H+ concentrated in a narrow space (intermembrane space or thylakoid lumen), and ATP synthase. Differences: the electrons' energy comes from oxidising NADH/FADH2 vs from light; the final electron acceptor is O2 vs NADP+; and the processes are called oxidative phosphorylation vs photophosphorylation."
+}

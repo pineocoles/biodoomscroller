@@ -1,0 +1,11 @@
+{
+  "q": "Which of these cellular processes does NOT directly require energy from ATP hydrolysis?",
+  "options": [
+    "Pumping Na+ out of and K+ into a neuron by the sodium–potassium pump",
+    "Moving chromosomes towards the poles on spindle microtubules in mitosis",
+    "Diffusion of O2 from alveolar air into red blood cells",
+    "Linking amino acids together into polypeptides during translation"
+  ],
+  "correct": 2,
+  "explanation": "ATP supplies energy for three broad categories: active transport (e.g. the Na+/K+ pump), movement (muscle contraction, chromosome and vesicle movement, cilia and flagella) and anabolism (synthesis of macromolecules such as proteins and DNA). Diffusion is passive: molecules move down a concentration gradient using their own kinetic energy, so no ATP is needed."
+}

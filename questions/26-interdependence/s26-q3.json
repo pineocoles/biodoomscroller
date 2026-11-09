@@ -1,0 +1,11 @@
+{
+  "q": "If CO2 is unavailable, why do the light-dependent reactions eventually slow down, even in bright light?",
+  "options": [
+    "CO2 is needed by photosystem II as the raw material to split water and release O2",
+    "Without CO2, chlorophyll molecules can no longer absorb light energy in the antenna",
+    "ATP and NADPH aren't used, so NADP+ and ADP run out and electron flow backs up",
+    "CO2 is the source of the protons that are pumped into the thylakoid lumen by the ETC"
+  ],
+  "correct": 2,
+  "explanation": "The thylakoid reactions need oxidised NADP+ to accept electrons from PSI and ADP + Pi for ATP synthase. When the Calvin cycle stops, these aren't regenerated: NADPH and ATP accumulate, electron flow stalls and O2 release falls. Excess absorbed energy can then damage the photosystems (photoinhibition) – one reason carotenoids and cyclic flow are protective."
+}

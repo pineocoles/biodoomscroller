@@ -1,0 +1,11 @@
+{
+  "q": "For every 3 CO2 molecules fixed, how many triose phosphates are made, and how many leave the cycle as net product?",
+  "options": [
+    "3 TP are made, and all 3 are exported from the chloroplast",
+    "6 TP are made; 1 is the net product and 5 regenerate 3 RuBP",
+    "6 TP are made, and all 6 are exported to the cytoplasm to make glucose",
+    "1 TP is made, and it is used to regenerate RuBP"
+  ],
+  "correct": 1,
+  "explanation": "3 RuBP (15C) + 3 CO2 (3C) → 6 GP (18C) → 6 TP (18C). Five TP (15C) are recycled to regenerate 3 RuBP (15C), and one TP (3C) – a net gain equal to the 3 carbons fixed – leaves the cycle to make sugars and other compounds. Two exported TP (from 6 CO2) can be combined into one hexose such as glucose."
+}

@@ -1,0 +1,11 @@
+{
+  "q": "Which sequence correctly outlines oxidative phosphorylation (as needed for the 8-mark Part II answer)?",
+  "options": [
+    "NADH/FADH2 give electrons to carriers → energy pumps H+ out → H+ return via ATP synthase → ATP; O2 accepts electrons",
+    "H+ flow through ATP synthase first → electrons are pumped into the intermembrane space → NADH is formed → O2 is released",
+    "ATP synthase pumps H+ out of the matrix → electrons flow onto NAD+ → H+ return through the carriers → O2 is made from water",
+    "O2 donates electrons to complex IV → electrons flow back to NADH → H+ pumped into the matrix → ATP is formed"
+  ],
+  "correct": 0,
+  "explanation": "Mark-scheme points: reduced NAD/FAD donate electrons to the ETC on the inner membrane (cristae); electrons pass from carrier to carrier, releasing energy; this energy pumps H+ from the matrix into the intermembrane space; a high H+ concentration builds in this small space; H+ diffuse back through ATP synthase (chemiosmosis); ADP + Pi → ATP; O2 is the terminal electron acceptor, combining with electrons and H+ to form water."
+}

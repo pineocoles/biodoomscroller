@@ -1,0 +1,11 @@
+{
+  "q": "A student moves a lamp to different distances from pondweed to vary light intensity. Which improvement best ensures that only light intensity is changing?",
+  "options": [
+    "Use a different piece of pondweed at each distance so that the plant never gets tired out",
+    "Count bubbles for just 10 seconds at each distance so that more distances can be tested",
+    "Use a heat shield or LED, and add excess sodium hydrogen carbonate so CO2 isn't limiting",
+    "Change the colour of the lamp's light as well as its distance, to cover more wavelengths"
+  ],
+  "correct": 2,
+  "explanation": "A filament lamp also heats the water as it moves closer, so temperature would change too – a confounding variable. A transparent heat shield, water bath or LED prevents this, and NaHCO3 supplies plenty of dissolved CO2. Use the same plant, let it acclimatise at each distance, repeat readings, and measure O2 volume (bubbles vary in size). Light intensity ∝ 1/distance²."
+}

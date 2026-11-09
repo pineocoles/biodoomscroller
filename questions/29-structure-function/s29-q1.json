@@ -1,0 +1,11 @@
+{
+  "q": "How does the structure of the cristae support ATP production in a mitochondrion?",
+  "options": [
+    "Folding of the inner membrane gives a large surface area for many ETCs and ATP synthases",
+    "Cristae enlarge the intermembrane space, so it can store a much larger number of protons",
+    "Cristae store glucose so that glycolysis can take place right next to the matrix",
+    "Cristae contain the circular DNA that codes for each molecule of ATP made"
+  ],
+  "correct": 0,
+  "explanation": "More inner membrane means more electron transport chains and ATP synthase molecules, so more oxidative phosphorylation. Very active cells, such as heart muscle, have mitochondria with densely packed cristae. Exam pattern: 'structure → function', e.g. 'cristae increase surface area for ETC and ATP synthase'."
+}

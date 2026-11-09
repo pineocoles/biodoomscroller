@@ -1,0 +1,11 @@
+{
+  "q": "Why does anaerobic respiration in humans yield only 2 ATP per glucose?",
+  "options": [
+    "Pyruvate isn't oxidised further: most energy stays in lactate, so only glycolysis makes ATP",
+    "Converting pyruvate into lactate uses up 28 of the 30 ATP molecules that glycolysis produced",
+    "Lactate dehydrogenase hydrolyses most of the ATP made during glycolysis back into ADP",
+    "Glycolysis uses 4 ATP and makes only 2 ATP whenever oxygen is unavailable to the cell"
+  ],
+  "correct": 0,
+  "explanation": "Glycolysis makes 4 ATP and uses 2 → net 2. Converting pyruvate to lactate only regenerates NAD+; it makes no ATP. Lactate still holds most of glucose's chemical energy – which is why it can later be converted back to pyruvate and respired aerobically. Without O2 the electron transport chain stops, so there is no oxidative phosphorylation."
+}

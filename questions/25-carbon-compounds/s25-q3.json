@@ -1,0 +1,11 @@
+{
+  "q": "Why do plants convert surplus glucose into starch for storage, rather than storing glucose itself?",
+  "options": [
+    "Starch is insoluble and osmotically inactive, so storing it doesn't draw in water",
+    "Starch is more soluble than glucose, so it diffuses much faster to the growing tissues",
+    "Starch can be used directly by ribosomes as the raw material for making new proteins",
+    "Starch releases more energy per gram when respired than lipids or glucose do"
+  ],
+  "correct": 0,
+  "explanation": "Large amounts of dissolved glucose would raise the solute concentration of cells, causing water to enter by osmosis. Starch is large, insoluble and compact, and can be hydrolysed back to glucose when needed (e.g. at night). For transport, plants use sucrose – soluble but less reactive than glucose. Starch grains build up in chloroplasts during the day."
+}

@@ -1,0 +1,11 @@
+{
+  "q": "Algae with plenty of CO2 are photosynthesising in bright light. The light is switched off. Why does RuBP concentration fall rapidly?",
+  "options": [
+    "RuBP is broken down by light-dependent enzymes that become active in darkness",
+    "Remaking RuBP needs ATP and TP (made with ATP + NADPH), while Rubisco keeps using RuBP up",
+    "Darkness inhibits Rubisco, which then converts RuBP into GP without needing any CO2",
+    "RuBP is exported from the chloroplast in darkness to make sucrose for transport in phloem"
+  ],
+  "correct": 1,
+  "explanation": "In darkness ATP and NADPH run out within seconds. GP can't be reduced to TP (so GP accumulates), and without TP and ATP, RuBP isn't regenerated. Rubisco carries on carboxylating the remaining RuBP for a short time, so RuBP falls. Calvin used this to show the pathway is a cycle that depends on the light reactions."
+}

@@ -1,0 +1,11 @@
+{
+  "q": "Using ~2.5 ATP per NADH and ~1.5 ATP per FADH2, how much ATP comes from the NADH and FADH2 made by the link reaction and Krebs cycle for one glucose?",
+  "options": [
+    "23 ATP",
+    "28 ATP",
+    "20 ATP",
+    "25 ATP"
+  ],
+  "correct": 0,
+  "explanation": "Link reaction: 2 NADH; Krebs cycle: 6 NADH + 2 FADH2 per glucose. 8 × 2.5 = 20 and 2 × 1.5 = 3, so 23 ATP (20 ignores FADH2; 25 treats FADH2 like NADH; 28 wrongly adds glycolysis's NADH). Including glycolysis's 2 NADH and the 4 substrate-level ATP gives about 30–32 ATP per glucose."
+}

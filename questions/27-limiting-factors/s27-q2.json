@@ -1,0 +1,11 @@
+{
+  "q": "Curve 1 (0.1% CO2, 25°C) levels off at 80 units; curve 2 (0.04% CO2, 25°C) at 40; curve 3 (0.04% CO2, 15°C) at 20. In bright light, what limits curve 2?",
+  "options": [
+    "Temperature, because curve 3 (at 15°C) levels off much lower than curve 2 does",
+    "Light intensity, because all three curves rise together along the same line in dim light",
+    "CO2 concentration, because raising CO2 at the same temperature (curve 1) doubles the rate",
+    "Chlorophyll concentration, because the plateau of curve 2 stays completely flat at 40 units"
+  ],
+  "correct": 2,
+  "explanation": "Compare curves that differ in only one factor. Curves 1 and 2 differ only in CO2: raising CO2 lifts curve 2's plateau from 40 to 80, so CO2 limits curve 2 in bright light. Curves 2 and 3 differ only in temperature, so temperature limits curve 3. In dim light all three curves overlap because light is the limiting factor there. This 'change one variable' logic is the key DBQ skill."
+}

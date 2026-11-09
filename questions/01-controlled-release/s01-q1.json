@@ -1,0 +1,11 @@
+{
+  "q": "Why is it significant that cells oxidise glucose in many small, enzyme-catalysed steps rather than in one step, as in burning?",
+  "options": [
+    "Stepwise oxidation releases more total energy per glucose than combustion, raising the ATP yield",
+    "Energy is released in small amounts that can be captured in ATP rather than mostly lost as heat",
+    "Enzymes supply the activation energy for each step, so the cell never has to invest any ATP",
+    "Each extra step creates a small amount of new energy, so longer pathways give higher yields"
+  ],
+  "correct": 1,
+  "explanation": "The total energy released by oxidising glucose (~2870 kJ/mol) is the same whether it is burned or respired – the pathway can't change it, and energy is never created. Releasing it in small, enzyme-controlled steps lets portions be coupled to ATP synthesis (~30–32 ATP per glucose) instead of being lost all at once as heat. Enzymes lower activation energy; they don't supply energy (glycolysis even invests 2 ATP)."
+}

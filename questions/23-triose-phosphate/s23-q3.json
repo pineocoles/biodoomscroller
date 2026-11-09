@@ -1,0 +1,11 @@
+{
+  "q": "How many ATP and NADPH does the Calvin cycle use to make one glucose (hexose) molecule?",
+  "options": [
+    "6 ATP and 6 NADPH",
+    "12 ATP and 18 NADPH",
+    "18 ATP and 12 NADPH",
+    "9 ATP and 6 NADPH"
+  ],
+  "correct": 2,
+  "explanation": "Per CO2 fixed: 3 ATP + 2 NADPH (2 ATP + 2 NADPH to reduce 2 GP to 2 TP, plus 1 ATP to regenerate RuBP). One glucose needs 6 CO2, so 18 ATP and 12 NADPH. (9 ATP + 6 NADPH is the cost per 3 CO2, i.e. per exported TP.) This 3:2 ratio is why plants top up ATP with cyclic photophosphorylation."
+}

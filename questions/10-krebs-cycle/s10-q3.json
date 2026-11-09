@@ -1,0 +1,11 @@
+{
+  "q": "No step of the Krebs cycle uses O2, yet the cycle stops when O2 runs out. Why?",
+  "options": [
+    "O2 is needed to decarboxylate citrate, so without it no CO2 can be removed from the cycle",
+    "Without O2 the ETC stops, so NADH and FADH2 aren't reoxidised and NAD+ and FAD run out",
+    "O2 directly accepts hydrogen from Krebs intermediates, so without it they can't be oxidised",
+    "O2 is required for the ATP-forming step, so the cycle stops when ATP can no longer be made"
+  ],
+  "correct": 1,
+  "explanation": "The Krebs cycle depends on a supply of oxidised NAD+ and FAD, which are regenerated only when the electron transport chain passes electrons to O2. It is called a cycle because the 4C acceptor, oxaloacetate, is regenerated every turn, so only small amounts of intermediates are needed. So the cycle is aerobic indirectly – just like the link reaction."
+}

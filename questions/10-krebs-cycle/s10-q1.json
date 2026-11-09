@@ -1,0 +1,11 @@
+{
+  "q": "Which correctly summarises the products of ONE turn of the Krebs cycle?",
+  "options": [
+    "2 CO2, 3 reduced NAD, 1 reduced FAD, 1 ATP",
+    "1 CO2, 2 reduced NAD, 2 reduced FAD, 2 ATP",
+    "3 CO2, 3 reduced NAD, 1 reduced FAD, 1 ATP",
+    "2 CO2, 4 reduced NAD, 0 reduced FAD, 2 ATP"
+  ],
+  "correct": 0,
+  "explanation": "Acetyl (2C) joins oxaloacetate (4C) to form citrate (6C). Two decarboxylations release 2 CO2 (6C → 5C → 4C), and four oxidations reduce 3 NAD+ and 1 FAD. One ATP is made by substrate-level phosphorylation, and oxaloacetate is regenerated. Per glucose (2 turns): 4 CO2, 6 reduced NAD, 2 reduced FAD and 2 ATP."
+}

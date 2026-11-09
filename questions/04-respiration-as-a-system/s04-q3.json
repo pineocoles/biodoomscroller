@@ -1,0 +1,11 @@
+{
+  "q": "Glucose labelled with 14C and oxygen gas labelled with 18O are supplied to a cell respiring aerobically. Where does each label end up?",
+  "options": [
+    "14C in water; 18O in carbon dioxide",
+    "14C in carbon dioxide; 18O in water",
+    "Both labels in carbon dioxide",
+    "14C in ATP; 18O in carbon dioxide"
+  ],
+  "correct": 1,
+  "explanation": "Glucose's carbon atoms leave as CO2 during the link reaction (2 CO2) and the Krebs cycle (4 CO2). O2 is used only at the end of the electron transport chain, where it accepts electrons and H+ to form water – so the labelled oxygen appears in H2O, not CO2. (The oxygen in respired CO2 comes from glucose and water.)"
+}

@@ -1,0 +1,11 @@
+{
+  "q": "In glycolysis, ATP is used to phosphorylate glucose. How does this help the pathway proceed?",
+  "options": [
+    "The added phosphate groups supply the oxygen atoms needed to oxidise glucose all the way to pyruvate",
+    "Phosphorylation makes glucose more stable, so it can be stored safely until the cell needs ATP again",
+    "It raises the energy of glucose, making it less stable and more reactive so it can be split",
+    "Phosphorylation releases heat that becomes trapped inside glucose and is later converted back into ATP"
+  ],
+  "correct": 2,
+  "explanation": "When ATP's terminal phosphate is transferred to another molecule, that molecule gains energy and becomes less stable (more reactive). In glycolysis, two phosphorylations turn glucose into hexose bisphosphate, which can then be split (lysis) into two triose phosphates. A bonus: the charged phosphate also traps glucose inside the cell."
+}

@@ -1,0 +1,11 @@
+{
+  "q": "Many respiratory substrates are oxidised by dehydrogenase enzymes. What happens in such a reaction?",
+  "options": [
+    "Two hydrogen atoms are removed from the substrate; NAD+ accepts them, becoming reduced NAD (NADH + H+)",
+    "Oxygen atoms are added to the substrate, and NAD+ releases hydrogen that combines with them to form water",
+    "The substrate gains hydrogen from reduced NAD, which means the substrate itself is being oxidised",
+    "NAD+ donates two electrons to the substrate, becoming oxidised while the substrate is reduced"
+  ],
+  "correct": 0,
+  "explanation": "Oxidation can be loss of electrons, gain of oxygen or – most often in respiration – loss of hydrogen (dehydrogenation). Dehydrogenases remove a pair of hydrogen atoms (2 electrons + 2 H+): NAD+ takes the 2 electrons and one H+ (NAD+ + 2H → NADH + H+). Reduced NAD carries the electrons and their energy to the electron transport chain. Remember OIL RIG."
+}

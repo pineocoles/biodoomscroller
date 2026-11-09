@@ -1,0 +1,11 @@
+{
+  "q": "For 'outline how structure supports function (3 ways)' for a chloroplast, which answer would score full marks?",
+  "options": [
+    "It has a double membrane around it; it contains its own DNA; it contains many 70S ribosomes",
+    "Chloroplasts are green in colour; they are found mainly in leaves; they make glucose for the plant",
+    "Thylakoids give a large area for light absorption; a small lumen builds an H+ gradient; Calvin enzymes are in the stroma",
+    "Thylakoids carry out the Calvin cycle; the stroma absorbs light energy; starch grains are where water is split"
+  ],
+  "correct": 2,
+  "explanation": "Each marking point must link a structure to how it helps the function. Just listing structures (double membrane, DNA) scores nothing, and wrong functions lose credit. Other valid points: pigments arranged in photosystems absorb a range of wavelengths; ATP synthase in thylakoid membranes makes ATP by chemiosmosis; starch grains store the products; DNA and 70S ribosomes allow some proteins to be made in the chloroplast."
+}

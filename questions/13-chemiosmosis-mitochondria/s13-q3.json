@@ -1,0 +1,11 @@
+{
+  "q": "DNP, once sold as a slimming drug, carries H+ across the inner mitochondrial membrane. Which set of effects is expected?",
+  "options": [
+    "ATP synthesis rises, O2 consumption falls and body temperature drops, as less heat is made",
+    "ATP synthesis falls, O2 consumption and fat breakdown rise, and body temperature increases",
+    "ATP synthesis and O2 consumption both stop completely within seconds of taking the drug",
+    "Only glycolysis in the cytoplasm is affected; the mitochondria continue working normally"
+  ],
+  "correct": 1,
+  "explanation": "DNP is an uncoupler: it lets H+ re-enter the matrix without passing through ATP synthase, so the gradient's energy is lost as heat. To try to meet ATP demand, cells oxidise more substrate (including fat), so O2 consumption rises. Overdoses cause fatal hyperthermia. It shows that ATP synthesis depends on the proton gradient, not directly on electron flow."
+}

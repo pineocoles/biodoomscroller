@@ -634,7 +634,9 @@ function loadFilters() {
   const raw = localStorage.getItem(STORAGE.filters);
   if (!raw) { state.activeFilters = null; return; }
   try {
-    const arr = JSON.parse(raw);
+    // ignore saved topics that no longer exist (e.g. after the question set is replaced)
+    const valid = new Set(state.index.units.flatMap(u => u.topics.map(t => t.path)));
+    const arr = JSON.parse(raw).filter(p => valid.has(p));
     state.activeFilters = arr.length ? new Set(arr) : null;
   } catch { state.activeFilters = null; }
 }

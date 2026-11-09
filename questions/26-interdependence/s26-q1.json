@@ -1,0 +1,11 @@
+{
+  "q": "Which best describes the interdependence of the two stages of photosynthesis?",
+  "options": [
+    "The Calvin cycle supplies O2 to the light reactions, which supply CO2 to the Calvin cycle",
+    "Light reactions supply ATP and NADPH; the Calvin cycle returns ADP, Pi and NADP+ to them",
+    "The two stages are independent, so the Calvin cycle can run indefinitely in darkness",
+    "The light reactions supply glucose to the Calvin cycle, which turns it into starch"
+  ],
+  "correct": 1,
+  "explanation": "ATP and NADPH from the thylakoids power the reduction of GP and the regeneration of RuBP. In turn, the Calvin cycle regenerates ADP + Pi (needed by ATP synthase) and NADP+ (the final electron acceptor of PSI). If either stage stops, the other soon stops too. The Calvin cycle is called 'light-independent' only because it doesn't use light directly."
+}

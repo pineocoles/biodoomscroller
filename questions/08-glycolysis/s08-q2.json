@@ -1,0 +1,11 @@
+{
+  "q": "A poison blocks the enzyme that oxidises triose phosphate in glycolysis. What happens to the ATP balance of glycolysis?",
+  "options": [
+    "Net yield stays at 2 ATP, because all of the ATP is formed during the phosphorylation stage",
+    "Net yield rises to 4 ATP, because no ATP is needed to oxidise the triose phosphate",
+    "Glycolysis now uses 2 ATP per glucose but makes none, as ATP-forming steps come later",
+    "Only the yield of reduced NAD is affected; the ATP output of glycolysis stays exactly the same"
+  ],
+  "correct": 2,
+  "explanation": "Glycolysis 'invests' 2 ATP early (phosphorylating glucose). The 'payoff' – oxidation of triose phosphate (reducing NAD+) followed by 4 ATP from substrate-level phosphorylation – comes only after lysis. Blocking the oxidation step stops the payoff, so each glucose costs 2 ATP and triose phosphate accumulates."
+}

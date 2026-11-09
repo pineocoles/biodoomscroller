@@ -1,0 +1,11 @@
+{
+  "q": "Besides absorbing extra wavelengths, how do carotenoids in photosystems help a plant in very bright light?",
+  "options": [
+    "They convert all of the excess light energy into additional ATP that is then used in the Calvin cycle",
+    "They release excess energy as heat and quench reactive oxygen, protecting chlorophyll from damage",
+    "They reflect almost all of the incoming light away from the leaf so that the chloroplasts don't overheat",
+    "They store excess electrons during the day and release them at night"
+  ],
+  "correct": 1,
+  "explanation": "In intense light, excited chlorophyll can pass energy to O2, forming highly reactive singlet oxygen that damages pigments and proteins. Carotenoids quench these excited states and harmlessly release the energy as heat (e.g. the xanthophyll cycle). Mutant plants lacking carotenoids are bleached in bright light."
+}

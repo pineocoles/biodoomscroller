@@ -1,0 +1,11 @@
+{
+  "q": "Which correctly distinguishes substrate-level phosphorylation from oxidative phosphorylation?",
+  "options": [
+    "Substrate-level moves phosphate from an intermediate to ADP; oxidative uses a proton gradient and ATP synthase",
+    "Substrate-level requires O2 as the final electron acceptor; oxidative phosphorylation can occur without any oxygen",
+    "Substrate-level occurs only in chloroplasts; oxidative occurs only in the cytoplasm of prokaryotes and eukaryotes",
+    "Both use ATP synthase in the inner membrane, but only substrate-level phosphorylation produces any reduced NAD"
+  ],
+  "correct": 0,
+  "explanation": "In glycolysis and the Krebs cycle, enzymes transfer a phosphate group straight from a phosphorylated substrate to ADP – a small yield (net 2 ATP from glycolysis and 2 from Krebs per glucose). Most ATP (~26–28 per glucose) comes from oxidative phosphorylation: energy from the electron transport chain pumps H+, and H+ flowing back through ATP synthase phosphorylates ADP. Photophosphorylation in chloroplasts also uses chemiosmosis."
+}

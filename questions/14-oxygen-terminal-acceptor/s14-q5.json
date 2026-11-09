@@ -1,0 +1,11 @@
+{
+  "q": "If a human cell is deprived of oxygen, which stages of respiration stop?",
+  "options": [
+    "Only oxidative phosphorylation; the Krebs cycle carries on making ATP and reduced NAD",
+    "Oxidative phosphorylation, the Krebs cycle and the link reaction; only glycolysis continues",
+    "Glycolysis stops first, because it needs O2 to act as the final hydrogen acceptor for its NAD",
+    "No stage stops completely; all four stages simply continue more slowly than before"
+  ],
+  "correct": 1,
+  "explanation": "O2 is used directly only at complex IV, but all mitochondrial stages depend on it indirectly: without O2 the ETC stops, NADH and FADH2 can't be reoxidised, and the link reaction and Krebs cycle – which need NAD+ and FAD – stop as well. Glycolysis continues only because converting pyruvate to lactate regenerates NAD+."
+}

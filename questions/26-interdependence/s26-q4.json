@@ -1,0 +1,11 @@
+{
+  "q": "After a light is switched off, GP rises sharply for a short time and then levels off, while RuBP falls to near zero. Why does GP level off rather than keep rising?",
+  "options": [
+    "Once RuBP is used up, Rubisco has no CO2 acceptor left, so no more GP can be formed",
+    "GP is broken back down into CO2 by enzymes in the stroma that only work in the dark",
+    "GP is pumped out of the chloroplast into the cytoplasm in darkness to be respired",
+    "ATP from mitochondria converts GP into TP at exactly the same rate as GP is being made"
+  ],
+  "correct": 0,
+  "explanation": "In darkness, GP can't be reduced (no ATP or NADPH), so it accumulates while Rubisco uses up the remaining RuBP. Once RuBP is exhausted, carboxylation stops and GP stays high. ATP from respiration can't rescue the cycle – reducing GP also needs NADPH, which only the light reactions supply."
+}

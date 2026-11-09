@@ -1,0 +1,11 @@
+{
+  "q": "Which set of seven labels is entirely correct for a drawing of a chloroplast?",
+  "options": [
+    "Outer membrane, cristae, matrix, thylakoid, granum, glycogen granule, 80S ribosomes",
+    "Outer membrane, inner membrane, stroma, thylakoid, granum, starch grain, 70S ribosomes",
+    "Double membrane, stroma, nucleolus, granum, thylakoid, 80S ribosomes, central vacuole",
+    "Inner membrane, intermembrane space, cristae, lumen, matrix, starch grain, circular DNA"
+  ],
+  "correct": 1,
+  "explanation": "Chloroplast labels: outer and inner membrane (the envelope), stroma (fluid containing Calvin cycle enzymes), thylakoids (flattened membrane sacs), grana (stacks of thylakoids), stroma/intergranal lamellae, thylakoid lumen, starch grains, lipid droplets, 70S ribosomes and naked circular DNA. Cristae and matrix are mitochondrial; nucleolus and vacuole are parts of the cell; plants store starch, not glycogen."
+}

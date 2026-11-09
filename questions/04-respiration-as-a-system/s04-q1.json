@@ -1,0 +1,11 @@
+{
+  "q": "Viewing aerobic respiration as a system, which correctly lists its inputs and outputs?",
+  "options": [
+    "Inputs: glucose, O2, ADP + Pi. Outputs: CO2, H2O, ATP and heat",
+    "Inputs: CO2, H2O, ATP. Outputs: glucose, O2, ADP + Pi and heat",
+    "Inputs: glucose, CO2, ATP. Outputs: O2, H2O, ADP + Pi",
+    "Inputs: glucose and O2 only. Outputs: ATP only, since all the energy is captured"
+  ],
+  "correct": 0,
+  "explanation": "C6H12O6 + 6O2 → 6CO2 + 6H2O, coupled to ADP + Pi → ATP. Carbon from the substrate leaves as CO2 (link reaction and Krebs cycle); O2 is reduced to water at the end of the electron transport chain. Because energy transfer is inefficient, heat is also an output – which birds and mammals use to maintain body temperature."
+}

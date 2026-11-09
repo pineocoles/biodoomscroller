@@ -1,0 +1,11 @@
+{
+  "q": "Per 3 CO2 fixed, how do the energy requirements of the reduction and regeneration stages compare?",
+  "options": [
+    "Reduction uses 3 ATP; regeneration uses 6 ATP and 6 NADPH",
+    "Reduction uses 6 ATP + 6 NADPH; regeneration uses 3 ATP and no NADPH",
+    "Both stages use equal amounts of ATP and NADPH, 4.5 ATP and 3 NADPH each",
+    "Reduction uses only NADPH; regeneration uses only NADPH"
+  ],
+  "correct": 1,
+  "explanation": "Per 3 CO2: reducing 6 GP to 6 TP needs 6 ATP (phosphorylation) and 6 NADPH (reduction); regenerating 3 RuBP from 5 TP needs 3 ATP. Total 9 ATP : 6 NADPH (3:2). So the Calvin cycle needs more ATP than NADPH – one reason cyclic photophosphorylation is useful."
+}

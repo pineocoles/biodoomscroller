@@ -1,0 +1,11 @@
+{
+  "q": "Textbooks often say energy is 'stored in the high-energy bond' of ATP. Why is this misleading?",
+  "options": [
+    "ATP has no bonds between its phosphates; its usable energy is actually stored in the ribose sugar",
+    "Breaking a bond needs energy; energy is released because ADP + Pi are more stable than ATP + water",
+    "The terminal phosphate bond releases energy only while ATP is being synthesised, not when it is hydrolysed",
+    "The energy is stored in the adenine base and is released when adenine is cut off from the ribose"
+  ],
+  "correct": 1,
+  "explanation": "Bond breaking always requires energy. The net release on hydrolysis happens because the products are more stable: in ATP the three closely packed, negatively charged phosphate groups repel each other, while the released Pi is stabilised by resonance and hydration. For IB answers, 'energy is released when ATP is hydrolysed to ADP and phosphate' is the accepted wording."
+}

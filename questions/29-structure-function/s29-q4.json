@@ -1,0 +1,11 @@
+{
+  "q": "Why is it useful that mitochondria and chloroplasts contain their own DNA and 70S ribosomes?",
+  "options": [
+    "They can make some of their own proteins where they are needed, and can divide on their own",
+    "They never need any proteins coded for by genes in the nucleus, so they are fully independent",
+    "Their DNA codes directly for the glucose and ATP molecules that the organelles produce",
+    "Their 70S ribosomes produce ATP during chemiosmosis, alongside the ATP synthase"
+  ],
+  "correct": 0,
+  "explanation": "Organelle DNA codes for a small number of proteins – e.g. some ETC subunits, and the large subunit of Rubisco – made on 70S ribosomes inside the organelle; most of their proteins are coded in the nucleus and imported. Organelles grow and divide by a binary-fission-like process. Their DNA and 70S ribosomes are evidence for the endosymbiotic theory."
+}

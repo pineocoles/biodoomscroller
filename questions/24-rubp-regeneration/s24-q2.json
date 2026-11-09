@@ -1,0 +1,11 @@
+{
+  "q": "How do 5 triose phosphate molecules regenerate 3 RuBP molecules?",
+  "options": [
+    "Their 15 carbons are rearranged into three 5C sugars, which are then phosphorylated by ATP",
+    "The 5 TP combine with 3 CO2 molecules to form 3 RuBP, using NADPH as the reductant",
+    "The 5 TP are oxidised by NADP+, producing 3 RuBP and releasing 2 CO2 from the chloroplast",
+    "The 5 TP are first split into 15 single-carbon units, which are then joined to make RuBP"
+  ],
+  "correct": 0,
+  "explanation": "No carbon is gained or lost during regeneration: five 3C TP (15C) become three 5C RuBP (15C). The final step uses ATP: ribulose phosphate + ATP → ribulose bisphosphate + ADP, so 3 ATP are used per 3 RuBP. NADPH is not used in this stage – only in reducing GP to TP."
+}

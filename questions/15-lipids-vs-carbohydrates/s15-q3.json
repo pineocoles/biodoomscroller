@@ -1,0 +1,11 @@
+{
+  "q": "Respiratory quotient (RQ) = CO2 produced ÷ O2 consumed. Germinating seeds have an RQ of 0.7. What is the most likely respiratory substrate?",
+  "options": [
+    "Lipid – oxidising its hydrogen-rich chains uses more O2 than the CO2 released",
+    "Carbohydrate – glucose oxidation consumes more O2 than the CO2 it releases",
+    "Protein – amino acids always give an RQ of exactly 0.7 when they are respired",
+    "No substrate – an RQ below 1 shows the seeds are respiring anaerobically"
+  ],
+  "correct": 0,
+  "explanation": "Carbohydrate: C6H12O6 + 6O2 → 6CO2 + 6H2O, so RQ = 6 ÷ 6 = 1.0. Lipids need extra O2 to oxidise their hydrogen to water, so RQ ≈ 0.7. Protein ≈ 0.8–0.9. Oil-rich seeds (e.g. sunflower) have an RQ near 0.7 while germinating. An RQ above 1 suggests some anaerobic respiration (CO2 released without O2 being used)."
+}

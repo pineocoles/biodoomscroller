@@ -1,0 +1,11 @@
+{
+  "q": "Why is NAD described as a hydrogen carrier rather than a substrate that gets used up?",
+  "options": [
+    "It is broken down into CO2 and water once it has accepted hydrogen in the Krebs cycle reactions",
+    "It is repeatedly reduced (accepting H) and reoxidised (donating it), so a small pool is recycled",
+    "A brand-new NAD molecule is synthesised from glucose during each separate turn of the Krebs cycle",
+    "It stores hydrogen atoms permanently until the cell divides, then passes them on to daughter cells"
+  ],
+  "correct": 1,
+  "explanation": "NAD shuttles hydrogen: NAD+ accepts hydrogen from substrates in glycolysis, the link reaction and the Krebs cycle, and is regenerated when NADH is oxidised at the electron transport chain (aerobic) or when pyruvate is reduced to lactate (anaerobic). If NAD+ isn't regenerated, dehydrogenation stops – and so does ATP production."
+}

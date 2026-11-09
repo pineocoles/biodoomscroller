@@ -1,0 +1,11 @@
+{
+  "q": "Isolated chloroplasts with the blue dye DCPIP (colourless when reduced) lose their colour in light but not in the dark. What does this show?",
+  "options": [
+    "DCPIP is oxidised by light energy, which releases extra O2 from the chloroplasts",
+    "Light-driven electron flow produces reducing power; DCPIP accepts electrons in place of NADP+",
+    "The Calvin cycle has used its ATP to reduce DCPIP while it was fixing CO2 in the stroma",
+    "The chloroplasts have made glucose in the light, which bleaches the blue dye as it builds up"
+  ],
+  "correct": 1,
+  "explanation": "This is the Hill reaction. Electrons excited in the photosystems reduce DCPIP (blue → colourless) instead of NADP+. The rate of colour loss measures the rate of light-dependent electron flow. No CO2 is needed, showing that photolysis, O2 release and reduction happen in the light-dependent stage, independently of carbon fixation."
+}

@@ -1,0 +1,11 @@
+{
+  "q": "Why must RuBP be regenerated in the Calvin cycle?",
+  "options": [
+    "RuBP is the final product of the cycle, exported from the chloroplast to make sucrose",
+    "RuBP is needed in the thylakoids to split water and release O2 at photosystem II",
+    "RuBP accepts CO2; if it isn't regenerated, its small pool runs out and fixation stops",
+    "RuBP supplies the chemical energy that Rubisco uses to attach CO2 to other molecules"
+  ],
+  "correct": 2,
+  "explanation": "The Calvin cycle is a cycle because the 5C acceptor is remade. Five of every six TP molecules are rearranged (through 4C, 5C, 6C and 7C sugar phosphates) into three ribulose phosphate molecules, which ATP then phosphorylates to RuBP. Continuous regeneration lets a small pool of RuBP keep fixing CO2."
+}

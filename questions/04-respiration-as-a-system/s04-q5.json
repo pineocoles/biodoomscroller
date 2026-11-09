@@ -1,0 +1,11 @@
+{
+  "q": "Oxidising 1 mol of glucose releases 2870 kJ. If respiration makes 30 mol ATP and each mole stores about 30.5 kJ, what is the efficiency and where does the rest go?",
+  "options": [
+    "About 32%; the rest is released as heat",
+    "About 100%; all the energy is transferred to ATP",
+    "About 3%; most of the energy remains in the CO2 and water",
+    "About 64%; the rest stays stored in reduced NAD"
+  ],
+  "correct": 0,
+  "explanation": "30 × 30.5 = 915 kJ; 915 ÷ 2870 × 100 ≈ 32%. The remaining ~68% is released as heat (used by endotherms to keep warm). CO2 and H2O are low-energy products, and reduced NAD is only an intermediate – it is reoxidised in the electron transport chain, so energy isn't left in it."
+}

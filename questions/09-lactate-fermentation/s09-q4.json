@@ -1,0 +1,11 @@
+{
+  "q": "What happens to lactate after intense exercise, once oxygen is available again?",
+  "options": [
+    "It is excreted unchanged in sweat and urine, because it is a toxic waste product with no use",
+    "It is converted directly into ATP by enzymes inside the same muscle fibres that produced it",
+    "It is stored permanently in muscle, since the reaction that formed it can't be reversed",
+    "It is converted back to pyruvate (mainly in the liver), then respired or made into glucose"
+  ],
+  "correct": 3,
+  "explanation": "The reaction is reversible: lactate + NAD+ → pyruvate + NADH. Lactate travels in the blood to the liver (and heart), where it is oxidised back to pyruvate, which is either respired aerobically or converted into glucose (the Cori cycle). This uses O2 and ATP – part of the oxygen debt. Lactate still holds much of the energy of the original glucose."
+}

@@ -1,0 +1,11 @@
+{
+  "q": "Algae photosynthesising in bright light have their CO2 supply suddenly reduced. What happens to RuBP and GP?",
+  "options": [
+    "RuBP falls and GP rises",
+    "RuBP rises and GP falls",
+    "Both RuBP and GP rise",
+    "Both RuBP and GP fall to zero at once"
+  ],
+  "correct": 1,
+  "explanation": "With less CO2, Rubisco carboxylates less RuBP, so less GP is formed – while existing GP is still converted to TP (using ATP and NADPH) and TP keeps regenerating RuBP. So RuBP accumulates and GP falls. This is the mirror image of switching off the light (GP rises, RuBP falls). Tip: always reason from which reaction has been blocked."
+}

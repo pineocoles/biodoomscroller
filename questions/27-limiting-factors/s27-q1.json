@@ -1,0 +1,11 @@
+{
+  "q": "A graph of photosynthesis rate against light intensity rises steadily, then levels off into a plateau. What does the plateau show?",
+  "options": [
+    "The plant has reached the highest rate of photosynthesis it could achieve under any conditions",
+    "Light is no longer limiting; another factor, such as CO2 or temperature, now limits the rate",
+    "Light intensity is still the limiting factor, but its effect has become smaller",
+    "The chlorophyll has been destroyed by the high light, so the rate can't rise further"
+  ],
+  "correct": 1,
+  "explanation": "By the law of limiting factors, the rate is set by the factor in shortest supply. On the rising part, light limits: more light, faster rate. On the plateau, more light has no effect, so something else – usually CO2 concentration (Rubisco's substrate) or temperature (enzyme activity) – is limiting. Raising that factor would raise the plateau. Damage from excess light would cause a decline, not a flat plateau."
+}

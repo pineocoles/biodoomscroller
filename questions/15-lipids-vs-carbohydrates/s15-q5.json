@@ -1,0 +1,11 @@
+{
+  "q": "Why do animals store most long-term energy as triglycerides rather than glycogen?",
+  "options": [
+    "Triglycerides are more soluble, so they can be mobilised much faster than glycogen",
+    "Triglycerides can be respired anaerobically whenever the oxygen supply to the muscles runs out",
+    "Glycogen can never be broken back down into glucose once it has been stored",
+    "Fat holds twice the energy per gram and is stored without water, so it's much lighter"
+  ],
+  "correct": 3,
+  "explanation": "Lipids release ~37 kJ/g versus ~17 kJ/g for carbohydrate, and because they are hydrophobic they are stored without water – whereas glycogen is stored with several times its mass of water. So fat gives far more energy per unit of body mass, vital for mobile animals. Trade-off: glycogen is mobilised faster and can fuel anaerobic respiration."
+}

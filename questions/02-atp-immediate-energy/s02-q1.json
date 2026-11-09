@@ -1,0 +1,11 @@
+{
+  "q": "Which properties make ATP suitable as an immediately available energy source rather than a long-term energy store?",
+  "options": [
+    "It releases a small, usable packet of energy in one step and is soluble, so it moves quickly around the cell",
+    "It holds more energy per molecule than glucose and is insoluble, so it can be packed densely in cells for later use",
+    "It is very stable, so it can accumulate in large quantities and be released gradually over many hours",
+    "It can only be hydrolysed inside mitochondria, which keeps its energy safely locked away until needed"
+  ],
+  "correct": 0,
+  "explanation": "Hydrolysis of ATP releases a modest packet of energy (~30.5 kJ/mol) in a single step – enough for typical cellular tasks without wasting much as heat. ATP is water-soluble, diffuses rapidly through the cytoplasm and is hydrolysed wherever energy is needed. But it is relatively unstable and present only in small amounts, so long-term stores are glycogen, starch and lipids."
+}

@@ -1,0 +1,11 @@
+{
+  "q": "Why does non-cyclic photophosphorylation need two photosystems (the Z-scheme)?",
+  "options": [
+    "PSII makes the ATP and PSI makes the glucose, so both are needed to complete photosynthesis in light",
+    "Two photosystems are needed to split two water molecules at exactly the same time",
+    "One light boost can't lift electrons from water high enough to reduce NADP, so they're excited twice",
+    "PSI absorbs light only at night, so PSII is needed to keep photosynthesis going by day"
+  ],
+  "correct": 2,
+  "explanation": "Water holds its electrons very tightly, while reducing NADP+ requires electrons at a high energy level. PSII raises electrons from water part of the way – energy released as they pass down the ETC pumps H+ for ATP synthesis – then PSI re-energises them enough to reduce NADP+ via ferredoxin. Drawn as an energy diagram, the path zig-zags like a 'Z'."
+}

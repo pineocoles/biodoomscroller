@@ -1,0 +1,11 @@
+{
+  "q": "On an electron micrograph a mitochondrion is 40 mm long. Its actual length is 2 µm. What is the magnification?",
+  "options": [
+    "×20",
+    "×2 000",
+    "×20 000",
+    "×200 000"
+  ],
+  "correct": 2,
+  "explanation": "Magnification = image size ÷ actual size, in the same units: 40 mm = 40 000 µm, and 40 000 ÷ 2 = ×20 000. Typical mitochondria are about 0.5–1 µm wide and 1–10 µm long; chloroplasts are usually 2–10 µm long. Adding a scale bar or the magnification to your drawing is good practice."
+}

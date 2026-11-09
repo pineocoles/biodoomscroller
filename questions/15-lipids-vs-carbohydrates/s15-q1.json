@@ -1,0 +1,11 @@
+{
+  "q": "Why does 1 g of lipid release roughly twice as much energy as 1 g of carbohydrate when respired?",
+  "options": [
+    "Lipids are respired anaerobically, which releases far more energy than aerobic respiration",
+    "Lipids contain much more oxygen, and this oxygen releases extra energy when freed in respiration",
+    "Lipids have more C–H bonds and less oxygen, so oxidising them reduces more NAD/FAD per gram",
+    "Lipid molecules are smaller than carbohydrates, so many more of them fit into each gram"
+  ],
+  "correct": 2,
+  "explanation": "Fatty acids are highly reduced (long hydrocarbon chains), while carbohydrates are already partly oxidised (roughly CH2O). More hydrogen per gram means more hydrogen carried by NAD and FAD to the ETC – and more ATP (~37 kJ/g for lipid vs ~17 kJ/g for carbohydrate). The trade-off: lipids need more O2 per gram to oxidise fully."
+}

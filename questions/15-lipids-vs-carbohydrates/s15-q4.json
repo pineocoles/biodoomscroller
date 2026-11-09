@@ -1,0 +1,11 @@
+{
+  "q": "Calculate the RQ for the oxidation of the lipid tripalmitin: 2C51H98O6 + 145O2 → 102CO2 + 98H2O",
+  "options": [
+    "1.42",
+    "0.70",
+    "1.00",
+    "0.68"
+  ],
+  "correct": 1,
+  "explanation": "RQ = CO2 ÷ O2 = 102 ÷ 145 = 0.70. Dividing the other way round gives 1.42, and using water instead of CO2 gives 0.68. A value around 0.7 confirms lipid as the substrate (carbohydrate = 1.0), because lipids need extra O2 to oxidise their many hydrogen atoms."
+}

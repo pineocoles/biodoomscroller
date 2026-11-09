@@ -1,0 +1,11 @@
+{
+  "q": "Why is a control tube containing glass beads of the same volume as the seeds set up beside the respirometer?",
+  "options": [
+    "To correct for gas volume changes caused by temperature or pressure, not by respiration",
+    "To supply extra oxygen to the seeds in the experimental tube as their supply runs low",
+    "To absorb the carbon dioxide produced by the seeds in the experimental tube",
+    "To make sure the seeds in the experimental tube receive exactly the same light intensity"
+  ],
+  "correct": 0,
+  "explanation": "Gas volume changes with temperature and atmospheric pressure. A tube with non-living material of equal volume experiences the same physical changes, so any movement there can be subtracted (or the two tubes can be connected as a differential respirometer). Keeping the apparatus in a thermostatically controlled water bath also reduces this error."
+}

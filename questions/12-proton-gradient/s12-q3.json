@@ -1,0 +1,11 @@
+{
+  "q": "In actively respiring mitochondria, the intermembrane space is at pH 7.0 and the matrix is at pH 8.0. Which conclusion is valid?",
+  "options": [
+    "[H+] is ~10× higher in the intermembrane space, so protons were pumped out of the matrix",
+    "The matrix contains about 10 times more H+ than the intermembrane space, because its pH is higher",
+    "H+ concentration differs only by a factor of about 1.1 (8.0 ÷ 7.0), so the gradient is negligible",
+    "Protons have diffused passively into the intermembrane space, moving down their concentration gradient"
+  ],
+  "correct": 0,
+  "explanation": "pH is logarithmic: 1 pH unit = a 10-fold difference in H+ concentration, and lower pH means more H+. The intermembrane space therefore has ~10× more H+. Since protons accumulated against their gradient, energy must have been used – supplied by electron flow through the pumping complexes. A charge difference (matrix negative) adds to the proton-motive force."
+}

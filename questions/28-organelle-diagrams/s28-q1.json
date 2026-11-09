@@ -1,0 +1,11 @@
+{
+  "q": "Which set of seven labels is entirely correct for a drawing of a mitochondrion?",
+  "options": [
+    "Outer membrane, inner membrane, intermembrane space, cristae, matrix, 70S ribosomes, circular DNA",
+    "Outer membrane, inner membrane, thylakoid, granum, stroma, 70S ribosomes, naked circular DNA",
+    "Cell wall, plasma membrane, cristae, matrix, 80S ribosomes, nucleolus, intermembrane space",
+    "Outer membrane, cristae, matrix, starch grain, thylakoid lumen, 80S ribosomes, linear DNA"
+  ],
+  "correct": 0,
+  "explanation": "Mitochondrion: double membrane – a smooth outer membrane and an inner membrane folded into cristae – with the intermembrane space between them, and the matrix inside, containing 70S ribosomes and naked circular DNA. ATP synthase particles on the cristae are another valid label. Thylakoids, grana, stroma and starch grains belong to chloroplasts; mitochondria have no cell wall, nucleolus or 80S ribosomes."
+}

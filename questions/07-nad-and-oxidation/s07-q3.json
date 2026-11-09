@@ -1,0 +1,11 @@
+{
+  "q": "When reduced NAD passes its electrons to the first carrier of the electron transport chain, which redox changes occur?",
+  "options": [
+    "NADH is oxidised to NAD+, and the first carrier is reduced",
+    "NADH is reduced to NAD+, and the first carrier is oxidised",
+    "Both NADH and the first carrier are oxidised at the same time",
+    "NADH gains oxygen, while the first carrier loses hydrogen"
+  ],
+  "correct": 0,
+  "explanation": "Redox reactions are always paired: when one molecule is oxidised (loses electrons), another is reduced (gains them). NADH loses 2 electrons (and an H+) and becomes NAD+; those electrons reduce the first carrier (complex I). Electrons then pass along carriers of increasing electron affinity until they reduce O2."
+}

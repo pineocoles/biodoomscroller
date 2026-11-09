@@ -1,0 +1,11 @@
+{
+  "q": "Which sequence correctly describes glycolysis?",
+  "options": [
+    "Phosphorylation (2 ATP used) → lysis → oxidation (2 NAD+ reduced) → ATP formation (4 ATP) → pyruvate",
+    "Oxidation → lysis → phosphorylation → decarboxylation, producing 2 acetyl CoA and releasing 2 CO2",
+    "Lysis of glucose → phosphorylation of the fragments → reduction of NADH → release of 2 CO2",
+    "Phosphorylation → decarboxylation → oxidation by O2 → lactate formation in the mitochondrial matrix"
+  ],
+  "correct": 0,
+  "explanation": "1) Two phosphates from 2 ATP are added to glucose → hexose bisphosphate (less stable). 2) Lysis splits it into two 3C triose phosphates. 3) Each triose phosphate is oxidised by removal of hydrogen, reducing NAD+ (2 NADH in total). 4) Four ATP are made by substrate-level phosphorylation, forming 2 pyruvate. Net: 2 ATP + 2 reduced NAD; no CO2 and no O2 needed."
+}

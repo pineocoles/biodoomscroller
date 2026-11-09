@@ -1,0 +1,11 @@
+{
+  "q": "The herbicide DCMU blocks electron flow from PSII to plastoquinone. What happens to O2 release by illuminated chloroplasts?",
+  "options": [
+    "It stops: PSII can't pass on electrons, so P680+ isn't regenerated to split water",
+    "It increases, because electrons trapped in PSII are diverted into splitting extra water",
+    "It continues normally, but production of NADPH by PSI increases to compensate",
+    "It continues, but the O2 is now released from CO2 instead of from water"
+  ],
+  "correct": 0,
+  "explanation": "With the path out of PSII blocked, its primary acceptor stays reduced, so P680 can't keep emitting electrons. No new P680+ forms, so there is no oxidising power to split water – O2 release stops, and so does non-cyclic production of ATP and NADPH. This shows photolysis depends on continuous electron flow away from PSII."
+}

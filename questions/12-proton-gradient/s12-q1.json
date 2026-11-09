@@ -1,0 +1,11 @@
+{
+  "q": "In which direction are protons pumped during electron transport, and what makes the gradient steep?",
+  "options": [
+    "Matrix → intermembrane space; the small volume there lets H+ concentration rise quickly",
+    "From the intermembrane space into the matrix; the large matrix volume holds many more protons",
+    "From the cytoplasm into the matrix, through channels in the outer mitochondrial membrane",
+    "From the matrix out into the cytoplasm, by flowing through the ATP synthase complex"
+  ],
+  "correct": 0,
+  "explanation": "Complexes I, III and IV use energy from electron flow to pump H+ across the inner membrane, from the matrix into the intermembrane space. Because that space is so narrow, relatively few protons create a large concentration (and charge) difference. The inner membrane is impermeable to H+, so the gradient is maintained until protons flow back through ATP synthase."
+}

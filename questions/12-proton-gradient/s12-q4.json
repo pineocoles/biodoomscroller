@@ -1,0 +1,11 @@
+{
+  "q": "How does the flow of electrons cause protons to be pumped across the inner membrane?",
+  "options": [
+    "Energy released as electrons pass between carriers drives complexes I, III and IV to move H+ across",
+    "Each pumping complex hydrolyses ATP, and the energy released moves protons across the membrane",
+    "The negative charge of electrons in the intermembrane space pulls protons across by attraction",
+    "Oxygen physically pushes protons across the membrane as it is reduced to water at the end of the chain"
+  ],
+  "correct": 0,
+  "explanation": "Proton pumping is powered by redox energy, not ATP. As electrons move 'downhill' through each complex, the energy released changes the proteins' shape (or, at complex III, is used to carry H+ via ubiquinone), moving H+ from the matrix into the intermembrane space against the gradient. The electrons stay within the carriers of the chain throughout."
+}

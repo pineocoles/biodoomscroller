@@ -1,0 +1,11 @@
+{
+  "q": "In a respirometer, the fluid moved 30 mm in 10 min along a capillary of radius 0.5 mm. The seeds had a mass of 2.0 g. What is the rate of O2 uptake?",
+  "options": [
+    "1.18 mm³ per g per min",
+    "4.71 mm³ per g per min",
+    "2.36 mm³ per g per min",
+    "0.375 mm³ per g per min"
+  ],
+  "correct": 0,
+  "explanation": "Volume = πr²d = π × 0.5² × 30 = 23.6 mm³ in 10 min → 2.36 mm³ per min → ÷ 2.0 g = 1.18 mm³ per g per min. Common errors: using the diameter (1 mm) as the radius gives 4.71; forgetting to divide by mass gives 2.36; leaving out π gives 0.375."
+}

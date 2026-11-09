@@ -1,0 +1,11 @@
+{
+  "q": "Which correctly compares NAD in respiration with NADP in photosynthesis?",
+  "options": [
+    "NAD collects H from food and gives it to the ETC; NADP collects electrons from PSI for the Calvin cycle",
+    "Both are reduced only at the end of their electron transport chains, and both are then oxidised by O2",
+    "NADP is reduced in the Krebs cycle of mitochondria, while NAD is reduced by photosystem I in thylakoids",
+    "Both carry electrons from the Calvin cycle to the mitochondria, linking the two processes"
+  ],
+  "correct": 0,
+  "explanation": "Both are hydrogen/electron carriers that differ by one phosphate group. NAD works in catabolism: it collects hydrogen in glycolysis, the link reaction and Krebs, and delivers electrons to the respiratory ETC. NADP works in anabolism: it collects electrons at the end of the photosynthetic ETC (PSI → ferredoxin) and delivers them to the Calvin cycle to reduce GP."
+}

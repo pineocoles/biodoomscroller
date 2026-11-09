@@ -1,0 +1,11 @@
+{
+  "q": "What is the advantage of the extensive thylakoid membranes stacked into grana?",
+  "options": [
+    "A huge membrane area holds many photosystems, ETCs and ATP synthases, speeding the light reactions",
+    "Stacking reduces the membrane area that is exposed to light, which prevents damage to the pigments",
+    "Stacking creates enclosed spaces where the Calvin cycle enzymes can work inside the grana",
+    "Stacking forms a continuous channel that carries glucose from the grana to the cytoplasm"
+  ],
+  "correct": 0,
+  "explanation": "The thylakoid system (grana linked by stroma lamellae) provides an enormous surface area for pigment–protein complexes, so more light can be absorbed and more ATP and NADPH made. Grana stacks concentrate PSII, while unstacked regions hold PSI and ATP synthase facing the stroma, where their products are needed."
+}

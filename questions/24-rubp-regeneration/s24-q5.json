@@ -1,0 +1,11 @@
+{
+  "q": "A drug blocks the final step of RuBP regeneration (phosphorylation of ribulose phosphate by ATP) in illuminated chloroplasts. What happens?",
+  "options": [
+    "RuBP and GP both accumulate, because RuBP can no longer be used up by Rubisco",
+    "Carbon fixation speeds up, because all of the ATP saved can now be used to make more TP",
+    "Ribulose phosphate builds up, RuBP falls, and carbon fixation and TP export decline",
+    "NADPH production by PSI stops immediately, because ATP is no longer needed"
+  ],
+  "correct": 2,
+  "explanation": "The final regeneration step uses ATP to phosphorylate ribulose phosphate into RuBP. Blocking it makes its substrate build up and RuBP fall; with less CO2 acceptor, Rubisco fixes less carbon, so GP, TP and sugar production decline. NADPH is made until NADP+ runs out (less is reoxidised in the Calvin cycle), after which the light reactions slow too."
+}

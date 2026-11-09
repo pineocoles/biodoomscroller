@@ -1,0 +1,11 @@
+{
+  "q": "A plant given every nutrient except nitrate grows poorly, even with plenty of light and CO2. Why?",
+  "options": [
+    "Nitrate is needed to join triose phosphates together into glucose and then into starch",
+    "Nitrogen is a component of cellulose, so new cell walls can't be built without a supply of it",
+    "TP gives carbon skeletons, but N is needed to make amino acids, nucleotides and chlorophyll",
+    "Nitrate is the source of the oxygen released during the light-dependent reactions"
+  ],
+  "correct": 2,
+  "explanation": "The Calvin cycle supplies C, H and O. Carbohydrates and lipids need only these, but amino acids need nitrogen (the amino group), nucleotides need N and P, and chlorophyll needs N and Mg. Without nitrate, plants can't make enough proteins (including Rubisco and other enzymes) or chlorophyll – causing stunted growth and yellowing (chlorosis) of older leaves."
+}

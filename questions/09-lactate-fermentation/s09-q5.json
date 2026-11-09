@@ -1,0 +1,11 @@
+{
+  "q": "Compared with lactate fermentation in humans, alcoholic fermentation in yeast…",
+  "options": [
+    "also regenerates NAD+ and yields 2 ATP per glucose, but releases CO2 and produces ethanol",
+    "produces more ATP per glucose, because removing CO2 from pyruvate releases extra energy",
+    "doesn't need NAD+ regeneration at all, because yeast cells use FAD as their carrier instead",
+    "produces lactate and CO2, and is easily reversed once oxygen becomes available again"
+  ],
+  "correct": 0,
+  "explanation": "Both pathways solve the same problem – regenerating NAD+ so glycolysis can continue – and both yield only glycolysis's net 2 ATP. Yeast decarboxylates pyruvate to ethanal (releasing CO2), then reduces ethanal to ethanol using NADH. The CO2 makes bread rise and the ethanol is used in brewing; because CO2 is lost, the yeast pathway isn't readily reversible."
+}

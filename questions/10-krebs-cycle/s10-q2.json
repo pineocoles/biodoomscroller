@@ -1,0 +1,11 @@
+{
+  "q": "Per molecule of glucose, what is the TOTAL output of the link reaction plus the Krebs cycle?",
+  "options": [
+    "4 CO2, 6 reduced NAD, 2 reduced FAD, 2 ATP",
+    "6 CO2, 8 reduced NAD, 2 reduced FAD, 2 ATP",
+    "6 CO2, 6 reduced NAD, 2 reduced FAD, 4 ATP",
+    "3 CO2, 4 reduced NAD, 1 reduced FAD, 1 ATP"
+  ],
+  "correct": 1,
+  "explanation": "One glucose gives 2 pyruvate. Link reaction (per pyruvate): oxidative decarboxylation → acetyl CoA + CO2 + reduced NAD, so 2 CO2 and 2 NADH per glucose. Two Krebs turns add 4 CO2, 6 NADH, 2 FADH2 and 2 ATP. Total: 6 CO2 (all six glucose carbons), 8 NADH, 2 FADH2, 2 ATP – most of the energy is now held in reduced NAD and FAD."
+}

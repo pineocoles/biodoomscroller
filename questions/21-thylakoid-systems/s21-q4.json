@@ -1,0 +1,11 @@
+{
+  "q": "A chemical makes the thylakoid membrane leaky to H+ but leaves every protein working. Which product of illuminated thylakoids is most affected?",
+  "options": [
+    "O2 release stops completely, while ATP production by ATP synthase carries on as normal",
+    "ATP production falls sharply, while electron flow to NADP+ and O2 release can continue",
+    "NADPH production stops completely, while ATP production rises to make up for the loss",
+    "All three products increase, because protons can now move freely across the membrane"
+  ],
+  "correct": 1,
+  "explanation": "ATP synthesis needs an intact membrane to hold the proton gradient; a leaky membrane dissipates it (uncoupling – ammonia has this effect). Electron transport from water to NADP+ doesn't depend on the gradient – it often speeds up when uncoupled because there is no back-pressure. So the membrane itself is an essential component of the system."
+}

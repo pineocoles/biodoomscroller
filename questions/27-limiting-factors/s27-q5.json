@@ -1,0 +1,11 @@
+{
+  "q": "Light intensity is inversely proportional to the square of the distance from the lamp. If a lamp is moved from 10 cm to 20 cm away, how does the light intensity change?",
+  "options": [
+    "It halves (50%)",
+    "It falls to one quarter (25%)",
+    "It doubles (200%)",
+    "It falls to one eighth (12.5%)"
+  ],
+  "correct": 1,
+  "explanation": "I ∝ 1/d². Doubling the distance gives (10 ÷ 20)² = ¼ of the original intensity; at 30 cm it would be (10 ÷ 30)² = 1/9. So when plotting rate against light intensity, use 1/d² (not distance) on the x-axis, or the curve will look misleading."
+}

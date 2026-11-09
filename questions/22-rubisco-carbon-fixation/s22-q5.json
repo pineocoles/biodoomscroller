@@ -1,0 +1,11 @@
+{
+  "q": "Why does raising CO2 concentration increase the rate of carbon fixation in a C3 plant in bright light?",
+  "options": [
+    "At ~0.04% CO2 Rubisco is far from saturated, so more CO2 speeds fixation and outcompetes O2",
+    "CO2 activates the photosystems directly, so the light-dependent reactions speed up to match",
+    "CO2 is a source of energy for the Calvin cycle, in addition to ATP and NADPH",
+    "Extra CO2 traps heat and warms the leaf, which speeds up every enzyme in the stroma"
+  ],
+  "correct": 0,
+  "explanation": "CO2 is Rubisco's substrate, so when light and temperature are adequate, CO2 concentration limits the rate: more CO2 means more frequent enzyme–substrate collisions until the active sites are saturated. A higher CO2:O2 ratio also reduces photorespiration. This is why greenhouse growers enrich the air to around 0.1% CO2."
+}

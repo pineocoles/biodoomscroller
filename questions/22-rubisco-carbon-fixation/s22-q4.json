@@ -1,0 +1,11 @@
+{
+  "q": "Rubisco is activated in light by a rise in stroma pH and Mg2+. Why does light make the stroma more alkaline?",
+  "options": [
+    "Light breaks down the carbonic acid in the stroma, removing H+ as CO2 escapes",
+    "Electron flow pumps H+ from the stroma into the lumen, and NADP reduction uses up stroma H+",
+    "ATP synthase pumps hydroxide ions into the stroma whenever light is being absorbed by the leaf",
+    "Photolysis takes place in the stroma and releases hydroxide ions there as water is split"
+  ],
+  "correct": 1,
+  "explanation": "As H+ moves into the thylakoid lumen, stroma pH rises from about 7 to about 8 – the optimum for Rubisco and other Calvin cycle enzymes – and Mg2+ moves from the lumen into the stroma to balance the charge, activating Rubisco further. This links carbon fixation to the light reactions and stops the Calvin cycle running wastefully in the dark."
+}

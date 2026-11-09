@@ -1,0 +1,11 @@
+{
+  "q": "Why does the rate of photosynthesis fall above an optimum temperature (around 30–35°C for many plants)?",
+  "options": [
+    "Calvin cycle enzymes such as Rubisco lose activity (denature), and photorespiration increases",
+    "The light-dependent reactions are very temperature-sensitive, while the Calvin cycle is unaffected",
+    "Higher temperatures reduce the kinetic energy of enzyme and substrate molecules in the stroma",
+    "Chlorophyll absorbs much less light once the leaf becomes warmer than its optimum"
+  ],
+  "correct": 0,
+  "explanation": "Temperature mainly affects the enzyme-controlled Calvin cycle. Up to the optimum, molecules gain kinetic energy, so enzyme–substrate collisions increase. Above it, enzymes start to denature (active sites change shape), Rubisco reacts more with O2 (photorespiration) and CO2 becomes less soluble. Light absorption by pigments is a photochemical process that barely depends on temperature."
+}

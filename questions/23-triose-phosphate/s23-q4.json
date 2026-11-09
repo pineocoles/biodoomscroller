@@ -1,0 +1,11 @@
+{
+  "q": "A mutant plant has a faulty NADP reductase. Predict the effect on Calvin cycle intermediates in the light.",
+  "options": [
+    "TP accumulates and GP falls, because TP can't be converted back into RuBP",
+    "RuBP accumulates, because CO2 can no longer be fixed without NADPH",
+    "GP accumulates and TP falls, because GP can't be reduced without NADPH",
+    "No change, because ATP alone is enough to convert GP into TP"
+  ],
+  "correct": 2,
+  "explanation": "NADP reductase makes NADPH at the end of PSI electron flow. Without NADPH, phosphorylated GP can't be reduced to TP, so GP builds up while TP falls. Rubisco keeps carboxylating RuBP until it runs out (no TP is available to regenerate it). ATP can phosphorylate GP but can't reduce it – reduction needs NADPH."
+}

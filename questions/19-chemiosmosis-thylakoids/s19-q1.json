@@ -1,0 +1,11 @@
+{
+  "q": "Which three processes build the proton gradient across the thylakoid membrane?",
+  "options": [
+    "Photolysis adds H+ to the lumen; the ETC pumps H+ into the lumen; NADP reduction uses up stroma H+",
+    "ATP synthase pumps H+ into the lumen; Rubisco removes H+ from the stroma; photolysis adds H+ to the stroma",
+    "The Calvin cycle releases H+ into the lumen; PSI pumps H+ into the stroma; O2 removes H+ from the lumen",
+    "Only the ETC contributes, because photolysis takes place in the stroma and releases no H+ to the lumen"
+  ],
+  "correct": 0,
+  "explanation": "1) Splitting water at PSII releases H+ inside the lumen. 2) Energy from electrons moving between PSII and PSI is used by plastoquinone/cytochrome b6f to pump H+ from the stroma into the lumen. 3) NADP reductase uses up H+ from the stroma. The lumen can fall to about pH 5 while the stroma rises to about pH 8 – a ~1000-fold difference in H+ concentration."
+}

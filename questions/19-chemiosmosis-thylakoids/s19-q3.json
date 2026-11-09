@@ -1,0 +1,11 @@
+{
+  "q": "Thylakoids were soaked in pH 4 buffer in the dark, then moved to pH 8 buffer with ADP and Pi. ATP was made – still in darkness. What does this show?",
+  "options": [
+    "Light is not needed at any stage of photosynthesis, including the light-dependent reactions",
+    "ATP synthase is switched on by acid itself, rather than by a flow of protons through it",
+    "A proton gradient alone can drive ATP synthesis, supporting the chemiosmotic theory",
+    "Electron transport can run in the dark, as long as the lumen is kept at low pH"
+  ],
+  "correct": 2,
+  "explanation": "In Jagendorf's 1966 'acid bath' experiment, the lumen equilibrated to pH 4. In pH 8 buffer, H+ flowed out through ATP synthase, making ATP with no light and no electron transport. In normal photosynthesis, light-driven electron flow creates the gradient. This was key evidence for Mitchell's chemiosmotic hypothesis."
+}

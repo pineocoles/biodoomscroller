@@ -1,0 +1,11 @@
+{
+  "q": "Which feature would let you distinguish a chloroplast from a mitochondrion in an electron micrograph?",
+  "options": [
+    "A double membrane (envelope) enclosing the whole organelle, with a narrow space between",
+    "Stacks of flattened membrane sacs (grana) not joined to the inner membrane, plus starch grains",
+    "The presence of 70S ribosomes and loops of naked circular DNA within the inner fluid",
+    "A fluid-filled interior containing many dissolved enzymes, ribosomes and DNA"
+  ],
+  "correct": 1,
+  "explanation": "Both organelles have a double membrane, an enzyme-rich fluid interior (stroma/matrix), 70S ribosomes and naked circular DNA – evidence of their endosymbiotic origin. Only chloroplasts have thylakoids stacked into grana and starch grains, and they are usually larger; mitochondria have cristae formed by folding of the inner membrane."
+}

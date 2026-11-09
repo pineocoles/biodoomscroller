@@ -1,0 +1,11 @@
+{
+  "q": "Why are thylakoids described as a 'system' for the light-dependent reactions?",
+  "options": [
+    "Each thylakoid carries out both the light-dependent reactions and the Calvin cycle on its own",
+    "Photosystems, carriers and ATP synthase work together in one membrane to make ATP, NADPH and O2",
+    "Thylakoids are free-floating pigment molecules that collide randomly to pass energy between them",
+    "Thylakoids store the glucose produced by the light-dependent reactions until the cell needs it later"
+  ],
+  "correct": 1,
+  "explanation": "A system is a set of interacting parts with properties none has alone. In the thylakoid membrane, PSII (photolysis), plastoquinone, cytochrome b6f, plastocyanin, PSI, ferredoxin/NADP reductase and ATP synthase are positioned precisely. The membrane separates the lumen from the stroma, allowing a proton gradient, and the products (ATP, NADPH) are released into the stroma for the Calvin cycle."
+}

@@ -1,0 +1,11 @@
+{
+  "q": "As electrons pass along the electron transport chain from NADH to oxygen, what happens to their energy?",
+  "options": [
+    "It is released in steps as they move to carriers of higher electron affinity, and used to pump H+",
+    "It increases at each carrier, so the electrons reach oxygen at their highest energy level",
+    "It is all released in a single burst when NADH reaches ATP synthase in the membrane",
+    "It is used at each carrier to bond ADP and Pi together directly, with no proton gradient involved"
+  ],
+  "correct": 0,
+  "explanation": "The chain is a series of carriers (complexes I, III and IV, linked by mobile ubiquinone and cytochrome c) arranged in order of increasing electron affinity. Electrons lose energy step by step, and at the three pumping complexes it is used to move H+ from the matrix into the intermembrane space. ATP is made indirectly, by chemiosmosis – never at the carriers themselves."
+}

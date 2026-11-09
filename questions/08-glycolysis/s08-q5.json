@@ -1,0 +1,11 @@
+{
+  "q": "How many carbon atoms are in each molecule at these stages: glucose → hexose bisphosphate → triose phosphate → pyruvate?",
+  "options": [
+    "6 → 6 → 3 → 3",
+    "6 → 3 → 3 → 2",
+    "6 → 6 → 3 → 2",
+    "6 → 12 → 6 → 3"
+  ],
+  "correct": 0,
+  "explanation": "Phosphorylation adds phosphate groups, not carbon, so hexose bisphosphate is still 6C. Lysis splits it into two 3C triose phosphates. Oxidation and ATP formation remove no carbon, so each pyruvate is 3C – glycolysis releases no CO2. The first CO2 of aerobic respiration is released in the link reaction (pyruvate 3C → acetyl 2C)."
+}

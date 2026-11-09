@@ -1,0 +1,11 @@
+{
+  "q": "Why is reduced NADP essential for the Calvin cycle?",
+  "options": [
+    "It provides the hydrogen (electrons) to reduce glycerate-3-phosphate to triose phosphate",
+    "It provides the phosphate groups that are used to regenerate RuBP at the end of the cycle",
+    "It provides the activation energy that Rubisco needs before it can attach CO2 to RuBP",
+    "It is the source of the carbon atoms that end up in triose phosphate and then glucose"
+  ],
+  "correct": 0,
+  "explanation": "Photosynthesis turns CO2 (oxidised carbon) into carbohydrate (reduced carbon). The hydrogen comes, via NADPH, from water. In the Calvin cycle GP is phosphorylated by ATP and then reduced by NADPH to triose phosphate. Rubisco needs no NADPH, RuBP regeneration uses only ATP, and the carbon atoms come from CO2."
+}

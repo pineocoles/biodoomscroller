@@ -1,0 +1,11 @@
+{
+  "q": "Why do photosystems contain several types of pigment (chlorophyll a, chlorophyll b, carotenoids) rather than chlorophyll a alone?",
+  "options": [
+    "Each absorbs different wavelengths, widening the range of light energy that reaches the reaction centre",
+    "Only carotenoids are able to donate excited electrons to NADP, so they are essential in every photosystem",
+    "Chlorophyll b takes over from chlorophyll a whenever light intensity becomes very high",
+    "Multiple pigments let the leaf reflect every wavelength, protecting it from overheating"
+  ],
+  "correct": 0,
+  "explanation": "Chlorophyll a absorbs mainly blue-violet and red light; chlorophyll b absorbs slightly different blue and red wavelengths; carotenoids absorb blue-green light. Together they broaden the absorption spectrum, so more of the available light is captured and funnelled to the reaction centre – which is why the action spectrum of photosynthesis is broader than chlorophyll a's absorption spectrum."
+}

@@ -1,0 +1,11 @@
+{
+  "q": "What is the role of oxygen in aerobic respiration?",
+  "options": [
+    "It oxidises glucose directly in the cytoplasm, converting its carbon atoms into CO2",
+    "It accepts electrons at the end of the ETC and joins with H+ to form water, so electrons keep flowing",
+    "It combines with the carbon removed in the Krebs cycle, forming the CO2 that we then breathe out",
+    "It supplies the energy that makes the rotor of ATP synthase turn each time protons pass through it"
+  ],
+  "correct": 1,
+  "explanation": "O2 is the final electron acceptor: ½O2 + 2 electrons + 2H+ → H2O, catalysed by complex IV (cytochrome c oxidase). Removing electrons from the end of the chain keeps the carriers free to accept more from NADH and FADH2, and using up H+ from the matrix helps maintain the gradient. The CO2 we exhale comes from decarboxylation reactions, not from O2."
+}

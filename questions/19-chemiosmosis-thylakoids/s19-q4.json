@@ -1,0 +1,11 @@
+{
+  "q": "Sometimes electrons from PSI return to the cytochrome b6f complex instead of reducing NADP (cyclic flow). What does cyclic flow produce?",
+  "options": [
+    "ATP (via H+ pumping and chemiosmosis), but no NADPH and no O2",
+    "NADPH and O2, but no ATP, because ATP synthase is bypassed",
+    "ATP, NADPH and O2 in exactly the same amounts as in non-cyclic flow",
+    "Only O2, because water is split twice as often"
+  ],
+  "correct": 0,
+  "explanation": "In cyclic flow only PSI is used: electrons go PSI → ferredoxin → cytochrome b6f → plastocyanin → back to PSI, pumping H+ into the lumen on the way, so ATP synthase makes ATP. No water is split (no O2) and NADP isn't reduced. Plants use it to top up ATP, because the Calvin cycle needs 3 ATP for every 2 NADPH."
+}

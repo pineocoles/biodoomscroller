@@ -1,0 +1,11 @@
+{
+  "q": "In non-cyclic flow, what replaces the electrons that PSI loses to NADP?",
+  "options": [
+    "Electrons flowing backwards from NADPH once the Calvin cycle has finished using it in the stroma",
+    "Electrons from photolysis of water taking place directly at PSI",
+    "Electrons from PSII, arriving via the ETC and plastocyanin – ultimately from water",
+    "Electrons released when Rubisco fixes CO2 in the Calvin cycle"
+  ],
+  "correct": 2,
+  "explanation": "Electron path: H2O → PSII (P680) → plastoquinone → cytochrome b6f → plastocyanin → PSI (P700) → ferredoxin → NADP reductase → NADPH. Water is the ultimate electron donor and NADP+ the final electron acceptor – the reverse of respiration, where NADH is the donor and O2 the acceptor."
+}

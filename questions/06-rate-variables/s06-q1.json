@@ -1,0 +1,11 @@
+{
+  "q": "In a respirometer with germinating seeds and potassium hydroxide (KOH), the coloured fluid in the capillary moves towards the seeds. What is being measured?",
+  "options": [
+    "CO2 production, because KOH releases extra CO2 that pushes the fluid along the tube",
+    "O2 uptake, because KOH absorbs released CO2, so the volume decrease equals O2 consumed",
+    "Water uptake by the germinating seeds, which absorb water vapour from the air by osmosis",
+    "The net gas exchange of the seeds, since KOH has no effect on the gas volume in the tube"
+  ],
+  "correct": 1,
+  "explanation": "In aerobic respiration of carbohydrate, O2 used ≈ CO2 released, so without an absorber there would be little net volume change. KOH (or soda lime) absorbs CO2, so the decrease in gas volume reflects only O2 uptake, pulling the fluid towards the organisms. Rate = volume (πr² × distance moved) ÷ time, usually per gram of tissue."
+}

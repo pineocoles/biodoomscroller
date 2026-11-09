@@ -1,0 +1,11 @@
+{
+  "q": "What is the minimum number of light-driven excitations of PSII needed to release one O2 molecule, and why?",
+  "options": [
+    "1, because a single photon carries enough energy to split a water molecule",
+    "2, because each of the two water molecules that are split loses just one electron",
+    "4, because each excitation removes one electron and 2 H2O must lose 4 electrons",
+    "6, because six O2 molecules are released for every molecule of glucose produced"
+  ],
+  "correct": 2,
+  "explanation": "Each photon absorbed excites P680 once, removing one electron, which is replaced from water. Forming one O2 means removing 4 electrons from 2 H2O, so PSII must be excited 4 times; the manganese cluster stores the charges until the fourth. In non-cyclic flow those electrons are boosted again at PSI, so about 8 photons are absorbed per O2 released overall."
+}

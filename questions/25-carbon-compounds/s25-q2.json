@@ -1,0 +1,11 @@
+{
+  "q": "Which correctly matches a compound made from Calvin cycle products with its extra requirement and its use?",
+  "options": [
+    "Cellulose – needs phosphate from the soil – used as the main energy store",
+    "Starch – needs nitrogen absorbed from the soil – used to build plant cell walls",
+    "Amino acids – need nitrogen (and sulfur for some) – used to make proteins",
+    "Sucrose – needs magnesium – used as a structural protein in membranes"
+  ],
+  "correct": 2,
+  "explanation": "Starch (storage) and cellulose (cell walls) are glucose polymers made from TP and need no minerals; sucrose is the soluble transport sugar in phloem. Amino acids are built from carbon skeletons derived from Calvin cycle (and respiratory) intermediates plus ammonium from nitrate; cysteine and methionine also need sulfur. Phospholipids and nucleic acids need phosphate; chlorophyll needs magnesium."
+}

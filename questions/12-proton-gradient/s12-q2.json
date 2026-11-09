@@ -1,0 +1,11 @@
+{
+  "q": "Why must the inner mitochondrial membrane be impermeable to protons, except through ATP synthase?",
+  "options": [
+    "Protons are toxic to the matrix enzymes, so they must never be allowed to flow back into the matrix",
+    "If H+ leaked back freely, the gradient's energy would be lost as heat instead of making ATP",
+    "Impermeability to H+ is what allows O2 to diffuse into the matrix to reach complex IV",
+    "It prevents electrons from escaping the electron transport chain into the cytoplasm"
+  ],
+  "correct": 1,
+  "explanation": "The proton gradient stores potential energy (the proton-motive force: a concentration difference plus a charge difference). It does useful work only if protons return through ATP synthase. Leaky membranes – caused by uncouplers such as DNP or the protein thermogenin in brown fat – let H+ return without making ATP, releasing the energy as heat."
+}

@@ -1,0 +1,11 @@
+{
+  "q": "When water labelled with heavy oxygen (18O) was given to algae, the O2 released contained 18O; labelling CO2 instead gave no 18O in the O2. What does this show?",
+  "options": [
+    "CO2 is split into carbon and O2 during the Calvin cycle in the stroma",
+    "The O2 released comes from photolysis of water, not from CO2",
+    "Water is not actually used up by photosynthesis at any stage",
+    "Oxygen atoms from CO2 and water are swapped randomly before release"
+  ],
+  "correct": 1,
+  "explanation": "Isotope experiments (Ruben and Kamen, 1941) showed that O2 gas comes from H2O split at PSII. Oxygen atoms from CO2 end up in the carbohydrate (and water) made by the Calvin cycle. So the equation is better written 6CO2 + 12H2O → C6H12O6 + 6O2 + 6H2O, showing that all 6 O2 come from water."
+}

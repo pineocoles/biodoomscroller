@@ -1,0 +1,11 @@
+{
+  "q": "Why is it important that photosystems are embedded in the thylakoid membrane rather than dissolved in the stroma?",
+  "options": [
+    "It holds them beside the electron carriers and ATP synthase, so electrons flow in order and H+ build up",
+    "It places them right next to Rubisco, so their excited electrons can be used directly to fix CO2 in the stroma",
+    "It puts them in the outer chloroplast membrane, where they are exposed to the most light possible",
+    "It lets them float freely through the lumen, collecting protons released by photolysis"
+  ],
+  "correct": 0,
+  "explanation": "Photosystems are large pigment–protein complexes embedded in the thylakoid membrane. The membrane fixes their position relative to plastoquinone, cytochrome b6f, plastocyanin, PSI and ATP synthase, so electrons pass along in sequence and protons are pumped into the lumen. PSII's water-splitting complex faces the lumen. Rubisco is dissolved in the stroma and never receives electrons directly."
+}

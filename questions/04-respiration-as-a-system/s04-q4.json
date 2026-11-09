@@ -1,0 +1,11 @@
+{
+  "q": "Which correctly matches each stage of aerobic respiration to its location in a eukaryotic cell?",
+  "options": [
+    "Glycolysis: matrix · Krebs cycle: cytoplasm · Electron transport chain: outer membrane",
+    "Glycolysis: intermembrane space · Krebs cycle: cristae · Electron transport chain: mitochondrial matrix",
+    "Glycolysis: cytoplasm · Link reaction & Krebs: matrix · Electron transport chain: inner membrane",
+    "All stages take place in the matrix, where every respiratory enzyme is dissolved"
+  ],
+  "correct": 2,
+  "explanation": "Glycolysis enzymes are in the cytoplasm; pyruvate is then transported into the matrix, which holds the link-reaction and Krebs enzymes. Electron carriers and ATP synthase are embedded in the inner membrane (folded into cristae), which separates the matrix from the narrow intermembrane space where H+ accumulates. Compartments let each stage have its own enzymes and conditions."
+}

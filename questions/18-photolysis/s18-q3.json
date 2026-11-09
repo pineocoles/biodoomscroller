@@ -1,0 +1,11 @@
+{
+  "q": "Why is photolysis said to be 'driven' by photosystem II?",
+  "options": [
+    "Light energy directly breaks the O–H bonds of water molecules dissolved in the stroma, releasing O2",
+    "ATP made by PSI provides the energy needed to split water molecules in the lumen",
+    "After losing an electron, P680+ is a strong enough oxidising agent to pull electrons from water",
+    "Reduced NADP donates energy to the water molecules, causing them to split apart"
+  ],
+  "correct": 2,
+  "explanation": "After P680 emits an excited electron, the oxidised P680+ has an extremely high affinity for electrons – it is the strongest biological oxidising agent known – strong enough to remove electrons from water (via the manganese cluster), which normally holds them very tightly. So light doesn't split water directly; the electron 'hole' left in PSII does."
+}

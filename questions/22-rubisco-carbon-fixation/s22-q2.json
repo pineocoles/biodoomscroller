@@ -1,0 +1,11 @@
+{
+  "q": "Why do leaves contain such enormous amounts of Rubisco (often the most abundant leaf protein)?",
+  "options": [
+    "Rubisco is used up in every reaction it catalyses, so it must be constantly replaced",
+    "Rubisco also acts as a light-absorbing pigment, so more of it captures more energy",
+    "Rubisco is slow and binds CO2 poorly, so a lot is needed to fix carbon fast enough",
+    "Rubisco's only role is to store nitrogen; it has no catalytic activity in the stroma"
+  ],
+  "correct": 2,
+  "explanation": "Rubisco fixes only a few CO2 molecules per second per active site, and atmospheric CO2 is scarce (~0.04%). To compensate, plants invest heavily in it, making Rubisco the most abundant protein on Earth. Like all enzymes it is not used up. Because enzymes contain nitrogen, nitrogen supply strongly affects photosynthetic capacity."
+}

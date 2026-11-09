@@ -1,0 +1,11 @@
+{
+  "q": "A greenhouse grower raises CO2 to 0.1%. Under which conditions is this most likely to increase crop yield?",
+  "options": [
+    "At night, when there is no light and respiration is the only process occurring",
+    "On cold, dull winter days, when light intensity and temperature are both low",
+    "When light intensity and temperature are high, so that CO2 is the limiting factor",
+    "When the plants' Rubisco is already fully saturated with CO2 taken in from outside air"
+  ],
+  "correct": 2,
+  "explanation": "Adding CO2 increases photosynthesis only if CO2 is the limiting factor. In bright, warm conditions Rubisco is limited by CO2, so enrichment raises the rate and the plateau. In dim or cold conditions light or temperature limits the rate, so extra CO2 is wasted. Growers therefore combine CO2 enrichment with supplementary lighting and heating."
+}

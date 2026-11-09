@@ -1,0 +1,11 @@
+{
+  "q": "In which of these reactions is the named molecule REDUCED?",
+  "options": [
+    "Pyruvate accepting hydrogen from reduced NAD to form lactate",
+    "Triose phosphate giving up hydrogen to NAD+ in glycolysis",
+    "Reduced NAD donating its electrons to complex I of the ETC",
+    "Pyruvate losing both CO2 and hydrogen during the link reaction"
+  ],
+  "correct": 0,
+  "explanation": "Reduction = gain of hydrogen/electrons. When lactate forms, pyruvate accepts hydrogen from NADH and is reduced, while NADH is oxidised to NAD+. In the other reactions the named molecule loses hydrogen or electrons (is oxidised): triose phosphate in glycolysis, NADH at complex I, and pyruvate in oxidative decarboxylation."
+}

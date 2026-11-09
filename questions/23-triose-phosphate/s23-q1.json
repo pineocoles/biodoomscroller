@@ -1,0 +1,11 @@
+{
+  "q": "Which describes the conversion of glycerate-3-phosphate (GP) to triose phosphate (TP)?",
+  "options": [
+    "GP is phosphorylated by ATP and reduced by NADPH; ADP, Pi and NADP+ go back to the thylakoids",
+    "GP is oxidised by NADP+, producing NADPH to send back to the thylakoids along with TP",
+    "GP is decarboxylated, releasing one CO2 per molecule as it is converted into TP",
+    "GP combines with a second RuBP, and the 8C product then splits to form two TP molecules"
+  ],
+  "correct": 0,
+  "explanation": "Each GP (3C) gains a phosphate from ATP and then hydrogen from NADPH, forming triose phosphate (a 3C sugar phosphate). For every 6 GP, 6 ATP and 6 NADPH are used. This is where the products of the light-dependent reactions are 'spent' to reduce carbon; the ADP, Pi and NADP+ released go back to the thylakoids to be recharged."
+}

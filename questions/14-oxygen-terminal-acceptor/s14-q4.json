@@ -1,0 +1,11 @@
+{
+  "q": "Mitochondria given pyruvate, ADP and Pi use O2 steadily. When the ADP runs out, O2 use stops; adding ADP restarts it. Which conclusion is best supported?",
+  "options": [
+    "O2 is a substrate of ATP synthase itself, so it is used up directly in making every ATP molecule",
+    "Adding ADP supplies extra electrons to the electron transport chain, restarting the flow",
+    "O2 use is coupled to ATP synthesis: with no ADP, H+ can't flow back, so electron flow stalls",
+    "Pyruvate is converted into O2 when ADP is present, and into CO2 when ADP is absent"
+  ],
+  "correct": 2,
+  "explanation": "This is respiratory control. ATP synthase needs ADP; without it, protons stop flowing back, the gradient grows until the pumps can't work against it, electron flow halts and O2 is no longer reduced. Adding ADP restores proton flow, then electron transport, then O2 uptake. So a cell's rate of O2 use automatically tracks its ATP demand."
+}

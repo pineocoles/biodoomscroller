@@ -1,0 +1,11 @@
+{
+  "q": "Even with plenty of TP available, which mineral deficiency would most directly limit a plant's ability to make ATP, DNA and phospholipids?",
+  "options": [
+    "Magnesium",
+    "Phosphate",
+    "Calcium",
+    "Sulfur"
+  ],
+  "correct": 1,
+  "explanation": "ATP, DNA, RNA and phospholipids all contain phosphate groups, which must be absorbed from the soil – TP provides only the carbon backbones (sugars, glycerol). Magnesium is needed for chlorophyll, nitrogen for amino acids, bases and chlorophyll, sulfur for some amino acids, and calcium for cell walls."
+}

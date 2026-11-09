@@ -1,0 +1,11 @@
+{
+  "q": "Malonate competitively inhibits succinate dehydrogenase, the Krebs cycle enzyme that reduces FAD. What happens in mitochondria given malonate?",
+  "options": [
+    "Oxaloacetate accumulates and the cycle speeds up to make up for the FADH2 that is no longer made",
+    "Only FADH2 production stops; CO2 and NADH production carry on unchanged",
+    "Succinate builds up; CO2, NADH and FADH2 output all fall, as oxaloacetate isn't regenerated",
+    "Pyruvate is converted to lactate inside the mitochondria to regenerate the missing FAD"
+  ],
+  "correct": 2,
+  "explanation": "Malonate resembles succinate and competes for the active site of succinate dehydrogenase. Blocking one step makes its substrate (succinate) build up and later intermediates (fumarate, malate, oxaloacetate) fall. Without oxaloacetate, acetyl groups can't enter, so all Krebs outputs decrease. Adding more succinate can overcome this competitive inhibition."
+}

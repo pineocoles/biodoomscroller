@@ -1,0 +1,11 @@
+{
+  "q": "Which is the most accurate description of chemiosmosis in mitochondria?",
+  "options": [
+    "H+ flow back into the matrix through ATP synthase, rotating part of it so it phosphorylates ADP",
+    "H+ are actively pumped through ATP synthase into the intermembrane space, using up ATP as they go",
+    "Electrons pass through ATP synthase, and their energy is used to bond Pi directly to ADP",
+    "Water moves by osmosis through ATP synthase, and the force of the flowing water generates the ATP"
+  ],
+  "correct": 0,
+  "explanation": "Chemiosmosis (Peter Mitchell's theory) = ATP synthesis coupled to protons diffusing down their electrochemical gradient through ATP synthase. Proton flow turns the enzyme's rotor; the resulting shape changes in its catalytic head bind ADP + Pi and release ATP. It is called oxidative phosphorylation because the gradient comes from oxidation reactions feeding the ETC. 'Osmosis' here means movement across a membrane, not water."
+}

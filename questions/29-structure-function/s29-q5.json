@@ -1,0 +1,11 @@
+{
+  "q": "Muscle cells of trained endurance athletes contain more mitochondria with more densely packed cristae. Which is the best explanation?",
+  "options": [
+    "More cristae allow the muscle cells to carry out glycolysis at a much faster rate than before",
+    "More inner membrane means more oxidative phosphorylation – more aerobic ATP, less lactate",
+    "Cristae store extra oxygen, which the muscle can use when breathing can't keep up with demand",
+    "More mitochondria reduce the amount of ATP that muscle contraction requires"
+  ],
+  "correct": 1,
+  "explanation": "Aerobic training increases mitochondrial number and cristae area – more ETCs and ATP synthases, and more matrix enzymes for the link reaction and Krebs cycle – so more ATP comes from aerobic respiration and the lactate threshold rises. Glycolysis happens in the cytoplasm, and O2 is stored by myoglobin, not by cristae."
+}

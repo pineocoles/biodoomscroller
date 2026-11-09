@@ -1,0 +1,11 @@
+{
+  "q": "Why does each reduced FAD yield fewer ATP (~1.5) than each reduced NAD (~2.5)?",
+  "options": [
+    "FADH2 carries only one electron, while NADH carries four electrons to the chain",
+    "FADH2 passes electrons in later (via complex II), bypassing the first proton pump",
+    "FADH2 donates its electrons straight to O2 without passing through the carriers",
+    "FADH2 is made in the cytoplasm and must use ATP to be moved into the mitochondrion"
+  ],
+  "correct": 1,
+  "explanation": "NADH donates electrons to complex I, which pumps protons. FADH2, held within succinate dehydrogenase (complex II), feeds its electrons to ubiquinone without pumping any. Fewer protons pumped per electron pair means a smaller contribution to the gradient and fewer ATP made by ATP synthase. Both carriers deliver 2 electrons."
+}

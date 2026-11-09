@@ -1,0 +1,11 @@
+{
+  "q": "Isolated chlorophyll molecules in solution glow red (fluoresce) when illuminated, instead of passing electrons on. What does this reveal about photosystems?",
+  "options": [
+    "Isolated chlorophyll is destroyed by light, so it can no longer absorb any photons",
+    "Chlorophyll in solution absorbs only red light, so it simply reflects all of that red light back out",
+    "Without the array and a nearby acceptor, excited electrons just drop back, re-emitting the energy",
+    "Isolated chlorophyll makes O2 instead of transferring electrons, which causes the glow"
+  ],
+  "correct": 2,
+  "explanation": "An excited electron in an isolated pigment returns to its ground state within nanoseconds, releasing energy as light (fluorescence) and heat. In a photosystem, proteins hold the pigments in a precise array so energy is funnelled to the reaction centre, which sits beside a primary electron acceptor that captures the electron before it can drop back. A single pigment molecule can't do any of this."
+}

@@ -1,0 +1,11 @@
+{
+  "q": "Germinating peas used 0.12, 0.25 and 0.49 mL O2 per gram per hour at 10, 20 and 30°C, but only 0.08 at 45°C. Which conclusion is best supported?",
+  "options": [
+    "Rate increases in a straight line with temperature across the whole range that was tested",
+    "Rate falls at 45°C because oxygen becomes much more soluble in water at higher temperatures",
+    "Temperature has no real effect on respiration rate, because peas are not able to regulate it",
+    "Rate about doubles per 10°C to 30°C as collisions increase, then falls as enzymes denature"
+  ],
+  "correct": 3,
+  "explanation": "0.12 → 0.25 → 0.49 roughly doubles per 10°C (Q10 ≈ 2), typical of enzyme-catalysed reactions: more kinetic energy means more frequent enzyme–substrate collisions. The sharp drop at 45°C suggests respiratory enzymes have denatured (active sites changed shape). O2 actually becomes less soluble as temperature rises, and an organism that can't regulate its temperature is more affected, not less."
+}

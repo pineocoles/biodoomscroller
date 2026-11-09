@@ -1,0 +1,11 @@
+{
+  "q": "Carbon from 14CO2 fed to a leaf later appears in fatty acids, amino acids and nucleotides. Which conclusion is valid?",
+  "options": [
+    "Calvin cycle products (TP) supply the carbon skeletons for all the plant's organic compounds",
+    "CO2 is built straight into amino acids by Rubisco, without passing through the Calvin cycle",
+    "Fatty acids are made in the mitochondria directly from CO2 absorbed by the roots",
+    "The radioactive carbon must have been absorbed through the roots from the soil, not from the air"
+  ],
+  "correct": 0,
+  "explanation": "All organic carbon in a plant comes from CO2 fixed by Rubisco. TP is used to make sugars and, via intermediates such as pyruvate and acetyl CoA, fatty acids and glycerol (lipids), amino acids (adding N) and nucleotides (adding N and P). This is what makes plants autotrophs – and the source of carbon for every food chain."
+}

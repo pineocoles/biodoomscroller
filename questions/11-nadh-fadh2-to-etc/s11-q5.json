@@ -1,0 +1,11 @@
+{
+  "q": "Rotenone blocks complex I. Isolated mitochondria with rotenone can still make some ATP if given succinate. Why?",
+  "options": [
+    "Succinate is converted straight into ATP by substrate-level phosphorylation inside the matrix",
+    "Rotenone only inhibits ATP synthase, so electrons can still flow along the entire chain to O2",
+    "Succinate's electrons enter at complex II, past the block, so complexes III and IV still pump H+",
+    "Succinate supplies extra O2 to complex IV, which restarts electron flow from the stalled NADH"
+  ],
+  "correct": 2,
+  "explanation": "Rotenone stops NADH's electrons entering at complex I. Electrons from succinate enter at complex II (succinate dehydrogenase → FADH2 → ubiquinone), downstream of the block, so electron flow through complexes III and IV – and proton pumping – continues, giving ~1.5 ATP per succinate oxidised. This shows NADH and FADH2 feed electrons in at different points."
+}

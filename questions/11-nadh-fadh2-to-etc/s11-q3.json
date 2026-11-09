@@ -1,0 +1,11 @@
+{
+  "q": "What is the role of reduced NAD in linking the Krebs cycle to the electron transport chain?",
+  "options": [
+    "It carries high-energy electrons from the matrix to complex I, then returns as NAD+",
+    "It transports ATP from the matrix into the intermembrane space for export to the cytoplasm",
+    "It carries O2 from the cytoplasm to complex IV, where the oxygen is reduced to water",
+    "It carries the CO2 released in the Krebs cycle out through both of the mitochondrial membranes"
+  ],
+  "correct": 0,
+  "explanation": "Most of the energy from glucose oxidation is captured in reduced NAD (10 per glucose) and reduced FAD (2). NADH diffuses to complex I on the matrix side of the inner membrane, donates 2 electrons (releasing H+) and becomes NAD+ again, ready to accept more hydrogen in the link reaction and Krebs cycle."
+}

@@ -1,0 +1,11 @@
+{
+  "q": "Which statement about respiration in plants is correct?",
+  "options": [
+    "Plants photosynthesise instead of respiring, so their cells can only produce ATP while light is available",
+    "Plants respire only at night, when photosynthesis stops and their leaves can finally absorb oxygen",
+    "All living plant cells respire day and night; in bright light, photosynthesis simply outpaces it",
+    "Only root cells respire, because leaf cells get all the ATP they need directly from their chloroplasts"
+  ],
+  "correct": 2,
+  "explanation": "Respiration and photosynthesis are not alternatives. Every living plant cell respires continuously: ATP made in chloroplasts is used mainly inside the chloroplast (Calvin cycle), and roots, stems and cells in darkness have no chloroplast ATP at all. In daylight the rate of photosynthesis usually exceeds respiration, so there is net O2 release and CO2 uptake; at the compensation point the two rates are equal."
+}

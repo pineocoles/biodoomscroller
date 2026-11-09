@@ -1,0 +1,11 @@
+{
+  "q": "Which feature of ATP synthase lets the energy of proton flow be converted into chemical energy in ATP?",
+  "options": [
+    "A rotor spins as H+ pass through, turning a stalk that reshapes the catalytic sites binding ADP + Pi",
+    "A gated channel opens only when ATP binds to it, letting electrons pass through into the matrix to O2",
+    "An active site uses reduced NAD as its substrate, transferring a phosphate group to ADP",
+    "A carrier protein exchanges ATP for O2 across the membrane each time a proton passes"
+  ],
+  "correct": 0,
+  "explanation": "ATP synthase is a molecular motor. Protons passing through the membrane-embedded part make it rotate; the attached stalk turns inside the catalytic head, cycling each active site through shapes that bind ADP + Pi, join them into ATP, then release the ATP. Roughly 3–4 H+ pass through for every ATP made."
+}

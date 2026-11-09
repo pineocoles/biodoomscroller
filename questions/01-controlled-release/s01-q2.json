@@ -1,0 +1,11 @@
+{
+  "q": "A student writes: 'Cell respiration produces energy.' Which correction is most accurate?",
+  "options": [
+    "Respiration releases energy from organic compounds and transfers some of it to ATP",
+    "Respiration produces energy only when oxygen is present; anaerobic respiration releases none at all",
+    "Respiration produces glucose, and that glucose is then converted directly into usable energy",
+    "Respiration produces energy from ADP, because ADP is the cell's main long-term energy store"
+  ],
+  "correct": 0,
+  "explanation": "Energy is converted, never produced (conservation of energy). Respiration releases chemical potential energy stored in organic molecules (glucose, fatty acids, amino acids) and transfers roughly a third of it to ATP; the rest becomes heat. Anaerobic respiration also releases energy (2 ATP per glucose). In exams write 'releases energy' or 'produces ATP' – never 'produces energy'."
+}

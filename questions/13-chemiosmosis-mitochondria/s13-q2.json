@@ -1,0 +1,11 @@
+{
+  "q": "Oligomycin blocks the proton channel of ATP synthase. What happens to electron transport and O2 consumption in treated mitochondria?",
+  "options": [
+    "Both increase, because protons can no longer leak back into the matrix through ATP synthase",
+    "Both fall: the gradient grows until pumps can't push H+ against it, so electron flow slows",
+    "Electron transport carries on as normal, but oxygen consumption by complex IV stops completely",
+    "Neither changes at all; only the output of ATP from ATP synthase falls"
+  ],
+  "correct": 1,
+  "explanation": "Electron transport and ATP synthesis are coupled through the gradient. With H+ unable to return through ATP synthase, the gradient becomes so steep that pumping needs more energy than electron transfer releases; electron flow slows, NADH accumulates and O2 use falls (respiratory control). Adding an uncoupler such as DNP restarts O2 use – but without ATP synthesis."
+}

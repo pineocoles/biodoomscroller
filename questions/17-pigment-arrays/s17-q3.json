@@ -1,0 +1,11 @@
+{
+  "q": "What is the advantage of each reaction centre being served by hundreds of antenna pigment molecules?",
+  "options": [
+    "Photons are caught over a wide area and funnelled in, so the reaction centre is excited far more often",
+    "Each antenna molecule produces its own excited electron, so hundreds of NADP+ are reduced per photon absorbed",
+    "It reduces the number of photons needed to split each water molecule from four all the way down to zero",
+    "It allows the reaction centre to keep working normally even though the reaction centre contains no chlorophyll"
+  ],
+  "correct": 0,
+  "explanation": "A single chlorophyll molecule absorbs only a few photons per second, even in bright light. By collecting energy from hundreds of antenna pigments via resonance transfer, the reaction centre receives energy fast enough to keep electron flow – and photosynthesis – running efficiently, especially in dim light."
+}

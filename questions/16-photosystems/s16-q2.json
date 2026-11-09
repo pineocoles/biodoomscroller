@@ -1,0 +1,11 @@
+{
+  "q": "What is the key difference between the reaction centre and the other pigment molecules in a photosystem?",
+  "options": [
+    "Only the reaction centre absorbs light; the antenna pigments are colourless proteins that hold it in place",
+    "Only the reaction centre emits excited electrons to an acceptor; antenna pigments just pass energy on",
+    "The reaction centre contains only carotenoids, whereas antenna pigments are all chlorophyll a",
+    "The reaction centre makes ATP directly when excited, whereas the antenna makes NADPH"
+  ],
+  "correct": 1,
+  "explanation": "Antenna (light-harvesting) complexes contain hundreds of pigment molecules – chlorophyll a and b and carotenoids – that funnel energy inwards. The reaction centre is a special pair of chlorophyll a molecules (P680 in PSII, P700 in PSI) held by proteins next to a primary electron acceptor, so it can donate an excited electron. It is then left oxidised (P680+ or P700+) and must be refilled."
+}

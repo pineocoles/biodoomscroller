@@ -1,0 +1,11 @@
+{
+  "q": "An athlete's blood lactate stays low as exercise intensity rises, then increases sharply above about 60% of maximum effort. What does the sharp rise indicate?",
+  "options": [
+    "Aerobic respiration has stopped completely, so all of the muscles' ATP now comes from glycolysis",
+    "O2 supply can't meet ATP demand, so anaerobic respiration increasingly supplements aerobic",
+    "The liver has begun making lactate and releasing it into the blood to fuel the muscles",
+    "Muscles have switched to respiring lipids, which release lactate as a by-product"
+  ],
+  "correct": 1,
+  "explanation": "This is the lactate threshold. Below it, lactate production is matched by removal. Above it, ATP demand exceeds what aerobic respiration can supply (limited by O2 delivery and mitochondrial capacity), so more pyruvate is converted to lactate to regenerate NAD+. Aerobic respiration continues – anaerobic is added on top. Lipids are respired only aerobically and never produce lactate."
+}
