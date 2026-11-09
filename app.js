@@ -1,31 +1,54 @@
 // ============================================================
-// chemdoomscroller — feed engine
+// biodoomscroller — feed engine
 // ============================================================
+
+// ---------------- SETTINGS (edit these) ----------------
+// Comment-section GIFs come from GIPHY (Google shut down the Tenor API on June 30, 2026).
+// To turn them on, paste your free GIPHY API key between the quotes below.
+// Get one at https://developers.giphy.com → "Create an App" → choose "API".
+// Until a key is added (or if GIPHY can't be reached), the images in /images are used instead.
+const GIPHY_API_KEY = "";
+const GIF_SEARCH_TERMS = ["kirk", "epstein", "angry birds", "biology", "gng", "meme"];
+const GIF_RATING = "pg"; // GIPHY content rating: "g", "pg", "pg-13" or "r"
+// --------------------------------------------------------
 
 const LEADERBOARD_URL = "https://script.google.com/macros/s/AKfycbyls0UQHIBX6tDIZ7Fyo9Q0qU50j8w9kIrIaAVAYK4QuJ0PMJfwkezshYwfuuI5pWk3/exec";
 
 async function loadLeaderboard() {
   const list = document.getElementById("leaderboard-list");
+  const showMessage = text => {
+    list.innerHTML = "";
+    const li = document.createElement("li");
+    li.className = "lb-msg";
+    li.textContent = text;
+    list.appendChild(li);
+  };
 
   try {
     const res = await fetch(LEADERBOARD_URL);
     const data = await res.json();
-
-    list.innerHTML = "";
+    if (!Array.isArray(data)) throw new Error("unexpected leaderboard response");
 
     if (!data.length) {
-      list.innerHTML = "<li>No scores yet</li>";
+      showMessage("no scores yet — be the first");
       return;
     }
 
-    data.forEach(p => {
+    list.innerHTML = "";
+    data.slice(0, 5).forEach(p => {
       const li = document.createElement("li");
-      li.textContent = `${p.name} — ${p.score}`;
+      const name = document.createElement("span");
+      name.className = "lb-name";
+      name.textContent = p.name;
+      const score = document.createElement("span");
+      score.className = "lb-score";
+      score.textContent = p.score;
+      li.append(name, score);
       list.appendChild(li);
     });
 
   } catch (e) {
-    list.innerHTML = "<li>Failed to load</li>";
+    showMessage("couldn't load scores");
     console.error(e);
   }
 }
@@ -63,14 +86,14 @@ const RXN_IMAGES = [
   "images/page_8_image_1.png",
 ];
 const COMMENT_USERS = [
-  { emoji: '🧪', name: 'chem.nerd42',    time: '2h',  likes: 14 },
-  { emoji: '⚗️', name: 'labrat.irl',     time: '5h',  likes: 7  },
-  { emoji: '🔬', name: 'molecula_99',    time: '1d',  likes: 31 },
-  { emoji: '🧬', name: 'organic.only',   time: '3d',  likes: 4  },
-  { emoji: '⚡', name: 'rxn.enjoyer',    time: '1w',  likes: 89 },
-  { emoji: '🌡️', name: 'thermo.king',   time: '2w',  likes: 22 },
-  { emoji: '🧫', name: 'petri.dish.fan', time: '3w',  likes: 55 },
-  { emoji: '🔭', name: 'sciencegirl_7',  time: '1mo', likes: 103},
+  { emoji: '🧬', name: 'dna.nerd42',       time: '2h',  likes: 14 },
+  { emoji: '🐀', name: 'labrat.irl',       time: '5h',  likes: 7  },
+  { emoji: '🔋', name: 'mitochondria.fan', time: '1d',  likes: 31 },
+  { emoji: '🍃', name: 'chloroplast.kid',  time: '3d',  likes: 4  },
+  { emoji: '⚡', name: 'atp.enjoyer',      time: '1w',  likes: 89 },
+  { emoji: '🔄', name: 'krebs.cycler',     time: '2w',  likes: 22 },
+  { emoji: '🧫', name: 'petri.dish.fan',   time: '3w',  likes: 55 },
+  { emoji: '🔬', name: 'sciencegirl_7',    time: '1mo', likes: 103},
 ];
 const STORAGE = {
   filters: "chemdoom.filters",
@@ -300,9 +323,9 @@ function buildCard(entry, data, isPlaceholder) {
 
       <article class="meta_container">
         <div class="author">
-          <figure class="figure avatar-initials" aria-hidden="true">Cl</figure>
+          <figure class="figure avatar-initials" aria-hidden="true">Bio</figure>
           <div class="author_artist-container">
-            <div class="reel_author">chemdoom</div>
+            <div class="reel_author">biodoom</div>
             <button type="button" class="follow_btn">Follow</button>
           </div>
         </div>
@@ -367,19 +390,82 @@ function buildCard(entry, data, isPlaceholder) {
 }
 
 // ============================================================
-// comment sheet
+// comment sheet — random GIFs from GIPHY (see SETTINGS at the top)
 // ============================================================
+const gifCache = new Map();  // search term -> GIFs; each term is fetched at most once per visit
+let commentSheetOpenId = 0;  // lets us ignore a slow response from an earlier open
+
+function shuffled(arr) {
+  const a = [...arr];
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+}
+
+async function fetchGifs(term) {
+  if (gifCache.has(term)) return gifCache.get(term);
+  const params = new URLSearchParams({ api_key: GIPHY_API_KEY.trim(), q: term, limit: "25", rating: GIF_RATING, lang: "en" });
+  const controller = new AbortController();
+  const timer = setTimeout(() => controller.abort(), 6000);
+  try {
+    const res = await fetch(`https://api.giphy.com/v1/gifs/search?${params}`, { signal: controller.signal });
+    if (!res.ok) throw new Error(`GIPHY responded ${res.status}`);
+    const json = await res.json();
+    const gifs = (Array.isArray(json.data) ? json.data : []).map(g => {
+      const r = g.images && (g.images.fixed_width || g.images.downsized || g.images.original);
+      const src = r && (r.webp || r.url);
+      if (!src || !/^https:\/\//.test(src)) return null;
+      return { src, width: Number(r.width) || 200, height: Number(r.height) || 150, alt: g.title || `${term} GIF` };
+    }).filter(Boolean);
+    gifCache.set(term, gifs);
+    return gifs;
+  } finally {
+    clearTimeout(timer);
+  }
+}
+
+// pick a random search term and return `count` random GIFs for it
+// (tries a second term if the first has no results)
+async function randomGifs(count) {
+  for (const term of shuffled(GIF_SEARCH_TERMS).slice(0, 2)) {
+    const gifs = shuffled(await fetchGifs(term));
+    if (gifs.length) return Array.from({ length: count }, (_, i) => gifs[i % gifs.length]);
+  }
+  return [];
+}
+
+function showGif(img, gif, fallbackSrc) {
+  img.onerror = () => showLocalImage(img, fallbackSrc); // a broken GIF falls back to a local image
+  img.style.aspectRatio = `${gif.width} / ${gif.height}`;
+  img.alt = gif.alt;
+  img.src = gif.src;
+  img.classList.remove("is-loading");
+}
+
+function showLocalImage(img, src) {
+  img.onerror = null;
+  img.style.aspectRatio = "";
+  img.alt = "reaction image";
+  img.src = src;
+  img.classList.remove("is-loading");
+}
+
 function openCommentSheet() {
   const list = document.getElementById("commentList");
+  const credit = document.getElementById("gifCredit");
+  const openId = ++commentSheetOpenId;
   list.innerHTML = "";
+  credit.hidden = true;
 
-  // shuffle both arrays independently so images and users are random each open
-  const imgs  = [...RXN_IMAGES].sort(() => Math.random() - 0.5);
-  const users = [...COMMENT_USERS].sort(() => Math.random() - 0.5);
-  const count = Math.min(imgs.length, users.length);
+  // shuffle users and local images independently so each open is different
+  const users = shuffled(COMMENT_USERS);
+  const localImages = shuffled(RXN_IMAGES);
+  const useGiphy = GIPHY_API_KEY.trim() !== "";
+  const images = [];
 
-  for (let i = 0; i < count; i++) {
-    const u  = users[i];
+  for (const u of users) {
     const li = document.createElement("li");
     li.className = "comment";
     li.innerHTML = `
@@ -389,7 +475,7 @@ function openCommentSheet() {
           <span class="comment-username">${u.name}</span>
           <span class="comment-timestamp">${u.time}</span>
         </div>
-        <img class="comment-image" src="${imgs[i]}" alt="reaction image" loading="lazy" />
+        <img class="comment-image" alt="reaction image" loading="lazy" />
         <div class="comment-actions">
           <button class="btn-reply" type="button">Reply</button>
         </div>
@@ -406,10 +492,32 @@ function openCommentSheet() {
     li.querySelector(".like-icon").addEventListener("click", function() {
       toggleCommentLike(this);
     });
+    const img = li.querySelector(".comment-image");
+    if (useGiphy) {
+      img.classList.add("is-loading"); // grey placeholder box until the GIF arrives
+      img.style.aspectRatio = "4 / 3";
+    } else {
+      img.src = localImages[images.length % localImages.length];
+    }
+    images.push(img);
     list.appendChild(li);
   }
 
   openSheet(document.getElementById("commentSheet"));
+  if (!useGiphy) return;
+
+  randomGifs(images.length)
+    .then(gifs => {
+      if (openId !== commentSheetOpenId) return; // the sheet was reopened meanwhile
+      if (!gifs.length) throw new Error("no GIFs found");
+      images.forEach((img, i) => showGif(img, gifs[i], localImages[i % localImages.length]));
+      credit.hidden = false;
+    })
+    .catch(err => {
+      if (openId !== commentSheetOpenId) return;
+      console.warn("GIFs unavailable, using local images instead:", err);
+      images.forEach((img, i) => showLocalImage(img, localImages[i % localImages.length]));
+    });
 }
 
 function toggleCommentLike(btn) {
@@ -569,13 +677,6 @@ function resetFeed() {
 function attachScrollObserver() {
   const feed = document.getElementById("feed");
   feed.addEventListener("scroll", () => {
-    const lb = document.getElementById("leaderboard");
-
-    if (feed.scrollTop > window.innerHeight * 0.5) {
-      lb.classList.add("hidden");
-    } else {
-      lb.classList.remove("hidden");
-    }
     const scrollPos = feed.scrollTop;
     const viewportH = window.innerHeight;
     const totalH = feed.scrollHeight;
@@ -671,9 +772,7 @@ loadLeaderboard();
 
 boot();
 
+// submit the CURRENT streak (it used to send the streak from when the page first loaded)
 document.getElementById("submit-score").addEventListener("click", () => {
-  const score = window.currentScore || 0;
-  submitScore(score);
+  submitScore(state.streak);
 });
-
-window.currentScore = state.streak;

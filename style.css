@@ -1,5 +1,5 @@
 /* =========================================================
-   chemdoomscroller — dark editorial × lab-tape aesthetic
+   biodoomscroller — dark editorial × lab-tape aesthetic
    ========================================================= */
 
 :root {
@@ -162,12 +162,12 @@ body {
 .splash {
   display: flex;
   flex-direction: column;
-  padding: calc(var(--safe-top) + 90px) 22px calc(var(--safe-bot) + 30px);
+  padding: calc(var(--safe-top) + 76px) 22px calc(var(--safe-bot) + 24px);
   justify-content: center;
   align-items: center;
   text-align: center;
 }
-.splash-inner { display: flex; flex-direction: column; align-items: center; gap: 18px; }
+.splash-inner { display: flex; flex-direction: column; align-items: center; gap: 14px; width: 100%; }
 .brand-mark {
   width: 72px; height: 72px;
   border: 2px solid var(--accent);
@@ -175,7 +175,7 @@ body {
   display: grid; place-items: center;
   font-family: var(--font-display);
   font-weight: 900;
-  font-size: 32px;
+  font-size: 26px;
   border-radius: 4px;
   transform: rotate(-4deg);
   margin-bottom: 8px;
@@ -196,7 +196,7 @@ body {
   margin-top: 4px;
 }
 .swipe-hint {
-  margin-top: 60px;
+  margin-top: 6px;
   color: var(--ink-dim);
   font-size: 12px;
   text-transform: uppercase;
@@ -243,10 +243,10 @@ body {
 /* question content — fills the card, padded so it doesn't sit behind the caption */
 .top {
   position: absolute;
-  top: calc(var(--safe-top) + 58px);
+  top: calc(var(--safe-top) + 72px); /* just below the top bar + progress line */
   left: 16px;
-  right: 60px; /* leave room for sidebar */
-  bottom: 120px; /* leave room for collapsed caption + author */
+  right: 48px; /* leave room for the sidebar icons (28px wide + 8px edge) */
+  bottom: 116px; /* leave room for the author row + 1-line caption */
   display: flex;
   flex-direction: column;
   justify-content: safe center; /* vertically center; "safe" stops iOS clipping on overflow */
@@ -427,47 +427,44 @@ body {
   font-family: var(--font-mono);
   font-size: 11px;
   color: var(--ink-dimmer);
-  margin-top: 10px;
+  margin-top: 8px;
   letter-spacing: 0.15em;
 }
 
+/* text scales with BOTH screen width and height, so whole questions fit on small phones */
 .q-card .q-text {
   font-family: var(--font-display);
   font-weight: 500;
-  font-size: clamp(22px, 6vw, 30px);
-  line-height: 1.25;
+  font-size: 21px; /* fallback for older browsers */
+  font-size: clamp(18px, min(5.3vw, 2.75dvh), 28px);
+  line-height: 1.22;
   letter-spacing: -0.01em;
-  margin-top: 12px;
+  margin-top: 10px;
   flex-shrink: 1;
 }
 
 .q-card .options {
-  margin-top: 14px;
+  margin-top: 12px;
   display: flex;
   flex-direction: column;
-  gap: 10px;
+  gap: 8px;
 }
-#leaderboard.hidden {
-  opacity: 0;
-  transform: translateY(-20px);
-  pointer-events: none;
-  transition: all 0.3s ease;
-}
-
 .option {
   background: var(--bg-card);
   border: 1px solid var(--border-strong);
   color: var(--ink);
-  padding: 16px 18px;
+  padding: 10px 14px;
   border-radius: 8px;
   font-family: var(--font-mono);
-  font-size: 15px;
+  font-size: 14px; /* fallback for older browsers */
+  font-size: clamp(13px, min(3.75vw, 1.95dvh), 15px);
+  line-height: 1.35;
   text-align: left;
   cursor: pointer;
-  min-height: 58px;
+  min-height: 48px;
   display: flex;
   align-items: center;
-  gap: 14px;
+  gap: 12px;
   transition: transform 0.1s ease, background 0.15s ease, border-color 0.15s ease;
 }
 .option:active { transform: scale(0.985); }
@@ -476,8 +473,8 @@ body {
   font-weight: 700;
   font-style: italic;
   color: var(--accent);
-  font-size: 18px;
-  width: 22px;
+  font-size: 17px;
+  width: 18px;
   flex-shrink: 0;
 }
 .option.correct {
@@ -504,10 +501,10 @@ body {
   text-shadow: 0 1px 3px rgba(0,0,0,0.6);
 }
 
-/* collapsed: only 2 lines visible */
+/* collapsed: only 1 line visible (tap "more" to expand) */
 .caption-text.caption-collapsed {
   display: -webkit-box;
-  -webkit-line-clamp: 2;
+  -webkit-line-clamp: 1;
   -webkit-box-orient: vertical;
 }
 
@@ -605,7 +602,8 @@ body {
 
 .feedback-explanation {
   font-family: var(--font-display);
-  font-size: 17px;
+  font-size: 16px; /* fallback for older browsers */
+  font-size: clamp(15px, min(4.3vw, 2.2dvh), 17px);
   line-height: 1.45;
   color: var(--ink);
   margin-bottom: 18px;
@@ -769,8 +767,11 @@ body {
   max-width: 200px;
   width: 100%;
   display: block;
+  object-fit: cover;
   background: #3a3a3c;
 }
+.comment-image.is-loading { animation: gif-pulse 1.2s ease-in-out infinite; }
+@keyframes gif-pulse { 50% { opacity: 0.55; } }
 
 .comment-actions {
   display: flex;
@@ -884,20 +885,91 @@ body {
 }
 .btn-sticker:hover { opacity: 1; }
 
-#leaderboard {
-  position: sticky;
-  top: 0;
-  z-index: 1000;
-
-  background: var(--bg, #0f0f0f);
-  padding: 16px 12px;
-
+/* =========================================================
+   LEADERBOARD — a card inside the splash screen
+   ========================================================= */
+.leaderboard {
+  width: min(100%, 320px);
+  background: var(--bg-elev);
+  border: 1px solid var(--border-strong);
+  border-radius: 12px;
+  padding: 14px 16px 16px;
+  text-align: left;
+}
+.lb-title {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin-bottom: 6px;
+}
+.lb-list { list-style: none; counter-reset: lb; margin-bottom: 12px; }
+.lb-list li {
+  counter-increment: lb;
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  text-align: center;
+  align-items: baseline;
+  gap: 10px;
+  padding: 6px 0;
+  border-bottom: 1px solid var(--border);
+  font-family: var(--font-mono);
+  font-size: 14px;
+}
+.lb-list li:last-child { border-bottom: none; }
+.lb-list li::before { content: counter(lb); width: 14px; font-size: 12px; color: var(--ink-dimmer); }
+.lb-list li.lb-msg { color: var(--ink-dim); }
+.lb-list li.lb-msg::before { content: none; }
+.lb-name { flex: 1; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.lb-score { color: var(--accent); font-weight: 700; }
+.lb-form { display: flex; gap: 8px; }
+.lb-form input {
+  flex: 1;
+  min-width: 0;
+  height: 44px;
+  padding: 0 12px;
+  background: var(--bg-card);
+  border: 1px solid var(--border-strong);
+  border-radius: 8px;
+  color: var(--ink);
+  font-family: var(--font-mono);
+  font-size: 16px; /* 16px+ stops iPhones zooming in when the box is tapped */
+}
+.lb-form input::placeholder { color: var(--ink-dimmer); }
+.lb-form input:focus { outline: none; border-color: var(--accent); }
+.lb-form button {
+  height: 44px;
+  padding: 0 14px;
+  background: var(--accent);
+  color: var(--accent-ink);
+  border: none;
+  border-radius: 8px;
+  font-family: var(--font-mono);
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  white-space: nowrap;
+  cursor: pointer;
+  transition: transform 0.1s ease;
+}
+.lb-form button:active { transform: scale(0.97); }
 
-  border-bottom: 1px solid rgba(255,255,255,0.08);
+/* short phones: shrink the splash header so the leaderboard still fits */
+@media (max-height: 700px) {
+  .splash { padding-top: calc(var(--safe-top) + 68px); }
+  .brand-mark { width: 54px; height: 54px; font-size: 20px; margin-bottom: 2px; }
+  .brand { font-size: 38px; }
+}
+
+/* GIPHY credit under the comments (required when showing GIPHY GIFs) */
+.gif-credit {
+  text-align: center;
+  font-family: var(--font-mono);
+  font-size: 11px;
+  letter-spacing: 0.08em;
+  color: rgba(235,235,245,0.45);
+  padding: 2px 16px 8px;
 }
 /* theme toggle */
 .theme-toggle-section {
@@ -955,3 +1027,20 @@ body {
 }
 
 #sentinel { position: absolute; bottom: 200vh; width: 1px; height: 1px; }
+
+/* =========================================================
+   SHORT OR NARROW PHONES (iPhone SE, small Androids) — compact cards so whole questions fit
+   ========================================================= */
+@media (max-height: 700px), (max-width: 370px) {
+  .top { top: calc(var(--safe-top) + 70px); bottom: 104px; }
+  .q-card .q-number { margin-top: 5px; }
+  .q-card .q-text {
+    font-size: clamp(16px, min(4.9vw, 2.55dvh), 22px);
+    line-height: 1.2;
+    margin-top: 8px;
+  }
+  .q-card .options { margin-top: 10px; gap: 6px; }
+  .option { padding: 8px 12px; min-height: 44px; line-height: 1.27; }
+  .author { margin-bottom: 0.35rem; }
+  .avatar-initials { width: 32px; height: 32px; font-size: 13px; }
+}
